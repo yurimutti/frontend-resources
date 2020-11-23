@@ -77,7 +77,7 @@
 [Color-hex](https://www.color-hex.com)  
 [Coolors](https://coolors.co)  
 [Colorfavs](http://www.colorfavs.com)  
-[ColorZilla(https://www.colorzilla.com)  
+[ColorZilla](https://www.colorzilla.com)  
 [colourco.de](https://colourco.de)  
 [ColorSuply](https://colorsupplyyy.com/app) 
 [Flat Ui Colors](https://flatuicolors.com)  
