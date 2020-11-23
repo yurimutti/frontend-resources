@@ -153,6 +153,7 @@
 [JSchallenger](https://www.jschallenger.com/)  
 [JSBeginners](https://jsbeginners.com/)  
 [Codier](https://codier.io/)  
+[WoMakersCode Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end)  
 ## CHROME WEB STORE 
 [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR)  
 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR)  
