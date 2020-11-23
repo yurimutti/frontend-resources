@@ -73,7 +73,6 @@
 [Color-hex](https://www.color-hex.com)  
 [Coolors](https://coolors.co)  
 [Colorfavs](http://www.colorfavs.com)  
-[ColorZilla](https://www.colorzilla.com)   
 [colourco.de](https://colourco.de)  
 [ColorSuply](https://colorsupplyyy.com/app)  
 ## ILUSTRAÇÕES
@@ -124,11 +123,19 @@
 ## IMAGENS
 [Unsplash](https://unsplash.com)  
 [Pexels](https://www.pexels.com)  
-[Freepik](https://br.freepik.com/)  
-[pixabay](https://pixabay.com/)  
+[Freepik](https://br.freepik.com)  
+[pixabay](https://pixabay.com)
+## CHROME WEB STORE 
+[GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR)
+[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR)
+[ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt-BR)
+[JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=pt-BR)
+[Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR)
+[Loom for Chrome](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb?hl=pt-BR)
+[Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=pt-BR)
 ## PLACEHOLDER
 [Placeholder](https://placeholder.com)    
 [Placekitten](https://placekitten.com)    
 [Lorempixel](http://lorempixel.com)    
 ## REMOVE BACKGROUND
-[remove](https://www.remove.bg)  
+[remove.bg](https://www.remove.bg)  
