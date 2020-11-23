@@ -17,7 +17,8 @@
 [CSS Formatter](https://www.cleancss.com/css-beautify)  
 [CSS Validation Service](https://jigsaw.w3.org/css-validator)  
 [Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow)  
-[How To Center](http://howtocenterincss.com)  
+[How To Center](http://howtocenterincss.com)
+[Contrast Ratio](https://contrast-ratio.com/)
 ## JAVASCRIPT
 [Referência JavaScript da MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference)  
 [Referência de Eventos JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/Events)  
@@ -64,7 +65,8 @@
 [Streamline UX](https://www.streamlineicons.com/ux/)  
 [Steamline Free](https://www.streamlineicons.com/free/)  
 [Tabler Icons](https://tablericons.com/)  
-[Newsbi Icon Pack](https://gumroad.com/l/lfdy)  
+[Newsbi Icon Pack](https://gumroad.com/l/lfdy)
+[Simple Icons](https://simpleicons.org/)
 ## CORES
 [Adobe Color](https://color.adobe.com/pt/create/color-wheel)    
 [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)  
@@ -167,4 +169,9 @@
 [Placekitten](https://placekitten.com)      
 [Lorempixel](http://lorempixel.com)   
 ## REMOVE BACKGROUND
-[remove.bg](https://www.remove.bg)  
+[remove.bg](https://www.remove.bg)
+## INSPIRAÇÔES
+[Site Inspire](https://siteinspire.com)
+[One Page Love](https://onepagelove.com)
+[Awwwards](awwwards.com)
+[Httpster](https://httpster.net/2020/apr/)
