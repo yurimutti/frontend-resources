@@ -29,7 +29,7 @@
 [Modular Scale](https://www.modularscale.com)
 [Google Fonts](https://fonts.google.com)  
 [Adobe Fonts](https://fonts.adobe.com)  
-[Font Combinations/](https://www.canva.com/font-combinations)    
+[Font Combinations](https://www.canva.com/font-combinations)    
 [FontSquirrel](https://www.fontsquirrel.com)    
 [transfonter](https://transfonter.org)  
 ## ÍCONES
