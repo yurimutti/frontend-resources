@@ -17,14 +17,21 @@
 [CSS Validation Service](https://jigsaw.w3.org/css-validator)  
 [Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow)  
 ## JAVASCRIPT
+[Referência JavaScript da MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference)  
+[Referência de Eventos JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/Events)  
+[Swiper](https://swiperjs.com)  
+[three.js](https://threejs.org)  
+[Microjs](http://microjs.com/)  
 ## FONTES
 [FontPair](https://fontpair.co)  
 [Typechem](https://typechem.herokuapp.com)  
 [CSS Font Stack](https://www.cssfontstack.com)  
+[Modular Scale](https://www.modularscale.com)
 [Google Fonts](https://fonts.google.com)  
 [Adobe Fonts](https://fonts.adobe.com)  
-[Font Combinations/](https://www.canva.com/font-combinations)  
-[FontSquirrel](https://www.fontsquirrel.com)  
+[Font Combinations/](https://www.canva.com/font-combinations)    
+[FontSquirrel](https://www.fontsquirrel.com)    
+[transfonter](https://transfonter.org)  
 ## ÍCONES
 [Favicon Generator](https://realfavicongenerator.net)  
 [Noun Project](https://thenounproject.com)  
@@ -114,4 +121,14 @@
 [Ara Illustration](https://www.aracreator.com/)  
 [3000 Hands](https://www.shapefest.com/expansions/3000-hands)  
 [GetIllustrations.com](https://www.getillustrations.com/illustration-packs/freebie)
-## CURSOS GRATUITOS
+## IMAGENS
+[Unsplash](https://unsplash.com)  
+[Pexels](https://www.pexels.com)  
+[Freepik](https://br.freepik.com/)  
+[pixabay](https://pixabay.com/)  
+## PLACEHOLDER
+[Placeholder](https://placeholder.com)    
+[Placekitten](https://placekitten.com)    
+[Lorempixel](http://lorempixel.com)    
+## REMOVE BACKGROUND
+[remove](https://www.remove.bg)  
