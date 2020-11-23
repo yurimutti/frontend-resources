@@ -12,17 +12,20 @@
 [Can I Use](https://caniuse.com)  
 [Animate.css](https://animate.style)  
 [Easing functions](https://easings.net)  
-[CSS Gradient](https://cssgradient.io/?fbclid=IwAR0dQD8FCAVJAgzq9p-TgNZn9SkLXgoJrL41XOkzL7eETZ0f6NA7xpPJglo)  
-[CSS Battle](https://cssbattle.dev)  
+[CSS Gradient](https://cssgradient.io/?fbclid=IwAR0dQD8FCAVJAgzq9p-TgNZn9SkLXgoJrL41XOkzL7eETZ0f6NA7xpPJglo) 
+[Autoprefixer](http://autoprefixer.github.io) 
+[CSS Formatter](https://www.cleancss.com/css-beautify)  
 [CSS Validation Service](https://jigsaw.w3.org/css-validator)  
 [Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow)  
+[How To Center](http://howtocenterincss.com)  
 ## JAVASCRIPT
 [Referência JavaScript da MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference)  
 [Referência de Eventos JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/Events)  
 [Swiper](https://swiperjs.com)  
 [three.js](https://threejs.org)  
 [Microjs](http://microjs.com/)  
-## FONTES
+[GreenSock](https://greensock.com/gsap)  
+## FONTES 
 [FontPair](https://fontpair.co)  
 [Typechem](https://typechem.herokuapp.com)  
 [CSS Font Stack](https://www.cssfontstack.com)  
@@ -66,6 +69,7 @@
 [Adobe Color](https://color.adobe.com/pt/create/color-wheel)    
 [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)  
 [Color Hunt](https://colorhunt.co)  
+[Design Seeds](https://www.design-seeds.com)  
 [uiGradients](https://uigradients.com)  
 [0to255](https://www.0to255.com)  
 [Scheme Color](https://www.schemecolor.com)  
@@ -73,9 +77,11 @@
 [Color-hex](https://www.color-hex.com)  
 [Coolors](https://coolors.co)  
 [Colorfavs](http://www.colorfavs.com)  
+[ColorZilla(https://www.colorzilla.com)  
 [colourco.de](https://colourco.de)  
-[ColorSuply](https://colorsupplyyy.com/app)  
-## ILUSTRAÇÕES
+[ColorSuply](https://colorsupplyyy.com/app) 
+[Flat Ui Colors](https://flatuicolors.com)  
+## ILUSTRAÇÕES / SVG
 [Undraw](https://undraw.co/)  
 [DrawKit](https://www.drawkit.io/)  
 [storytale.io](https://storytale.io/)  
@@ -128,7 +134,16 @@
 ## PERFORMANCE
 [WebPagetest](https://www.webpagetest.org)  
 [Image Analysis Tool](https://webspeedtest.cloudinary.com)  
-[GTmetrix](https://gtmetrix.com)  
+[GTmetrix](https://gtmetrix.com)    
+## CHALLENGES
+[Front-end Challenges](https://github.com/felipefialho/frontend-challenges)  
+[Frontend Mentor](https://www.frontendmentor.io/)  
+[DevChallenge](https://devchallenge.com.br/challenges/frontend)  
+[CSS Battle](https://cssbattle.dev)   
+[30 days CSS](https://30dayscss.vercel.app/challengesList)  
+[Edabit](https://edabit.com/challenges/javascript)  
+[JSchallenger](https://www.jschallenger.com/)  
+[JSBeginners](https://jsbeginners.com/)  
 ## CHROME WEB STORE 
 [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR)  
 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR)  
@@ -136,10 +151,10 @@
 [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=pt-BR)  
 [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR)  
 [Loom for Chrome](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb?hl=pt-BR)  
-[Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=pt-BR)  
+[Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=pt-BR)   
 ## PLACEHOLDER
 [Placeholder](https://placeholder.com)      
 [Placekitten](https://placekitten.com)      
-[Lorempixel](http://lorempixel.com)      
+[Lorempixel](http://lorempixel.com)   
 ## REMOVE BACKGROUND
-[remove.bg](https://www.remove.bg)    
+[remove.bg](https://www.remove.bg)  
