@@ -18,13 +18,13 @@
 [Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow)  
 ## JAVASCRIPT
 ## FONTES
-[FontPair](https://fontpair.co)
-[Typechem](https://typechem.herokuapp.com)
-[CSS Font Stack](https://www.cssfontstack.com)
-[Google Fonts](https://fonts.google.com)
-[Adobe Fonts](https://fonts.adobe.com)
-[Font Combinations/](https://www.canva.com/font-combinations)
-[FontSquirrel](https://www.fontsquirrel.com)
+[FontPair](https://fontpair.co)  
+[Typechem](https://typechem.herokuapp.com)  
+[CSS Font Stack](https://www.cssfontstack.com)  
+[Google Fonts](https://fonts.google.com)  
+[Adobe Fonts](https://fonts.adobe.com)  
+[Font Combinations/](https://www.canva.com/font-combinations)  
+[FontSquirrel](https://www.fontsquirrel.com)  
 ## ÍCONES
 [Favicon Generator](https://realfavicongenerator.net)  
 [Noun Project](https://thenounproject.com)  
