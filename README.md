@@ -84,9 +84,9 @@
 [Colorfavs](http://www.colorfavs.com)  
 [ColorZilla](https://www.colorzilla.com)  
 [colourco.de](https://colourco.de)  
-[ColorSuply](https://colorsupplyyy.com/app) 
-[Flat Ui Colors](https://flatuicolors.com)  
-[Color.review](https://color.review)   
+[ColorSuply](https://colorsupplyyy.com/app)   
+[Flat Ui Colors](https://flatuicolors.com)    
+[Color.review](https://color.review)     
 [Tint and Shade Generator](https://maketintsandshades.com)  
 [Contrast Ratio](https://contrast-ratio.com)  
 ## ILUSTRAÇÕES / SVG
