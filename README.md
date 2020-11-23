@@ -156,6 +156,13 @@
 [JSBeginners](https://jsbeginners.com/)  
 [Codier](https://codier.io/)  
 [WoMakersCode Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end)  
+## INSPIRAÇÔES
+[Dribbble](https://dribbble.com)  
+[CollectUI](https://collectui.com)  
+[Site Inspire](https://siteinspire.com)  
+[One Page Love](https://onepagelove.com)  
+[Awwwards](awwwards.com)  
+[Httpster](https://httpster.net/2020/apr/)  
 ## CHROME WEB STORE 
 [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR)  
 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR)  
@@ -170,10 +177,3 @@
 [Lorempixel](http://lorempixel.com)   
 ## REMOVE BACKGROUND
 [remove.bg](https://www.remove.bg)
-## INSPIRAÇÔES
-[Dribbble](https://dribbble.com)  
-[CollectUI](https://collectui.com)  
-[Site Inspire](https://siteinspire.com)  
-[One Page Love](https://onepagelove.com)  
-[Awwwards](awwwards.com)  
-[Httpster](https://httpster.net/2020/apr/)  
