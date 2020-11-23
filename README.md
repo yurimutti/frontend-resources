@@ -168,4 +168,9 @@
 [Placekitten](https://placekitten.com)      
 [Lorempixel](http://lorempixel.com)   
 ## REMOVE BACKGROUND
-[remove.bg](https://www.remove.bg)  
+[remove.bg](https://www.remove.bg)
+## INSPIRAÇÔES
+[Site Inspire](https://siteinspire.com)
+[One Page Love](https://onepagelove.com)
+[Awwwards](awwwards.com)
+[Httpster](https://httpster.net/2020/apr/)
