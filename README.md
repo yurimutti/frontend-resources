@@ -136,6 +136,8 @@
 [Ara Illustration](https://www.aracreator.com/)  
 [3000 Hands](https://www.shapefest.com/expansions/3000-hands)  
 [GetIllustrations.com](https://www.getillustrations.com/illustration-packs/freebie)
+[Avatar Generator](https://getavataaars.com/)
+[Logo Maker](https://www.brandcrowd.com/)
 ## IMAGENS
 [Unsplash](https://unsplash.com)    
 [Pexels](https://www.pexels.com)    
