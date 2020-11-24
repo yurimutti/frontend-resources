@@ -136,13 +136,16 @@
 [Ara Illustration](https://www.aracreator.com/)  
 [3000 Hands](https://www.shapefest.com/expansions/3000-hands)    
 [GetIllustrations.com](https://www.getillustrations.com/illustration-packs/freebie)  
-[Avatar Generator](https://getavataaars.com/)  
 [Logo Maker](https://www.brandcrowd.com/)  
 ## IMAGENS
 [Unsplash](https://unsplash.com)    
 [Pexels](https://www.pexels.com)    
 [Freepik](https://br.freepik.com)    
 [pixabay](https://pixabay.com)  
+## AVATARES
+[Avatar Generator](https://getavataaars.com)  
+[Random User Generator](https://randomuser.me)  
+[Ui Faces](https://uifaces.co)  
 ## PERFORMANCE
 [WebPagetest](https://www.webpagetest.org)  
 [Image Analysis Tool](https://webspeedtest.cloudinary.com)  
