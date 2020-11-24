@@ -156,7 +156,7 @@
 [JSBeginners](https://jsbeginners.com/)  
 [Codier](https://codier.io/)  
 [WoMakersCode Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end)  
-## INSPIRAÇÔES
+## INSPIRAÇÕES
 [Dribbble](https://dribbble.com)  
 [CollectUI](https://collectui.com)  
 [Site Inspire](https://siteinspire.com)  
