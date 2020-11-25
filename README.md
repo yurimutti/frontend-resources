@@ -191,6 +191,8 @@
 [Placeholder](https://placeholder.com)      
 [Placekitten](https://placekitten.com)      
 [Lorempixel](http://lorempixel.com)   
+## EMOJI
+[Get Emoji](https://getemoji.com/)  
 ## REMOVE BACKGROUND
 [remove.bg](https://www.remove.bg)
 ## EDITOR DE MARKDOWN
