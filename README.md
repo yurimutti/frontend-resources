@@ -146,7 +146,11 @@
 [Unsplash](https://unsplash.com)    
 [Pexels](https://www.pexels.com)    
 [Freepik](https://br.freepik.com)    
-[pixabay](https://pixabay.com)  
+[pixabay](https://pixabay.com) 
+[Responsive BreakPoints](https://www.responsivebreakpoints.com/)  
+## COMPRESSOR DE IMAGENS
+[websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/)  
+[TinyPNG](https://tinypng.com/)  
 ## AVATARES
 [Avatar Generator](https://getavataaars.com)  
 [Random User Generator](https://randomuser.me)  
@@ -155,6 +159,7 @@
 [WebPagetest](https://www.webpagetest.org)  
 [Image Analysis Tool](https://webspeedtest.cloudinary.com)  
 [GTmetrix](https://gtmetrix.com)    
+[PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=pt-br)   
 ## CHALLENGES
 [Front-end Challenges](https://github.com/felipefialho/frontend-challenges)  
 [Frontend Mentor](https://www.frontendmentor.io/)  
@@ -185,8 +190,5 @@
 [Placeholder](https://placeholder.com)      
 [Placekitten](https://placekitten.com)      
 [Lorempixel](http://lorempixel.com)   
-## COMPRESSOR DE IMAGENS
-[websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/)  
-[TinyPNG](https://tinypng.com/)  
 ## REMOVE BACKGROUND
 [remove.bg](https://www.remove.bg)
