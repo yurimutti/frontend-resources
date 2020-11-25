@@ -193,3 +193,5 @@
 [Lorempixel](http://lorempixel.com)   
 ## REMOVE BACKGROUND
 [remove.bg](https://www.remove.bg)
+## EDITOR DE MARKDOWN
+[StackEdit](https://stackedit.io)  
