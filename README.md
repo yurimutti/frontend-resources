@@ -17,8 +17,9 @@
 [CSS Formatter](https://www.cleancss.com/css-beautify)  
 [CSS Validation Service](https://jigsaw.w3.org/css-validator)  
 [Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow)  
-[How To Center](http://howtocenterincss.com)
-[Contrast Ratio](https://contrast-ratio.com/)
+[How To Center](http://howtocenterincss.com)  
+[Contrast Ratio](https://contrast-ratio.com/)  
+[cubic-bezier](https://cubic-bezier.com)  
 ## JAVASCRIPT
 [Referência JavaScript da MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference)  
 [Referência de Eventos JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/Events)  
@@ -26,6 +27,8 @@
 [three.js](https://threejs.org)  
 [Microjs](http://microjs.com/)  
 [GreenSock](https://greensock.com/gsap)  
+[regex101](https://regex101.com)  
+[You might not need jQuery](http://youmightnotneedjquery.com/)  
 ## FONTES 
 [FontPair](https://fontpair.co)  
 [Typechem](https://typechem.herokuapp.com)  
@@ -36,6 +39,7 @@
 [Font Combinations](https://www.canva.com/font-combinations)    
 [FontSquirrel](https://www.fontsquirrel.com)    
 [transfonter](https://transfonter.org)  
+[Just My Type](https://justmytype.co)  
 ## ÍCONES
 [Favicon Generator](https://realfavicongenerator.net)  
 [Noun Project](https://thenounproject.com)  
@@ -91,6 +95,7 @@
 [Color.review](https://color.review)     
 [Tint and Shade Generator](https://maketintsandshades.com)  
 [Contrast Ratio](https://contrast-ratio.com)  
+[Name that Color](https://chir.ag/projects/name-that-color/#6195ED)  
 ## ILUSTRAÇÕES / SVG
 [Undraw](https://undraw.co)  
 [DrawKit](https://www.drawkit.io)  
@@ -180,5 +185,8 @@
 [Placeholder](https://placeholder.com)      
 [Placekitten](https://placekitten.com)      
 [Lorempixel](http://lorempixel.com)   
+## COMPRESSOR DE IMAGENS
+[websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/)  
+[TinyPNG](https://tinypng.com/)  
 ## REMOVE BACKGROUND
 [remove.bg](https://www.remove.bg)
