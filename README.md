@@ -28,7 +28,9 @@
 [regex101](https://regex101.com)      
 [Swiper](https://swiperjs.com)      
 [three.js](https://threejs.org)      
-[You might not need jQuery](http://youmightnotneedjquery.com/)      
+[You might not need jQuery](http://youmightnotneedjquery.com/)     
+[Animate On Scroll](https://michalsnik.github.io/aos)  
+[Skrollr](https://prinzhorn.github.io/skrollr/)  
 ## FONTES 
 [Adobe Fonts](https://fonts.adobe.com)      
 [CSS Font Stack](https://www.cssfontstack.com)      
