@@ -143,11 +143,11 @@
 [Vector Creator](https://icons8.com/vector-creator/)  
 [Whoosh! Illustration Kit](https://www.ls.graphics/illustrations/whoosh)  
 ## IMAGENS
-[Freepik](https://br.freepik.com)    
-[Pexels](https://www.pexels.com)    
-[pixabay](https://pixabay.com) 
-[Responsive BreakPoints](https://www.responsivebreakpoints.com/)  
-[Unsplash](https://unsplash.com)    
+[Freepik](https://br.freepik.com)     
+[Pexels](https://www.pexels.com)      
+[pixabay](https://pixabay.com)     
+[Responsive BreakPoints](https://www.responsivebreakpoints.com/)    
+[Unsplash](https://unsplash.com)      
 ## COMPRESSOR DE IMAGENS
 [TinyPNG](https://tinypng.com/)
 [websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/)    
