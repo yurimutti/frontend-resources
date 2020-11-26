@@ -149,8 +149,8 @@
 [Responsive BreakPoints](https://www.responsivebreakpoints.com/)    
 [Unsplash](https://unsplash.com)      
 ## COMPRESSOR DE IMAGENS
-[TinyPNG](https://tinypng.com/)
-[websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/)    
+[TinyPNG](https://tinypng.com/)  
+[websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/)      
 ## AVATARES
 [Avatar Generator](https://getavataaars.com)  
 [Random User Generator](https://randomuser.me)  
