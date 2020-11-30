@@ -192,8 +192,8 @@
 [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR)  
 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR)  
 ## PLACEHOLDER
-[Lorempixel](http://lorempixel.com) 
-[Placeholder](https://placeholder.com)    
+[Lorempixel](http://lorempixel.com)  
+[Placeholder](https://placeholder.com)  
 [Placekitten](https://placekitten.com)   
 ## EMOJI
 [Get Emoji](https://getemoji.com/)
