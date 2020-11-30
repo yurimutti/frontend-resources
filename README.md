@@ -22,7 +22,8 @@
 [Referência CSS da MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)    
 ## JAVASCRIPT
 [Animate On Scroll](https://michalsnik.github.io/aos)  
-[GreenSock](https://greensock.com/gsap)    
+[GreenSock](https://greensock.com/gsap)   
+[Momentjs](https://momentjs.com)  
 [Microjs](http://microjs.com/)    
 [move.js](https://github.com/visionmedia/move.js)  
 [Referência de Eventos JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/Events)    
