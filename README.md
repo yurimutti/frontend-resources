@@ -7,6 +7,7 @@
 [Referência HTML da MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)    
 [Validador de código HTML](https://validator.w3.org)    
 ## CSS
+[animista](https://animista.net/)  
 [Animate.css](https://animate.style)    
 [Autoprefixer](http://autoprefixer.github.io)   
 [Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow)    
