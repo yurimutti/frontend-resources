@@ -32,6 +32,7 @@
 [Swiper](https://swiperjs.com)   
 [Skrollr](https://prinzhorn.github.io/skrollr/)   
 [three.js](https://threejs.org)  
+[vivus.js](https://maxwellito.github.io/vivus)  
 [velocityjs](http://velocityjs.org/)  
 [You might not need jQuery](http://youmightnotneedjquery.com/)     
 ## FONTES 
