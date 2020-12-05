@@ -21,13 +21,14 @@
 [cubic-bezier](https://cubic-bezier.com)    
 [Easing functions](https://easings.net)    
 [How To Center](http://howtocenterincss.com)    
-[Referência CSS da MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)    
+[Referência CSS da MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)  
 ## JAVASCRIPT
 [Animate On Scroll](https://michalsnik.github.io/aos)  
 [GreenSock](https://greensock.com/gsap)   
 [Momentjs](https://momentjs.com)  
 [Microjs](http://microjs.com/)    
 [move.js](https://github.com/visionmedia/move.js)  
+[Moving Letters](https://tobiasahlin.com/moving-letters/)
 [Referência de Eventos JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/Events)    
 [Referência JavaScript da MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference)     
 [regex101](https://regex101.com)      
@@ -36,7 +37,8 @@
 [three.js](https://threejs.org)  
 [vivus.js](https://maxwellito.github.io/vivus)  
 [velocityjs](http://velocityjs.org/)  
-[You might not need jQuery](http://youmightnotneedjquery.com/)     
+[You might not need jQuery](http://youmightnotneedjquery.com/)    
+
 ## FONTES 
 [Adobe Fonts](https://fonts.adobe.com)      
 [CSS Font Stack](https://www.cssfontstack.com)      
