@@ -28,7 +28,7 @@
 [Momentjs](https://momentjs.com)  
 [Microjs](http://microjs.com/)    
 [move.js](https://github.com/visionmedia/move.js)  
-[Moving Letters](https://tobiasahlin.com/moving-letters/)
+[Moving Letters](https://tobiasahlin.com/moving-letters/)  
 [Referência de Eventos JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/Events)    
 [Referência JavaScript da MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference)     
 [regex101](https://regex101.com)      
