@@ -206,4 +206,5 @@
 ## REMOVE BACKGROUND
 [remove.bg](https://www.remove.bg)
 ## EDITOR DE MARKDOWN
-[StackEdit](https://stackedit.io)
+[StackEdit](https://stackedit.io)  
+[Typora](https://typora.io/)  
