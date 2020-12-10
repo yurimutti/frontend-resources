@@ -208,3 +208,7 @@
 ## EDITOR DE MARKDOWN
 [StackEdit](https://stackedit.io)  
 [Typora](https://typora.io/)  
+## HOST GRATUITO  
+[Netlify](https://www.netlify.com/)  
+[InfinityFree](https://infinityfree.net/)  
+[000WebHost](https://br.000webhost.com/)  
