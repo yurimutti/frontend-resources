@@ -20,7 +20,7 @@
 [CSS Validation Service](https://jigsaw.w3.org/css-validator)    
 [cubic-bezier](https://cubic-bezier.com)    
 [Easing functions](https://easings.net)    
-[Fancy Birder Radius](https://9elements.github.io/fancy-border-radius/)  
+[Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)  
 [How To Center](http://howtocenterincss.com)    
 [Referência CSS da MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)  
 ## JAVASCRIPT
