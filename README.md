@@ -1,5 +1,9 @@
 ![Background do repositório](bg.png)
 
+Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊🏽
+Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois espaços no final). 
+
+
 ## HTML
 [Dive Into HTML5](https://diveintohtml5.com.br)    
 [HTML5 Boilerplate](https://html5boilerplate.com)   
