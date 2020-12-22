@@ -1,7 +1,7 @@
 ![Background do repositório](bg.png)
 
-Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊🏽
-Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois espaços no final). 
+Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊🏽  
+Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois espaços no final).   
 
 
 ## HTML
