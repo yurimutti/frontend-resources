@@ -159,9 +159,9 @@
 [Pexels](https://www.pexels.com)      
 [pixabay](https://pixabay.com)     
 [Responsive BreakPoints](https://www.responsivebreakpoints.com/)  
-[reshot](reshot.com⁣)  
+[reshot](https://reshot.com⁣)  
 [Unsplash](https://unsplash.com)     
-[kaboompics](kaboompics.com⁣)  
+[kaboompics](https://kaboompics.com/)  
 ## COMPRESSOR DE IMAGENS
 [TinyPNG](https://tinypng.com/)  
 [websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/)      
