@@ -153,9 +153,9 @@
 [Vector Creator](https://icons8.com/vector-creator/)  
 [Whoosh! Illustration Kit](https://www.ls.graphics/illustrations/whoosh)  
 ## IMAGENS
-[everypixel](everypixel.com⁣)  
+[everypixel](https://everypixel.com⁣)  
 [Freepik](https://br.freepik.com)  
-[isorepublic](isorepublic.com⁣)  
+[isorepublic](https://isorepublic.com⁣)  
 [Pexels](https://www.pexels.com)      
 [pixabay](https://pixabay.com)     
 [Responsive BreakPoints](https://www.responsivebreakpoints.com/)  
