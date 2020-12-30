@@ -9,7 +9,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [HTML5 Boilerplate](https://html5boilerplate.com)   
 [Índice de elementos HTML](http://html5doctor.com/element-index)    
 [Referência HTML da MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)    
-[Validador de código HTML](https://validator.w3.org)    
+[Validador de código HTML](https://validator.w3.org)   
 ## CSS
 [animista](https://animista.net/)  
 [Animate.css](https://animate.style)    
@@ -178,7 +178,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Image Analysis Tool](https://webspeedtest.cloudinary.com)  
 [PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=pt-br)   
 [WebPagetest](https://www.webpagetest.org)  
-## CHALLENGES
+## DESAFIOS
 [30 days CSS](https://30dayscss.vercel.app/challengesList)  
 [Codier](https://codier.io/)  
 [CSS Battle](https://cssbattle.dev)   
@@ -197,6 +197,15 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [interfacely](https://www.instagram.com/interfacely/)  
 [One Page Love](https://onepagelove.com)  
 [Site Inspire](https://siteinspire.com)  
+## TEMPLATES HTML/CSS
+[BootsWatch](https://bootswatch.com/)  
+[Free-CSS](https://www.free-css.com/)  
+[FreeHTML5](https://freehtml5.co/)  
+[HTML5Up](https://html5up.net/)  
+[HTML5xCSS3](https://www.html5xcss3.com/)  
+[OnePageLove](https://onepagelove.com/)  
+[Templatemo](https://templatemo.com/)  
+[W3Layouts](https://w3layouts.com/)  
 ## CHROME WEB STORE 
 [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt-BR)   
 [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR)  
