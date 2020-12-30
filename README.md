@@ -227,6 +227,9 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [StackEdit](https://stackedit.io)  
 [Typora](https://typora.io/)  
 ## HOST GRATUITO  
+[000WebHost](https://br.000webhost.com/)  
+[Github Pages](https://pages.github.com/)  
+[Heroku](https://www.heroku.com/)   
 [InfinityFree](https://infinityfree.net/)  
 [Netlify](https://www.netlify.com/)  
-[000WebHost](https://br.000webhost.com/)  
+[Vercel](https://vercel.com/dashboard)  
