@@ -75,7 +75,7 @@
 [0to255](https://www.0to255.com)  
 [Adobe Color](https://color.adobe.com/pt/create/color-wheel)    
 [Brand Palettes](https://brandpalettes.com)  
-⁣[calcolor.co⁣](calcolor.co⁣)  
+⁣[calcolor.co⁣](https://calcolor.co/⁣)  
 [Color Hunt](https://colorhunt.co)  
 [Color.review](https://color.review)     
 [Colorfavs](http://www.colorfavs.com)  
@@ -172,7 +172,7 @@
 [JSchallenger](https://www.jschallenger.com/)  
 [WoMakersCode Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end)  
 ## INSPIRAÇÕES
-[Awwwards](awwwards.com)  
+[Awwwards](https://www.awwwards.com/) 
 [CollectUI](https://collectui.com)  
 [Dribbble](https://dribbble.com)  
 [Httpster](https://httpster.net/2020/apr/)  
