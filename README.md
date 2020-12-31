@@ -195,7 +195,6 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Dribbble](https://dribbble.com)  
 [Httpster](https://httpster.net/2020/apr/)  
 [interfacely](https://www.instagram.com/interfacely/)  
-[One Page Love](https://onepagelove.com)  
 [Site Inspire](https://siteinspire.com)  
 ## TEMPLATES HTML/CSS
 [BootsWatch](https://bootswatch.com/)  
