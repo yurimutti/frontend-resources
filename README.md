@@ -232,3 +232,19 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [InfinityFree](https://infinityfree.net/)  
 [Netlify](https://www.netlify.com/)  
 [Vercel](https://vercel.com/dashboard)  
+
+## PROTOTIPAÇÃO
+[Figma](https://www.figma.com/)   
+[inVision](https://www.invisionapp.com/)   
+[Akira](https://github.com/akiraux/Akira)   
+[AdobeXD](https://www.adobe.com/br/products/xd.html)   
+[Balsamic](https://balsamiq.com/wireframes/)   
+[Sketch](https://www.sketch.com/)   
+
+## EDIÇÃO DE IMAGENS
+[Photopea](https://www.photopea.com/)   
+
+## COMPARTILHAR FRAGMENTO DE CÓDIGO
+[Carbon](https://carbon.now.sh/)   
+
+
