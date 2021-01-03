@@ -157,6 +157,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Vector Creator](https://icons8.com/vector-creator/)  
 [Whoosh! Illustration Kit](https://www.ls.graphics/illustrations/whoosh)  
 ## IMAGENS
+[CleanPNG](https://cleanpng.com)  
 [everypixel](https://everypixel.com⁣)  
 [Freepik](https://br.freepik.com)  
 [isorepublic](https://isorepublic.com⁣)  
