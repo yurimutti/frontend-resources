@@ -95,6 +95,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Colorfavs](http://www.colorfavs.com)  
 [Color-hex](https://www.color-hex.com)  
 ⁣[ColorKit](colorkit.io⁣)  
+[ColorsLol](https://colors.lol)  
 [Colorsinspo](colorsinspo.com⁣)  
 [ColorSuply](https://colorsupplyyy.com/app)   
 [ColorZilla](https://www.colorzilla.com)  
@@ -149,7 +150,8 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Sapiens](https://sapiens.ui8.net/)  
 [Scribbles](https://www.scribbbles.design/)  
 [Smash Illustrations](https://usesmash.com/)  
-[Stories by Freepik](https://stories.freepik.com)  
+[Stories by Freepik](https://stories.freepik.com)
+[storyset](https://storyset.com)  
 [storytale.io](https://storytale.io)  
 [Stubborn Generator](https://stubborn.fun/)  
 [Toy Faces](https://amritpaldesign.com/toy-faces)  
@@ -222,6 +224,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 ## EMOJI
 [Get Emoji](https://getemoji.com/)
 ## REMOVE BACKGROUND
+[Clipping magic](https://pt.clippingmagic.com/)  
 [remove.bg](https://www.remove.bg)
 ## EDITOR DE MARKDOWN
 [StackEdit](https://stackedit.io)  
