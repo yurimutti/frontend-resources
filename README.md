@@ -83,6 +83,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Simple Icons](https://simpleicons.org/)  
 [Steamline Free](https://www.streamlineicons.com/free/)  
 [Streamline UX](https://www.streamlineicons.com/ux/)  
+[svgicons](http://svgicons.sparkk.fr/)  
 [Tabler Icons](https://tablericons.com/)  
 [Tilda Icons](https://tilda.cc/free-icons/)  
 ## CORES
