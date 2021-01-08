@@ -223,7 +223,8 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Placeholder](https://placeholder.com)  
 [Placekitten](https://placekitten.com)   
 ## EMOJI
-[Get Emoji](https://getemoji.com/)
+[Get Emoji](https://getemoji.com/)  
+[Emojipedia](https://emojipedia.org/)  
 ## REMOVE BACKGROUND
 [Clipping magic](https://pt.clippingmagic.com/)  
 [remove.bg](https://www.remove.bg)
