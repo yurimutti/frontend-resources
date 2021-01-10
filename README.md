@@ -175,7 +175,6 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [gratisography](http://www.gratisography.com/)  
 [isorepublic](https://isorepublic.com⁣)  
 [jaymantri](http://jaymantri.com/)  
-[jaymantri](http://jaymantri.com/)  
 [jeshoots](http://jeshoots.com/)  
 [kaboompics](https://kaboompics.com/)   
 [lifeofpix](http://www.lifeofpix.com/)  
