@@ -214,6 +214,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [WebPagetest](https://www.webpagetest.org)  
 ## DESAFIOS
 [30 days CSS](https://30dayscss.vercel.app/challengesList)  
+[App Ideas](https://github.com/florinpop17/app-ideas)  
 [Codier](https://codier.io/)  
 [CSS Battle](https://cssbattle.dev)   
 [DevChallenge](https://devchallenge.com.br/challenges/frontend)  
