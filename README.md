@@ -43,6 +43,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [vivus.js](https://maxwellito.github.io/vivus)  
 [velocityjs](http://velocityjs.org/)  
 [You might not need jQuery](http://youmightnotneedjquery.com/)   
+[Parallax](https://matthew.wagerfield.com/parallax/)  
 ## FONTES 
 [Adobe Fonts](https://fonts.adobe.com)      
 [CSS Font Stack](https://www.cssfontstack.com)      
