@@ -280,6 +280,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [inVision](https://www.invisionapp.com/)   
 [Sketch](https://www.sketch.com/)   
 ## EDIÇÃO DE IMAGENS
-[Photopea](https://www.photopea.com/)   
+[Photopea](https://www.photopea.com/)  
+[Canva](https://www.canva.com/)  
 ## COMPARTILHAR FRAGMENTO DE CÓDIGO
 [Carbon](https://carbon.now.sh/)   
