@@ -187,6 +187,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Pexels](https://www.pexels.com)      
 [photl](http://www.photl.com/)  
 [photodune](https://photodune.net/)  
+[ProfilePictureMaker](https://pfpmaker.com/)  
 [picjumbo](https://picjumbo.com/)  
 [pixabay](https://pixabay.com)     
 [raumrot](http://www.raumrot.com/10/)  
