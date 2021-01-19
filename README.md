@@ -291,3 +291,10 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Canva](https://www.canva.com/)  
 ## COMPARTILHAR FRAGMENTO DE CÓDIGO
 [Carbon](https://carbon.now.sh/)   
+## UI KITS
+[Envato Elements](https://elements.envato.com)   
+[Figma Freebies](https://figmafreebies.com)   
+[Freebie Supply](https://freebiesupply.com)  
+[Sketch Repo](https://sketchrepo.com)   
+[Uplabs](https://uplabs.com)   
+[Xd Guru](https://xdguru.com)  
