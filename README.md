@@ -229,8 +229,11 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [WoMakersCode Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end)  
 ## INSPIRAÇÕES
 [Awwwards](https://www.awwwards.com/)  
+[⁣abduzeedo⁣](https://⁣abduzeedo.com⁣)  
+[⁣⁣⁣Best Website Gallery⁣](https://⁣⁣bestwebsite.gallery⁣)  
 [CollectUI](https://collectui.com)  
 [Dribbble](https://dribbble.com)  
+[ecomm.design⁣](https://ecomm.design/)  
 [Httpster](https://httpster.net/2020/apr/)  
 [interfacely](https://www.instagram.com/interfacely/)  
 [Site Inspire](https://siteinspire.com)  
@@ -243,13 +246,15 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [OnePageLove](https://onepagelove.com/)  
 [Templatemo](https://templatemo.com/)  
 [W3Layouts](https://w3layouts.com/)  
-## CHROME WEB STORE 
+## EXTENSÕES DO CHROME
+[axe - Web-Acessibility-Testing](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd/related?hl=en)  
 [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt-BR)   
 [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR)  
 [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=pt-BR)  
 [Loom for Chrome](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb?hl=pt-BR)  
 [Picture-in-Picture Extension](https://lnkd.in/eP6nwSu)  
 [Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=pt-BR)   
+[Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh)
 [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR)  
 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR)  
 ## PLACEHOLDER
