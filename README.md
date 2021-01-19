@@ -38,6 +38,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Referência JavaScript da MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference)     
 [regex101](https://regex101.com)      
 [Swiper](https://swiperjs.com)   
+[SlickSlider](https://kenwheeler.github.io/slick/)  
 [Skrollr](https://prinzhorn.github.io/skrollr/)   
 [three.js](https://threejs.org)  
 [vivus.js](https://maxwellito.github.io/vivus)  
