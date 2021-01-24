@@ -32,6 +32,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Referência CSS da MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)  
 [the-echoplex-flexbox](https://the-echoplex.net/flexyboxes/)  
 [waitanimate](https://waitanimate.wstone.io/)  
+[wowjs](https://wowjs.uk/docs)  
 ## JAVASCRIPT
 [Animate On Scroll](https://michalsnik.github.io/aos)  
 [GreenSock](https://greensock.com/gsap)   
