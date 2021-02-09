@@ -10,7 +10,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Índice de elementos HTML](http://html5doctor.com/element-index)    
 [Referência HTML da MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)    
 [Validador de código HTML](https://validator.w3.org)   
-## CSS
+## CSShttps:
 [Animate.css](https://animate.style)    
 [animista](https://animista.net/)  
 [Autoprefixer](http://autoprefixer.github.io)   
@@ -29,7 +29,8 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Easing functions](https://easings.net)    
 [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)  
 [How To Center](http://howtocenterincss.com)    
-[Referência CSS da MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)  
+[Referência CSS da MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+[Transition.css](https://github.com/argyleink/transition.css/stargazers)  
 [the-echoplex-flexbox](https://the-echoplex.net/flexyboxes/)  
 [waitanimate](https://waitanimate.wstone.io/)  
 [wowjs](https://wowjs.uk/docs)  
