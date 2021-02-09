@@ -10,7 +10,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Índice de elementos HTML](http://html5doctor.com/element-index)    
 [Referência HTML da MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)    
 [Validador de código HTML](https://validator.w3.org)   
-## CSShttps:
+## CSS
 [Animate.css](https://animate.style)    
 [animista](https://animista.net/)  
 [Autoprefixer](http://autoprefixer.github.io)   
