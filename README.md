@@ -30,7 +30,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)  
 [How To Center](http://howtocenterincss.com)    
 [Referência CSS da MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-[Transition.css](https://github.com/argyleink/transition.css/stargazers)  
+[Transition.css](https://github.com/argyleink/transition.css/stargazers)    
 [the-echoplex-flexbox](https://the-echoplex.net/flexyboxes/)  
 [waitanimate](https://waitanimate.wstone.io/)  
 [wowjs](https://wowjs.uk/docs)  
