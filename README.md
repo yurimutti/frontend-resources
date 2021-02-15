@@ -252,6 +252,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [FreeHTML5](https://freehtml5.co/)  
 [HTML5Up](https://html5up.net/)  
 [HTML5xCSS3](https://www.html5xcss3.com/)  
+[lapa.ninja](https://www.lapa.ninja/)  
 [OnePageLove](https://onepagelove.com/)  
 [Templatemo](https://templatemo.com/)  
 [W3Layouts](https://w3layouts.com/)  
