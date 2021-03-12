@@ -217,6 +217,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [uhdwallpapers](http://www.uhdwallpapers.org/)  
 [Unsplash](https://unsplash.com)       
 [visualhunt](https://visualhunt.com/)   
+[VectorMagic](https://vectormagic.com/)  
 ## COMPRESSOR DE IMAGENS
 [TinyPNG](https://tinypng.com/)  
 [websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/)      
