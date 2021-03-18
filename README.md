@@ -56,6 +56,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [velocityjs](http://velocityjs.org/)  
 [You might not need jQuery](http://youmightnotneedjquery.com/)   
 [Parallax](https://matthew.wagerfield.com/parallax/)  
+[Waypoints](http://imakewebthings.com/waypoints/)  
 ## FONTES 
 [Adobe Fonts](https://fonts.adobe.com)      
 [CSS Font Stack](https://www.cssfontstack.com)      
