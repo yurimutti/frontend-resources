@@ -37,6 +37,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [waitanimate](https://waitanimate.wstone.io/)  
 [wowjs](https://wowjs.uk/docs)  
 ## JAVASCRIPT
+[anime.js](https://animejs.com/)  
 [Animate On Scroll](https://michalsnik.github.io/aos)  
 [GreenSock](https://greensock.com/gsap)   
 [Momentjs](https://momentjs.com)  
