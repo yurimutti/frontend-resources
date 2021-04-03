@@ -48,6 +48,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Referência de Eventos JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/Events)    
 [Referência JavaScript da MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference)     
 [regex101](https://regex101.com)      
+[Rellax js](https://dixonandmoe.com/rellax/)  
 [Swiper](https://swiperjs.com)   
 [Scroll Magic](https://scrollmagic.io/)  
 [SlickSlider](https://kenwheeler.github.io/slick/)  
