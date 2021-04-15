@@ -29,7 +29,8 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [cubic-bezier](https://cubic-bezier.com)    
 [Easing functions](https://easings.net)    
 [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)  
-[How To Center](http://howtocenterincss.com)    
+[How To Center](http://howtocenterincss.com)  
+[html5canvastutorials](https://www.html5canvastutorials.com/)    
 [Referência CSS da MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)  
 [Shape Divider](https://www.shapedivider.app)  
 [the-echoplex-flexbox](https://the-echoplex.net/flexyboxes/)  
@@ -236,6 +237,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [WebPagetest](https://www.webpagetest.org)  
 ## DESAFIOS
 [30 days CSS](https://30dayscss.vercel.app/challengesList)  
+[Ace Front-end](https://www.acefrontend.com/)  
 [App Ideas](https://github.com/florinpop17/app-ideas)  
 [Codier](https://codier.io/)  
 [CSS Battle](https://cssbattle.dev)   
