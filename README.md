@@ -41,6 +41,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Animate On Scroll](https://michalsnik.github.io/aos)  
 [anime.js](https://animejs.com/)  
 [GreenSock](https://greensock.com/gsap)   
+[Immediately-Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)  
 [Lightbox](https://lokeshdhakar.com/projects/lightbox2/)  
 [Microjs](http://microjs.com/)    
 [Momentjs](https://momentjs.com)  
