@@ -324,3 +324,8 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Sketch Repo](https://sketchrepo.com)   
 [Uplabs](https://uplabs.com)   
 [Xd Guru](https://xdguru.com)  
+## Minifier
+[HTML Minifier](https://kangax.github.io/html-minifier)     
+[CSSNANO](https://cssnano.co/)  
+[CSSO](http://css.github.io/csso/csso.html)    
+[UglifyJS 3](https://skalman.github.io/UglifyJS-online/)  
