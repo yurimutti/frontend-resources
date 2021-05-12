@@ -73,6 +73,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Modular Scale](https://www.modularscale.com)    
 [transfonter](https://transfonter.org)      
 [Typechem](https://typechem.herokuapp.com)      
+[Fonts In Use](https://fontsinuse.com/)    
 ## ÍCONES
 [Boxicons](https://boxicons.com/)      
 [css.gg](https://css.gg/)      
