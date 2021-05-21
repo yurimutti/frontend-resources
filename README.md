@@ -18,6 +18,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow)    
 [Calculadora de especificidade CSS](https://specificity.keegan.st)    
 [Can I Use](https://caniuse.com)  
+[Clip-path converter](https://yoksel.github.io/relative-clip-path/)   
 [Contrast Ratio](https://contrast-ratio.com/)    
 [CSS clip-path maker](https://bennettfeely.com/clippy/)  
 [CSS Formatter](https://www.cleancss.com/css-beautify)    
