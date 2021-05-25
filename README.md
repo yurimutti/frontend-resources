@@ -3,6 +3,33 @@
 Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊🏽  
 Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois espaços no final).   
 
+## Indice
+
+* [Avatares](#avatares)
+* [Compartilhar fragmento de código](#fragmentoCodigo)
+* [Compressor de imagens](#compressorImagens)
+* [Cores](#cores)
+* [CSS](#css)
+* [Desafios](#desafios)
+* [Edição de imagens](#edicaoImagens)
+* [Editor de markdown](#editorMarkdown)
+* [Emoji](#emoji)
+* [Extensões do Chrome](#extensaoChrome)
+* [Fontes](#fontes)
+* [Host gratuito](#hostGratuito)
+* [HTML](#html)
+* [Icones](#icones)
+* [Ilustrações](#ilustracao)
+* [Imagens](#imagens)
+* [Inspirações](#inspiracoes)
+* [JavaScript](#javaScript)
+* [Minifier](#minifier)
+* [Performance](#performance)
+* [Placeholder](#placeholder)
+* [Prototipacao](#prototipacao)
+* [Remove background](#removeBackground)
+* [Templates HTML/CSS](#templatesHTMLeCSS)
+* [UI Kits](#uiKits)
 
 ## HTML
 [Dive Into HTML5](https://diveintohtml5.com.br)    
