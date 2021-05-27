@@ -3,6 +3,32 @@
 Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊🏽  
 Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois espaços no final).   
 
+## Indice
+
+* [Avatares](#avatares)
+* [Compartilhar fragmento de código](#compartilhar-fragmento-codigo)
+* [Compressor de imagens](#compressor-imagens)
+* [Cores](#cores)
+* [CSS](#css)
+* [Desafios](#desafios)
+* [Edição de imagens](#edicao-imagens)
+* [Editor de Markdown](#editor-markdown)
+* [Emoji](#emoji)
+* [Extensões do Chrome](#extensoes-chrome)
+* [Fontes](#fontes)
+* [Host gratuito](#host-gratuito)
+* [HTML](#html)
+* [Icones](#icones)
+* [Ilustrações](#ilustracoes)
+* [Imagens](#imagens)
+* [Inspirações](#inspiracoes)
+* [JavaScript](#javascript)
+* [Minifier](#minifier)
+* [Performance](#performance)
+* [Placeholder](#placeholder)
+* [Templates HTML/CSS](#templates-html-css)
+* [Remove background](#remove-background)
+* [UI Kits](#ui-kits)
 
 ## HTML
 [Dive Into HTML5](https://diveintohtml5.com.br)    
@@ -133,7 +159,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Scheme Color](https://www.schemecolor.com)  
 [Tint and Shade Generator](https://maketintsandshades.com)  
 [uiGradients](https://uigradients.com)  
-## ILUSTRAÇÕES
+## <a name="ilustracoes"><a/>Ilustrações
 [3000 Hands](https://www.shapefest.com/expansions/3000-hands)    
 [404 illustrations by kapwing](https://www.kapwing.com/404-illustrations)  
 [404 illustrations](https://error404.fun/)  
@@ -227,7 +253,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Unsplash](https://unsplash.com)       
 [visualhunt](https://visualhunt.com/)   
 [VectorMagic](https://vectormagic.com/)  
-## COMPRESSOR DE IMAGENS
+## <a name="compressor-imagens"></a>Compressor de imagens
 [TinyPNG](https://tinypng.com/)  
 [websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/)      
 ## AVATARES
@@ -252,7 +278,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [JSBeginners](https://jsbeginners.com/)  
 [JSchallenger](https://www.jschallenger.com/)  
 [WoMakersCode Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end)  
-## INSPIRAÇÕES
+## <a name="inspiracoes"></a>Inspirações
 [Awwwards](https://www.awwwards.com/)  
 [abduzeedo](https://abduzeedo.com)  
 [Best Website Gallery](https://bestwebsite.gallery)  
@@ -264,7 +290,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [Httpster](https://httpster.net/2020/apr/)  
 [interfacely](https://www.instagram.com/interfacely/)   
 [Land-book](https://land-book.com)  
-## TEMPLATES HTML/CSS
+## <a name="templates-html-css"><a/>Templates HTML/CSS
 [BootsWatch](https://bootswatch.com/)  
 [Free-CSS](https://www.free-css.com/)  
 [FreeHTML5](https://freehtml5.co/)  
@@ -274,7 +300,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [OnePageLove](https://onepagelove.com/)  
 [Templatemo](https://templatemo.com/)  
 [W3Layouts](https://w3layouts.com/)  
-## EXTENSÕES DO CHROME
+## <a name="extensoes-chrome"></a>Extensões do Chrome
 [axe - Web-Acessibility-Testing](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd/related?hl=en)  
 [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt-BR)   
 [Fonts Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh?hl=pt-BR)  
@@ -297,7 +323,7 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 ## REMOVE BACKGROUND
 [Clipping magic](https://pt.clippingmagic.com/)  
 [remove.bg](https://www.remove.bg)
-## EDITOR DE MARKDOWN
+## <a name="editor-markdown"><a/>Editor de Markdown
 [StackEdit](https://stackedit.io)  
 [Typora](https://typora.io/)  
 ## HOST GRATUITO  
@@ -307,17 +333,17 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 [InfinityFree](https://infinityfree.net/)  
 [Netlify](https://www.netlify.com/)  
 [Vercel](https://vercel.com/dashboard)  
-## PROTOTIPAÇÃO
+## <a name="prototipacao"><a/>Prototipação
 [Akira](https://github.com/akiraux/Akira)   
 [AdobeXD](https://www.adobe.com/br/products/xd.html)   
 [Balsamic](https://balsamiq.com/wireframes/)   
 [Figma](https://www.figma.com/)   
 [inVision](https://www.invisionapp.com/)   
 [Sketch](https://www.sketch.com/)   
-## EDIÇÃO DE IMAGENS
+## <a name="edicao-imagens"><a/>Edição de Imagens
 [Photopea](https://www.photopea.com/)  
 [Canva](https://www.canva.com/)  
-## COMPARTILHAR FRAGMENTO DE CÓDIGO
+## <a name="compartilhar-fragmento-codigo"></a>Compartilhar fragmento de código
 [Carbon](https://carbon.now.sh/)   
 ## UI KITS
 [Envato Elements](https://elements.envato.com)   
