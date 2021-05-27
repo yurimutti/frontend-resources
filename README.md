@@ -46,6 +46,14 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## <a name="compressor-imagens"></a>Compressor de imagens
+Link | Descrição | Grátis |
+|---|---|---|
+| [TinyPNG](https://tinypng.com/) | Compressão inteligente de PNG e JPEG | Sim | Yes | No |
+| [websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/) | Comprima seus arquivos PNG / JPG em até 80% e mantenha total transparência | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## HTML
 [Dive Into HTML5](https://diveintohtml5.com.br)    
 [HTML5 Boilerplate](https://html5boilerplate.com)   
@@ -268,9 +276,6 @@ Link | Descrição | Grátis |
 [Unsplash](https://unsplash.com)       
 [visualhunt](https://visualhunt.com/)   
 [VectorMagic](https://vectormagic.com/)  
-## <a name="compressor-imagens"></a>Compressor de imagens
-[TinyPNG](https://tinypng.com/)  
-[websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/)      
 ## PERFORMANCE
 [GTmetrix](https://gtmetrix.com)    
 [Image Analysis Tool](https://webspeedtest.cloudinary.com)  
