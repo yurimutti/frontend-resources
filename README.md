@@ -39,6 +39,13 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## <a name="compartilhar-fragmento-codigo"></a>Compartilhar fragmento de código
+Link | Descrição | Grátis |
+|---|---|---|
+| [Carbon](https://carbon.now.sh/) | Crie e compartilhe belas imagens de seu código-fonte | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## HTML
 [Dive Into HTML5](https://diveintohtml5.com.br)    
 [HTML5 Boilerplate](https://html5boilerplate.com)   
@@ -347,8 +354,6 @@ Link | Descrição | Grátis |
 ## <a name="edicao-imagens"><a/>Edição de Imagens
 [Photopea](https://www.photopea.com/)  
 [Canva](https://www.canva.com/)  
-## <a name="compartilhar-fragmento-codigo"></a>Compartilhar fragmento de código
-[Carbon](https://carbon.now.sh/)   
 ## UI KITS
 [Envato Elements](https://elements.envato.com)   
 [Figma Freebies](https://figmafreebies.com)   
