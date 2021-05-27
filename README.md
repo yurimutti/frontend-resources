@@ -30,6 +30,15 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 * [Remove background](#remove-background)
 * [UI Kits](#ui-kits)
 
+### Avatares
+Link | Descrição | Grátis |
+|---|---|---|
+| [Avatar Generator](https://getavataaars.com) | Gerador de avatar para qualquer um fazer seu avatar pessoal facilmente | Sim | Yes | No |
+| [Random User Generator](https://randomuser.me) | API para gerar dados aleatórios de usuário | Sim | Yes | No |
+| [Ui Faces](https://uifaces.co) | Plugin / API de avatar | Um mês | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## HTML
 [Dive Into HTML5](https://diveintohtml5.com.br)    
 [HTML5 Boilerplate](https://html5boilerplate.com)   
@@ -255,10 +264,6 @@ Conteúdos deverão seguir a ordem alfabética e utilizar quebra de linha(dois e
 ## <a name="compressor-imagens"></a>Compressor de imagens
 [TinyPNG](https://tinypng.com/)  
 [websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/)      
-## AVATARES
-[Avatar Generator](https://getavataaars.com)  
-[Random User Generator](https://randomuser.me)  
-[Ui Faces](https://uifaces.co)  
 ## PERFORMANCE
 [GTmetrix](https://gtmetrix.com)    
 [Image Analysis Tool](https://webspeedtest.cloudinary.com)  
