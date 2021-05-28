@@ -376,3 +376,60 @@ Link | Descrição | Grátis |
 [CSSNANO](https://cssnano.co/)  
 [CSSO](http://css.github.io/csso/csso.html)    
 [UglifyJS 3](https://skalman.github.io/UglifyJS-online/)  
+  
+ ## Contribuidores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yurimutti">
+        <img src="https://avatars.githubusercontent.com/u/66539821?v=4" width="100px;" alt="Foto do avatar de Yuri Mutti"/><br>
+        <sub>
+          <b>Yuri Mutti</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RennanSilvaCosta">
+        <img src="https://avatars.githubusercontent.com/u/45303056?v=4" width="100px;" alt="Foto do avatar de Renan Silva"/><br>
+        <sub>
+          <b>Rennan Silva</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/caiovlima">
+        <img src="https://avatars0.githubusercontent.com/u/31970285" width="100px;" alt="Foto do avatar de Caio Lima"/><br>
+        <sub>
+          <b>Caio Lima</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/matheusdoedev">
+        <img src="https://avatars.githubusercontent.com/u/58111490?v=4" width="100px;" alt="Foto do Matheus do É Santos"/><br>
+        <sub>
+          <b>Matheus do É Santos</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/edurezende10">
+        <img src="https://avatars.githubusercontent.com/u/36525298?v=4" width="100px;" alt="Foto do Eduardo Rezende"/><br>
+        <sub>
+          <b>Eduardo Rezende</b>
+        </sub>
+      </a><br>
+    </td>
+    <tr>
+     <td align="center">
+      <a href="https://github.com/AdelmoMenezes123">
+        <img src="https://avatars.githubusercontent.com/u/44556097?v=4" width="100px;" alt="Foto do Adelmo Menezes"/><br>
+        <sub>
+          <b>Adelmo Menezes</b>
+        </sub>
+      </a><br>
+    </td>
+    </tr>
+  </tr>
+</table>
