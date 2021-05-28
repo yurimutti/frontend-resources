@@ -39,6 +39,51 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## <a name="compartilhar-fragmento-codigo"></a>Compartilhar fragmento de código
+Link | Descrição | Grátis |
+|---|---|---|
+| [Carbon](https://carbon.now.sh/) | Crie e compartilhe belas imagens de seu código-fonte | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## <a name="compressor-imagens"></a>Compressor de imagens
+Link | Descrição | Grátis |
+|---|---|---|
+| [TinyPNG](https://tinypng.com/) | Compressão inteligente de PNG e JPEG | Sim | Yes | No |
+| [websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/) | Comprima seus arquivos PNG / JPG em até 80% e mantenha total transparência | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## CORES
+Link | Descrição | Grátis |
+|---|---|---|
+| [0to255](https://www.0to255.com) | Ferramenta de cor que facilita o clareamento e o escurecimento das cores | Sim | Yes | No |
+| [Adobe Color](https://color.adobe.com/pt/create/color-wheel) | Gerador de paleta de cores | Sim | Yes | No |
+| [Brand Palettes](https://brandpalettes.com) | Códigos de cores e paletas do logotipo | Sim | Yes | No |
+| [calcolor.co](https://calcolor.co/) | Crie paletas específicas para projetos e compartilhe-as com outras pessoas | Sim | Yes | No |
+| [Color Hunt](https://colorhunt.co) | Plataforma para inspiração de cores com milhares de paletas de cores  | Sim | Yes | No |
+| [Color.review](https://color.review) | Avalia contraste entre texto e background | Sim | Yes | No |
+| [Color-hex](https://www.color-hex.com) | Fornece informações sobre cores, incluindo modelos de cores (RGB, HSL, HSV e CMYK) | Sim | Yes | No |
+| [ColorKit](colorkit.io) | Gera escalas de cores misturando os tons entre duas cores  | Sim | Yes | No |
+| [ColorsLol](https://colors.lol) | Paletas de cores excessivamente descritivas | Sim | Yes | No |
+| [Colorsinspo](colorsinspo.com) | Paletas de cores que você pode usar diretamente com um clique | Sim | Yes | No |
+| [ColorSuply](https://colorsupplyyy.com/app) | Um seletor de cores para designers e ilustradores | Sete visitas | Yes | No |
+| [ColorZilla](https://www.colorzilla.com) | Um poderoso editor de gradiente CSS semelhante ao Photoshop da ColorZilla | Sim | Yes | No |
+| [colourco.de](https://colourco.de) | Ferramenta de design online que permite combinar cores de forma fácil e intuitiva | Sim | Yes | No |
+| [Contrast Ratio](https://contrast-ratio.com) | Indicador de contraste | Sim | Yes | No |
+| [Coolors](https://coolors.co) | Crie a paleta perfeita ou inspire-se com milhares de belos esquemas de cores | Sim | Yes | No |
+| [Culrs](https://www.culrs.com) | As cores que funcionam juntas são selecionadas e moldadas em paletas de qualidade que você pode incorporar | Sim | Yes | No |
+| [Design Seeds](https://www.design-seeds.com) | Várias paletas de cores | Sim | Yes | No |
+| [Flat Ui Colors](https://flatuicolors.com) | Um conjunto total de 280 cores está ao seu alcance para COPIAR / COLAR para seu próximo projeto, design, apresentação | Sim | Yes | No |
+| [Khroma](http://khroma.co/) | Usa IA para aprender de quais cores você gosta e cria paletas ilimitadas para você descobrir, pesquisar e salvar | Sim | Yes | No |
+| [Name that Color](https://chir.ag/projects/name-that-color/#6195ED) | Informa o nome da cor escolhida | Sim | Yes | No |
+| [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) | Projetado para ajudar todos os tipos de projetos coloridos, desde o trabalho profissional até os projetos escolares dos seus filhos | Sim | Yes | No |
+| [Scheme Color](https://www.schemecolor.com) | Um site bem cotado para baixar, criar e compartilhar milhares de belas combinações de cores | Sim | Yes | No |
+| [Tint and Shade Generator](https://maketintsandshades.com) | Crie facilmente tons e sombras que correspondam à saída do Chrome DevTools, PostCSS e Sass | Sim | Yes | No |
+| [uiGradients](https://uigradients.com) | Uma coleção escolhida a dedo de lindos gradientes de cores para designers e desenvolvedores | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## HTML
 [Dive Into HTML5](https://diveintohtml5.com.br)    
 [HTML5 Boilerplate](https://html5boilerplate.com)   
@@ -142,32 +187,6 @@ Link | Descrição | Grátis |
 [svgicons](http://svgicons.sparkk.fr/)  
 [Tabler Icons](https://tablericons.com/)  
 [Tilda Icons](https://tilda.cc/free-icons/)  
-## CORES
-[0to255](https://www.0to255.com)  
-[Adobe Color](https://color.adobe.com/pt/create/color-wheel)    
-[Brand Palettes](https://brandpalettes.com)  
-[calcolor.co](https://calcolor.co/)  
-[Color Hunt](https://colorhunt.co)  
-[Color.review](https://color.review)     
-[Colorfavs](http://www.colorfavs.com)  
-[Color-hex](https://www.color-hex.com)  
-[ColorKit](colorkit.io)  
-[ColorsLol](https://colors.lol)  
-[Colorsinspo](colorsinspo.com)  
-[ColorSuply](https://colorsupplyyy.com/app)   
-[ColorZilla](https://www.colorzilla.com)  
-[colourco.de](https://colourco.de)  
-[Contrast Ratio](https://contrast-ratio.com)  
-[Coolors](https://coolors.co)  
-[Culrs](https://www.culrs.com)    
-[Design Seeds](https://www.design-seeds.com)  
-[Flat Ui Colors](https://flatuicolors.com)    
-[Khroma](http://khroma.co/)    
-[Name that Color](https://chir.ag/projects/name-that-color/#6195ED)  
-[Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)  
-[Scheme Color](https://www.schemecolor.com)  
-[Tint and Shade Generator](https://maketintsandshades.com)  
-[uiGradients](https://uigradients.com)  
 ## <a name="ilustracoes"><a/>Ilustrações
 [3000 Hands](https://www.shapefest.com/expansions/3000-hands)    
 [404 illustrations by kapwing](https://www.kapwing.com/404-illustrations)  
@@ -262,9 +281,6 @@ Link | Descrição | Grátis |
 [Unsplash](https://unsplash.com)       
 [visualhunt](https://visualhunt.com/)   
 [VectorMagic](https://vectormagic.com/)  
-## <a name="compressor-imagens"></a>Compressor de imagens
-[TinyPNG](https://tinypng.com/)  
-[websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/)      
 ## PERFORMANCE
 [GTmetrix](https://gtmetrix.com)    
 [Image Analysis Tool](https://webspeedtest.cloudinary.com)  
@@ -348,8 +364,6 @@ Link | Descrição | Grátis |
 ## <a name="edicao-imagens"><a/>Edição de Imagens
 [Photopea](https://www.photopea.com/)  
 [Canva](https://www.canva.com/)  
-## <a name="compartilhar-fragmento-codigo"></a>Compartilhar fragmento de código
-[Carbon](https://carbon.now.sh/)   
 ## UI KITS
 [Envato Elements](https://elements.envato.com)   
 [Figma Freebies](https://figmafreebies.com)   
