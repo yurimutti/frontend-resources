@@ -85,11 +85,67 @@ Link | Descrição | Grátis |
 **[⬆ Voltar para o indice](#indice)**
 
 ## HTML
-[Dive Into HTML5](https://diveintohtml5.com.br)    
-[HTML5 Boilerplate](https://html5boilerplate.com)   
-[Índice de elementos HTML](http://html5doctor.com/element-index)    
-[Referência HTML da MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)    
-[Validador de código HTML](https://validator.w3.org)   
+Link | Descrição | Grátis |
+|---|---|---|
+| [Dive Into HTML5](https://diveintohtml5.com.br) | Seleção de funcionalidades da especificação da HTML5 e outras especificações interessantes escolhidas a dedo. | Sim | Yes | No |
+| [HTML5 Boilerplate](https://html5boilerplate.com) | Ajuda você a criar sites ou aplicativos da web rápidos, robustos e adaptáveis. | Sim | Yes | No |
+| [Índice de elementos HTML](http://html5doctor.com/element-index) |Referência rápida de elementos que são novos ou foram redefinidos em HTML5. | Sim | Yes | No |
+| [Referência HTML da MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element) | Esta página lista todos os elementos HTML. Eles são agrupados por função para ajuda-lo a achar o que quer fácilmente. | Sim | Yes | No |
+| [Validador de código HTML](https://validator.w3.org) | Este validador verifica a validade da marcação de documentos da Web em HTML, XHTML, SMIL, MathML, etc. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## <a name="edicao-imagens"></a>Edição de Imagens
+Link | Descrição | Grátis |
+|---|---|---|
+| [Photopea](https://www.photopea.com/) | O Online Photo Editor permite editar fotos, aplicar efeitos, filtros, adicionar texto, cortar ou redimensionar imagens. | Sim | Yes | No |
+| [Canva](https://www.canva.com/) | Uma plataforma de design gráfico que permite aos usuários criar gráficos de mídia social, apresentações, infográficos, pôsteres e outros conteúdos visuais.  | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## <a name="editor-markdown"></a>Editor de Markdown
+Link | Descrição | Grátis |
+|---|---|---|
+| [StackEdit](https://stackedit.io) | Você pode sincronizar seus arquivos com o Google Drive, Dropbox e GitHub. Ele também pode publicá-los como postagens de blog no Blogger, WordPress e Zendesk. | Sim | Yes | No |
+| [Typora](https://typora.io/) | Ele remove a janela de visualização, o alternador de modo, os símbolos de sintaxe do código-fonte do markdown. E fornece um recurso de visualização ao vivo. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## Emoji
+Link | Descrição | Grátis |
+|---|---|---|
+| [Get Emoji](https://getemoji.com/) | Copie e cole emojis para Twitter, Facebook, Slack, Instagram, Snapchat, Slack, GitHub, Instagram, WhatsApp e muito mais. | Sim | Yes | No |
+| [Emojipedia](https://emojipedia.org/) | O mecanismo de pesquisa de emoji. Uma experiência de pesquisa rápida de emoji com opções para navegar por cada emoji por nome, categoria ou plataforma. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## Performance
+Link | Descrição | Grátis |
+|---|---|---|
+| [GTmetrix](https://gtmetrix.com) | Veja o desempenho do seu site, revele por que ele está lento e descubra oportunidades de otimização. | Sim | Yes | No |
+| [Image Analysis Tool](https://webspeedtest.cloudinary.com) | Descubra como as alterações no tamanho da imagem, seleção de formato, qualidade e codificação podem melhorar drasticamente a velocidade de carregamento da página. | Sim | Yes | No |
+| [PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=pt-br) | Google PageSpeed é uma família de ferramentas da Google Inc, projetada para ajudar nas otimizações de desempenho de um site. | Sim | Yes | No |
+| [WebPagetest](https://www.webpagetest.org) | Execute um teste de velocidade de site gratuito em todo o mundo usando navegadores reais em velocidades de conexão do consumidor com recomendações de otimização detalhadas. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## PlaceHolder
+Link | Descrição | Grátis |
+|---|---|---|
+| [Lorempixel](http://lorempixel.com) | Placeholder para cada caso. Webdesign ou impressão. É simples e totalmente grátis. | Sim | Yes | No |
+| [Placeholder](https://placeholder.com) | Serviço gratuito de placeholder para imagens, preferido pelos designers. | Sim | Yes | No |
+| [Placekitten](https://placekitten.com) | Um serviço rápido e simples para obter fotos de gatinhos para usar como placeholder em seus designs ou código. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## Remove Background
+Link | Descrição | Grátis |
+|---|---|---|
+| [Clipping magic](https://pt.clippingmagic.com/) | O único editor de remoção de fundos no mundo que combina perfeitamente a IA totalmente automatizada com ferramentas inteligentes. | Sim | Yes | No |
+| [remove.bg](https://www.remove.bg) | Remova Fundos de Imagens 100% automático, em 5 segundos e com zero cliques. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## CSS
 [Animate.css](https://animate.style)    
 [animista](https://animista.net/)  
@@ -281,11 +337,6 @@ Link | Descrição | Grátis |
 [Unsplash](https://unsplash.com)       
 [visualhunt](https://visualhunt.com/)   
 [VectorMagic](https://vectormagic.com/)  
-## PERFORMANCE
-[GTmetrix](https://gtmetrix.com)    
-[Image Analysis Tool](https://webspeedtest.cloudinary.com)  
-[PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=pt-br)   
-[WebPagetest](https://www.webpagetest.org)  
 ## DESAFIOS
 [30 days CSS](https://30dayscss.vercel.app/challengesList)  
 [Ace Front-end](https://www.acefrontend.com/)  
@@ -333,20 +384,7 @@ Link | Descrição | Grátis |
 [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh)
 [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR)  
 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR)  
-[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=pt-BR)  
-## PLACEHOLDER
-[Lorempixel](http://lorempixel.com)  
-[Placeholder](https://placeholder.com)  
-[Placekitten](https://placekitten.com)   
-## EMOJI
-[Get Emoji](https://getemoji.com/)  
-[Emojipedia](https://emojipedia.org/)  
-## REMOVE BACKGROUND
-[Clipping magic](https://pt.clippingmagic.com/)  
-[remove.bg](https://www.remove.bg)
-## <a name="editor-markdown"><a/>Editor de Markdown
-[StackEdit](https://stackedit.io)  
-[Typora](https://typora.io/)  
+[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=pt-BR)    
 ## HOST GRATUITO  
 [000WebHost](https://br.000webhost.com/)  
 [Github Pages](https://pages.github.com/)  
@@ -361,9 +399,6 @@ Link | Descrição | Grátis |
 [Figma](https://www.figma.com/)   
 [inVision](https://www.invisionapp.com/)   
 [Sketch](https://www.sketch.com/)   
-## <a name="edicao-imagens"><a/>Edição de Imagens
-[Photopea](https://www.photopea.com/)  
-[Canva](https://www.canva.com/)  
 ## UI KITS
 [Envato Elements](https://elements.envato.com)   
 [Figma Freebies](https://figmafreebies.com)   
