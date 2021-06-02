@@ -85,11 +85,16 @@ Link | Descrição | Grátis |
 **[⬆ Voltar para o indice](#indice)**
 
 ## HTML
-[Dive Into HTML5](https://diveintohtml5.com.br)    
-[HTML5 Boilerplate](https://html5boilerplate.com)   
-[Índice de elementos HTML](http://html5doctor.com/element-index)    
-[Referência HTML da MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)    
-[Validador de código HTML](https://validator.w3.org)   
+Link | Descrição | Grátis |
+|---|---|---|
+| [Dive Into HTML5](https://diveintohtml5.com.br) | Seleção de funcionalidades da especificação da HTML5 e outras especificações interessantes escolhidas a dedo. | Sim | Yes | No |
+| [HTML5 Boilerplate](https://html5boilerplate.com) | Ajuda você a criar sites ou aplicativos da web rápidos, robustos e adaptáveis. | Sim | Yes | No |
+| [Índice de elementos HTML](http://html5doctor.com/element-index) |Referência rápida de elementos que são novos ou foram redefinidos em HTML5. | Sim | Yes | No |
+| [Referência HTML da MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element) | Esta página lista todos os elementos HTML. Eles são agrupados por função para ajuda-lo a achar o que quer fácilmente. | Sim | Yes | No |
+| [Validador de código HTML](https://validator.w3.org) | Este validador verifica a validade da marcação de documentos da Web em HTML, XHTML, SMIL, MathML, etc. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## CSS
 [Animate.css](https://animate.style)    
 [animista](https://animista.net/)  
