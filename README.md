@@ -138,6 +138,14 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## Remove Background
+Link | Descrição | Grátis |
+|---|---|---|
+| [Clipping magic](https://pt.clippingmagic.com/) | O único editor de remoção de fundos no mundo que combina perfeitamente a IA totalmente automatizada com ferramentas inteligentes. | Sim | Yes | No |
+| [remove.bg](https://www.remove.bg) | Remova Fundos de Imagens 100% automático, em 5 segundos e com zero cliques. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## CSS
 [Animate.css](https://animate.style)    
 [animista](https://animista.net/)  
@@ -377,9 +385,6 @@ Link | Descrição | Grátis |
 [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR)  
 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR)  
 [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=pt-BR)    
-## REMOVE BACKGROUND
-[Clipping magic](https://pt.clippingmagic.com/)  
-[remove.bg](https://www.remove.bg)
 ## HOST GRATUITO  
 [000WebHost](https://br.000webhost.com/)  
 [Github Pages](https://pages.github.com/)  
