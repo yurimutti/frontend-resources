@@ -129,6 +129,15 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## PlaceHolder
+Link | Descrição | Grátis |
+|---|---|---|
+| [Lorempixel](http://lorempixel.com) | Placeholder para cada caso. Webdesign ou impressão. É simples e totalmente grátis. | Sim | Yes | No |
+| [Placeholder](https://placeholder.com) | Serviço gratuito de placeholder para imagens, preferido pelos designers. | Sim | Yes | No |
+| [Placekitten](https://placekitten.com) | Um serviço rápido e simples para obter fotos de gatinhos para usar como placeholder em seus designs ou código. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## CSS
 [Animate.css](https://animate.style)    
 [animista](https://animista.net/)  
@@ -367,11 +376,7 @@ Link | Descrição | Grátis |
 [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh)
 [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR)  
 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR)  
-[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=pt-BR)  
-## PLACEHOLDER
-[Lorempixel](http://lorempixel.com)  
-[Placeholder](https://placeholder.com)  
-[Placekitten](https://placekitten.com)   
+[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=pt-BR)    
 ## REMOVE BACKGROUND
 [Clipping magic](https://pt.clippingmagic.com/)  
 [remove.bg](https://www.remove.bg)
