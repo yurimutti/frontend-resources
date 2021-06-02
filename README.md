@@ -103,6 +103,14 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## <a name="editor-markdown"></a>Editor de Markdown
+Link | Descrição | Grátis |
+|---|---|---|
+| [StackEdit](https://stackedit.io) | Você pode sincronizar seus arquivos com o Google Drive, Dropbox e GitHub. Ele também pode publicá-los como postagens de blog no Blogger, WordPress e Zendesk. | Sim | Yes | No |
+| [Typora](https://typora.io/) | Ele remove a janela de visualização, o alternador de modo, os símbolos de sintaxe do código-fonte do markdown. E fornece um recurso de visualização ao vivo. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## CSS
 [Animate.css](https://animate.style)    
 [animista](https://animista.net/)  
@@ -357,9 +365,6 @@ Link | Descrição | Grátis |
 ## REMOVE BACKGROUND
 [Clipping magic](https://pt.clippingmagic.com/)  
 [remove.bg](https://www.remove.bg)
-## <a name="editor-markdown"><a/>Editor de Markdown
-[StackEdit](https://stackedit.io)  
-[Typora](https://typora.io/)  
 ## HOST GRATUITO  
 [000WebHost](https://br.000webhost.com/)  
 [Github Pages](https://pages.github.com/)  
