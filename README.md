@@ -111,6 +111,14 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## Emoji
+Link | Descrição | Grátis |
+|---|---|---|
+| [Get Emoji](https://getemoji.com/) | Copie e cole emojis para Twitter, Facebook, Slack, Instagram, Snapchat, Slack, GitHub, Instagram, WhatsApp e muito mais. | Sim | Yes | No |
+| [Emojipedia](https://emojipedia.org/) | O mecanismo de pesquisa de emoji. Uma experiência de pesquisa rápida de emoji com opções para navegar por cada emoji por nome, categoria ou plataforma. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## CSS
 [Animate.css](https://animate.style)    
 [animista](https://animista.net/)  
@@ -359,9 +367,6 @@ Link | Descrição | Grátis |
 [Lorempixel](http://lorempixel.com)  
 [Placeholder](https://placeholder.com)  
 [Placekitten](https://placekitten.com)   
-## EMOJI
-[Get Emoji](https://getemoji.com/)  
-[Emojipedia](https://emojipedia.org/)  
 ## REMOVE BACKGROUND
 [Clipping magic](https://pt.clippingmagic.com/)  
 [remove.bg](https://www.remove.bg)
