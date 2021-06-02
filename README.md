@@ -95,6 +95,14 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## <a name="edicao-imagens"></a>Edição de Imagens
+Link | Descrição | Grátis |
+|---|---|---|
+| [Photopea](https://www.photopea.com/) | O Online Photo Editor permite editar fotos, aplicar efeitos, filtros, adicionar texto, cortar ou redimensionar imagens. | Sim | Yes | No |
+| [Canva](https://www.canva.com/) | Uma plataforma de design gráfico que permite aos usuários criar gráficos de mídia social, apresentações, infográficos, pôsteres e outros conteúdos visuais.  | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## CSS
 [Animate.css](https://animate.style)    
 [animista](https://animista.net/)  
@@ -366,9 +374,6 @@ Link | Descrição | Grátis |
 [Figma](https://www.figma.com/)   
 [inVision](https://www.invisionapp.com/)   
 [Sketch](https://www.sketch.com/)   
-## <a name="edicao-imagens"><a/>Edição de Imagens
-[Photopea](https://www.photopea.com/)  
-[Canva](https://www.canva.com/)  
 ## UI KITS
 [Envato Elements](https://elements.envato.com)   
 [Figma Freebies](https://figmafreebies.com)   
