@@ -119,6 +119,16 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## Performance
+Link | Descrição | Grátis |
+|---|---|---|
+| [GTmetrix](https://gtmetrix.com) | Veja o desempenho do seu site, revele por que ele está lento e descubra oportunidades de otimização. | Sim | Yes | No |
+| [Image Analysis Tool](https://webspeedtest.cloudinary.com) | Descubra como as alterações no tamanho da imagem, seleção de formato, qualidade e codificação podem melhorar drasticamente a velocidade de carregamento da página. | Sim | Yes | No |
+| [PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=pt-br) | Google PageSpeed é uma família de ferramentas da Google Inc, projetada para ajudar nas otimizações de desempenho de um site. | Sim | Yes | No |
+| [WebPagetest](https://www.webpagetest.org) | Execute um teste de velocidade de site gratuito em todo o mundo usando navegadores reais em velocidades de conexão do consumidor com recomendações de otimização detalhadas. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## CSS
 [Animate.css](https://animate.style)    
 [animista](https://animista.net/)  
@@ -310,11 +320,6 @@ Link | Descrição | Grátis |
 [Unsplash](https://unsplash.com)       
 [visualhunt](https://visualhunt.com/)   
 [VectorMagic](https://vectormagic.com/)  
-## PERFORMANCE
-[GTmetrix](https://gtmetrix.com)    
-[Image Analysis Tool](https://webspeedtest.cloudinary.com)  
-[PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=pt-br)   
-[WebPagetest](https://www.webpagetest.org)  
 ## DESAFIOS
 [30 days CSS](https://30dayscss.vercel.app/challengesList)  
 [Ace Front-end](https://www.acefrontend.com/)  
