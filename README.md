@@ -195,6 +195,7 @@ Link | Descrição | Grátis |
 [SlickSlider](https://kenwheeler.github.io/slick/)  
 [Swiper](https://swiperjs.com)   
 [three.js](https://threejs.org)  
+[typedjs](https://mattboldt.com/demos/typed-js/)  
 [velocityjs](http://velocityjs.org/)  
 [vivus.js](https://maxwellito.github.io/vivus)  
 [Waypoints](http://imakewebthings.com/waypoints/)   
