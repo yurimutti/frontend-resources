@@ -186,6 +186,7 @@ Link | Descrição | Grátis |
 [Moving Letters](https://tobiasahlin.com/moving-letters/)  
 [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)  
 [Parallax](https://matthew.wagerfield.com/parallax/)  
+[particles.js](https://vincentgarreau.com/particles.js/)  
 [Referência de Eventos JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/Events)    
 [Referência JavaScript da MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference)     
 [regex101](https://regex101.com)      
