@@ -207,6 +207,7 @@ Link | Descrição | Grátis |
 [Swiper](https://swiperjs.com)   
 [three.js](https://threejs.org)  
 [typedjs](https://mattboldt.com/demos/typed-js/)  
+[t-writter.js](https://chriscavs.github.io/t-writer-demo/)  
 [velocityjs](http://velocityjs.org/)  
 [vivus.js](https://maxwellito.github.io/vivus)  
 [Waypoints](http://imakewebthings.com/waypoints/)   
