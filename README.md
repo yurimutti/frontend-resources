@@ -119,6 +119,16 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## Minifier
+Link | Descrição | Grátis |
+|---|---|---|
+| [HTML Minifier](https://kangax.github.io/html-minifier) | Ferramenta gratuita baseada na web para reduzir HTML e qualquer CSS ou JS incluído em sua marcação. | Sim | Yes | No |
+| [CSSNANO](https://cssnano.co/) | O cssnano pega seu CSS bem formatado e o executa por meio de muitas otimizações específicas, para garantir que o resultado final seja o menor possível para um ambiente de produção. | Sim | Yes | No |
+| [CSSO](http://css.github.io/csso/csso.html) | É um minificador CSS. Ele executa três tipos de transformações: limpeza, compactação e reestruturação. Como resultado, seu CSS se torna muito menor. | Sim | Yes | No |
+| [UglifyJS 3](https://skalman.github.io/UglifyJS-online/) | É uma excelente ferramenta para ajudá-lo a minimizar seu JavaScript! É uma ferramenta testada e comprovada, usada por bibliotecas como o jQuery. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)** 
+
 ## Performance
 Link | Descrição | Grátis |
 |---|---|---|
@@ -409,11 +419,6 @@ Link | Descrição | Grátis |
 [Sketch Repo](https://sketchrepo.com)   
 [Uplabs](https://uplabs.com)   
 [Xd Guru](https://xdguru.com)  
-## Minifier
-[HTML Minifier](https://kangax.github.io/html-minifier)     
-[CSSNANO](https://cssnano.co/)  
-[CSSO](http://css.github.io/csso/csso.html)    
-[UglifyJS 3](https://skalman.github.io/UglifyJS-online/)  
   
  ## Contribuidores
 
