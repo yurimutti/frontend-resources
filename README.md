@@ -156,6 +156,18 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## UI KITS
+Link | Descrição | Grátis |
+|---|---|---|
+| [Envato Elements](https://elements.envato.com) | Downloads ilimitados de vídeos, música isenta de direitos autorais, fotos, gráficos, modelos de gráficos e muito mais. | 12 arquivos/mês ou US$ 16,50/mês  | Yes | No |
+| [Figma Freebies](https://figmafreebies.com) | Modelos gratuitos de Figma, kits de interface do usuário e recursos. | Sim ou premium templates por US$ 446,00 | Yes | No |
+| [Freebie Supply](https://freebiesupply.com) | Os recursos de design mais recentes para Adobe XD, Figma, Sketch, Photoshop e Adobe Illustrator. | Sim | Yes | No |
+| [Sketch Repo](https://sketchrepo.com) | Modelos de Sketch e recursos de Sketch para seu próximo projeto de design. Ícones, maquetes e kits de interface do usuário gratuitos e de alta qualidade para o aplicativo Sketch. | Sim | Yes | No |
+| [Uplabs](https://uplabs.com) | UpLabs é o lugar para encontrar recursos de design de alta qualidade para designers, agências de criação e desenvolvedores. | 3 downloads de recursos GRATUITOS ou U$9.99/mês ou U$19.99/mês | Yes | No |
+| [Xd Guru](https://xdguru.com) | A maior coleção de recursos gratuitos e premium para Adobe XD. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## CSS
 [Animate.css](https://animate.style)    
 [animista](https://animista.net/)  
@@ -412,13 +424,6 @@ Link | Descrição | Grátis |
 [Figma](https://www.figma.com/)   
 [inVision](https://www.invisionapp.com/)   
 [Sketch](https://www.sketch.com/)   
-## UI KITS
-[Envato Elements](https://elements.envato.com)   
-[Figma Freebies](https://figmafreebies.com)   
-[Freebie Supply](https://freebiesupply.com)  
-[Sketch Repo](https://sketchrepo.com)   
-[Uplabs](https://uplabs.com)   
-[Xd Guru](https://xdguru.com)  
   
  ## Contribuidores
 
