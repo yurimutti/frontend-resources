@@ -260,6 +260,7 @@ Link | Descrição | Grátis |
 [Line Awesome](https://icons8.com/line-awesome)  
 [Newsbi Icon Pack](https://gumroad.com/l/lfdy)  
 [Noun Project](https://thenounproject.com)  
+[Pixelarticons](https://pixelarticons.com/)  
 [Radix Icons](https://icons.modulz.app)  
 [Remix Icon](https://remixicon.com/)  
 [shape.so](https://shape.so/)  
