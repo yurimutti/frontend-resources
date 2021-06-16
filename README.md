@@ -26,6 +26,7 @@ Conteúdos deverão seguir a ordem alfabética.
 * [Minifier](#minifier)
 * [Performance](#performance)
 * [Placeholder](#placeholder)
+* [Prototipação](#prototipacao)
 * [Templates HTML/CSS](#templates-html-css)
 * [Remove background](#remove-background)
 * [UI Kits](#ui-kits)
@@ -145,6 +146,18 @@ Link | Descrição | Grátis |
 | [Lorempixel](http://lorempixel.com) | Placeholder para cada caso. Webdesign ou impressão. É simples e totalmente grátis. | Sim | Yes | No |
 | [Placeholder](https://placeholder.com) | Serviço gratuito de placeholder para imagens, preferido pelos designers. | Sim | Yes | No |
 | [Placekitten](https://placekitten.com) | Um serviço rápido e simples para obter fotos de gatinhos para usar como placeholder em seus designs ou código. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## <a name="prototipacao"></a>Prototipação
+Link | Descrição | Grátis |
+|---|---|---|
+| [Akira](https://github.com/akiraux/Akira) | Akira se concentra em oferecer uma abordagem moderna e rápida para UI e UX Design, visando principalmente designers da web e designers gráficos. | Sim | Yes | No |
+| [AdobeXD](https://www.adobe.com/br/products/xd.html) | Compartilhe sua história com designs realistas. Wireframes, animações, prototipagem, colaboração e muito mais. Tudo isso em uma ferramenta de design de UI/UX. | Sim | Yes | No |
+| [Balsamic](https://balsamiq.com/wireframes/) | Esboce suas idéias de interface de usuário e coloque todos na mesma página. Torna o trabalho divertido. | Sim | Yes | No |
+| [Figma](https://www.figma.com/) | Construída para a web, a Figma é colaborativa por natureza. Além disso, está repleto de recursos de design que você já adora e invenções exclusivas. | Sim | Yes | No |
+| [inVision](https://www.invisionapp.com/) | A plataforma de design de produto digital que impulsiona as melhores experiências de usuário do mundo. | Sim | Yes | No |
+| [Sketch](https://www.sketch.com/) | Um lar para todo o processo de design colaborativo. | 30 dias | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
@@ -419,13 +432,6 @@ Link | Descrição | Grátis |
 [InfinityFree](https://infinityfree.net/)  
 [Netlify](https://www.netlify.com/)  
 [Vercel](https://vercel.com/dashboard)  
-## <a name="prototipacao"><a/>Prototipação
-[Akira](https://github.com/akiraux/Akira)   
-[AdobeXD](https://www.adobe.com/br/products/xd.html)   
-[Balsamic](https://balsamiq.com/wireframes/)   
-[Figma](https://www.figma.com/)   
-[inVision](https://www.invisionapp.com/)   
-[Sketch](https://www.sketch.com/)   
   
  ## Contribuidores
 
