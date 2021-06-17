@@ -199,6 +199,7 @@ Link | Descrição | Grátis |
 [css3generator](https://css3generator.com/)  
 [csstypeset](http://csstypeset.com/?color=color&ColorChooser=383fff)  
 [cubic-bezier](https://cubic-bezier.com)    
+[Pure CSS Components](https://css-components.felipefialho.com/)  
 [Easing functions](https://easings.net)    
 [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)  
 [How To Center](http://howtocenterincss.com)  
