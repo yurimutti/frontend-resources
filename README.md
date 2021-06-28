@@ -133,6 +133,24 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## <a name="extensoes-chrome"></a>Extensões do Chrome
+Link | Descrição | Grátis |
+|---|---|---|
+| [axe - Web-Acessibility-Testing](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd/related?hl=en) | Encontre e corrija problemas de acessibilidade em seu site usando a extensão ax DevTools Chrome. | Sim | Yes | No |
+| [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt-BR) | Conta-gotas avançada, seletor de cores, gerador de gradiente e outras guloseimas coloridas. | Sim | Yes | No |
+| [Fonts Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh?hl=pt-BR) | Identifique fontes de qualquer site da Web, marque, experimente e compre-as. | Sim | Yes | No |
+| [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR) | Capture uma screenshot de sua página atual inteira sem solicitar nenhuma permissão extra! | Sim | Yes | No |
+| [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=pt-BR) | O iluminador JSON / JSONP mais bonito e personalizável que seus olhos já viram, extensão do Chrome para imprimir JSON e JSONP. | Sim | Yes | No |
+| [Loom for Chrome](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb?hl=pt-BR) | Com o Loom, você pode gravar sua tela, voz e rosto para criar um vídeo compartilhável instantaneamente em menos tempo do que levaria para digitar um e-mail. | Sim | Yes | No |
+| [Picture-in-Picture Extension](https://lnkd.in/eP6nwSu) | Permite que você assista a vídeos em uma janela flutuante (sempre em cima das outras janelas) para que você possa ficar de olho no que está assistindo enquanto interage com outros sites ou aplicativos. | Sim | Yes | No |
+| [Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=pt-BR) | Uma régua do Web Developer \ Designer para obter dimensões em pixels e posicionamento para medir os elementos em qualquer página da web. | Sim | Yes | No |
+| [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh) | Extraia cores de qualquer site, extensão que gera paletas de cores. Escolha cores para qualquer site. | Sim | Yes | No |
+| [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) | Adiciona um botão da barra de ferramentas com várias ferramentas de desenvolvedor da web. | Sim | Yes | No |
+| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR) | Com essa extensão, você pode inspecionar as fontes da web apenas passando o mouse sobre elas. | Sim | Yes | No |
+| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=pt-BR) | Wappalyzer é um utilitário de plataforma cruzada que descobre as tecnologias usadas em sites. Ele detecta sistemas de gerenciamento de conteúdo, plataformas de comércio eletrônico, estruturas da web, software de servidor, ferramentas de análise e muito mais. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## Minifier
 Link | Descrição | Grátis |
 |---|---|---|
@@ -426,19 +444,6 @@ Link | Descrição | Grátis |
 [OnePageLove](https://onepagelove.com/)  
 [Templatemo](https://templatemo.com/)  
 [W3Layouts](https://w3layouts.com/)  
-## <a name="extensoes-chrome"></a>Extensões do Chrome
-[axe - Web-Acessibility-Testing](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd/related?hl=en)  
-[ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt-BR)   
-[Fonts Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh?hl=pt-BR)  
-[GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR)  
-[JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=pt-BR)  
-[Loom for Chrome](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb?hl=pt-BR)  
-[Picture-in-Picture Extension](https://lnkd.in/eP6nwSu)  
-[Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=pt-BR)   
-[Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh)
-[Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR)  
-[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR)  
-[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=pt-BR)    
   
  ## Contribuidores
 
