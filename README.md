@@ -85,6 +85,19 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## Host Gratuito
+Link | Descrição | Grátis |
+|---|---|---|
+| [000WebHost](https://br.000webhost.com/) | Hospedagem de Sites Grátis com PHP, MySQL, Criador de Sites grátis, cPanel e sem anúncios. Sua hospedagem de sites é quase ilimitada e com domínio. | Sim | Yes | No |
+| [Github Pages](https://pages.github.com/) | Hospedado diretamente de seu repositório GitHub. Basta editar, enviar por push e suas alterações estarão ativas. | Sim | Yes | No |
+| [Heroku](https://www.heroku.com/) | Heroku é uma plataforma como serviço (PaaS) que permite aos desenvolvedores construir, executar e operar aplicativos inteiramente na nuvem. | Sim | Yes | No |
+| [InfinityFree](https://infinityfree.net/) | Hospedagem de sites totalmente gratuita com espaço em disco e largura de banda ilimitados. | Sim | Yes | No |
+| [Netlify](https://www.netlify.com/) | Um fluxo de trabalho intuitivo baseado em Git e uma plataforma sem servidor poderosa para construir, implantar e colaborar em aplicativos da web. | Sim | Yes | No |
+| [Vercel](https://vercel.com/dashboard) | O Vercel combina a melhor experiência do desenvolvedor com um foco obsessivo no desempenho do usuário final. Nossa plataforma permite que as equipes de front-end façam seu melhor trabalho. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
+
 ## HTML
 Link | Descrição | Grátis |
 |---|---|---|
@@ -426,13 +439,6 @@ Link | Descrição | Grátis |
 [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR)  
 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR)  
 [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=pt-BR)    
-## HOST GRATUITO  
-[000WebHost](https://br.000webhost.com/)  
-[Github Pages](https://pages.github.com/)  
-[Heroku](https://www.heroku.com/)   
-[InfinityFree](https://infinityfree.net/)  
-[Netlify](https://www.netlify.com/)  
-[Vercel](https://vercel.com/dashboard)  
   
  ## Contribuidores
 
