@@ -85,6 +85,24 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## Desafios
+Link | Descrição | Grátis |
+|---|---|---|
+| [30 days CSS](https://30dayscss.vercel.app/challengesList) | 30 desafios de css. | Sim | Yes | No |
+| [Ace Front-end](https://www.acefrontend.com/) | Ace Front End tem desafios de codificação completos e práticos, com um passeio detalhado de uma solução de entrevista perfeita. | Sim | Yes | No |
+| [App Ideas](https://github.com/florinpop17/app-ideas) | Repositorio com diversos projetos separados por niveis. Esta não é apenas uma lista simples de projetos, mas uma coleção que descreve cada projeto em detalhes suficientes para que você possa desenvolvê-lo do zero. | Sim | Yes | No |
+| [Codier](https://codier.io/) | Explore e tente desafios de codificação de front-end. | Sim | Yes | No |
+| [CSS Battle](https://cssbattle.dev) | Use suas habilidades de CSS para replicar desafios com o menor código possível. | Sim | Yes | No |
+| [DevChallenge](https://devchallenge.com.br) | Melhore suas habilidades com desafios de front-end, back-end e mobile. | Sim | Yes | No |
+| [Edabit](https://edabit.com/challenges) | Nossos desafios pequenos são um atalho no labirinto de aprender a codificar. Ganhe XP, desbloqueie conquistas e suba de nível. Fique realmente bom em codificação, muito rápido. | Sim | Yes | No |
+| [Front-end Challenges](https://github.com/felipefialho/frontend-challenges) | O principal objetivo do repositório é testar seu conhecimento usando o desafio de empregos reais. | Sim | Yes | No |
+| [Frontend Mentor](https://www.frontendmentor.io/) | Resolva desafios reais de HTML, CSS e JavaScript enquanto trabalha com designs profissionais. Junte-se a 170.842 desenvolvedores que criam projetos, revisam códigos e ajudam uns aos outros a melhorar. | Sim | Yes | No |
+| [JSBeginners](https://jsbeginners.com/) | Obtenha mais de 100 ótimas ideias para JavaScript iniciante | Sim | Yes | No |
+| [JSchallenger](https://www.jschallenger.com/) | Desafios de Javascript grátis. Aprenda Javascript online resolvendo exercícios de codificação. Javascript para todos os níveis. Resolva tarefas Javascript do iniciante ao avançado. | Sim | Yes | No |
+| [WoMakersCode Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end) | Uma série de desafios e tutoriais sobre Desenvolvimento Front-end. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## Host Gratuito
 Link | Descrição | Grátis |
 |---|---|---|
@@ -408,19 +426,6 @@ Link | Descrição | Grátis |
 [Unsplash](https://unsplash.com)       
 [visualhunt](https://visualhunt.com/)   
 [VectorMagic](https://vectormagic.com/)  
-## DESAFIOS
-[30 days CSS](https://30dayscss.vercel.app/challengesList)  
-[Ace Front-end](https://www.acefrontend.com/)  
-[App Ideas](https://github.com/florinpop17/app-ideas)  
-[Codier](https://codier.io/)  
-[CSS Battle](https://cssbattle.dev)   
-[DevChallenge](https://devchallenge.com.br/challenges/frontend)  
-[Edabit](https://edabit.com/challenges/javascript)  
-[Front-end Challenges](https://github.com/felipefialho/frontend-challenges)  
-[Frontend Mentor](https://www.frontendmentor.io/)  
-[JSBeginners](https://jsbeginners.com/)  
-[JSchallenger](https://www.jschallenger.com/)  
-[WoMakersCode Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end)  
 ## <a name="inspiracoes"></a>Inspirações
 [Awwwards](https://www.awwwards.com/)  
 [abduzeedo](https://abduzeedo.com)  
