@@ -168,6 +168,24 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## <a name="inspiracoes"></a>Inspirações
+
+Link | Descrição | Grátis |
+|---|---|---|
+| [Awwwards](https://www.awwwards.com/) | Awwwards são os Website Awards que reconhecem e promovem o talento e esforço dos melhores desenvolvedores, designers e agências da web do mundo. | Sim | Yes | No |
+| [abduzeedo](https://abduzeedo.com) | Um coletivo de escritores individuais que compartilham artigos sobre design, fotografia e experiência do usuário, bem como tutoriais para Photoshop e outras ferramentas. | Sim | Yes | No |
+| [Best Website Gallery](https://bestwebsite.gallery) | Os mais belos sites escolhidos a dedo para você. | Sim | Yes | No |
+| [CollectUI](https://collectui.com) | Inspiração diária coletada do arquivo daily ui. Baseado em fotos do Dribbble, escolhidas a dedo e atualizadas diariamente. | Sim | Yes | No |
+| [Commercecream.com](https://commercecream.com) | Coletamos e destacamos as mais belas experiências de comércio no Shopify para ajudar a inspirar designers, desenvolvedores e comerciantes a criar coisas incríveis. | Sim | Yes | No |
+| [Css Nectar](https://cssnectar.com) | Uma vitrine de design de sites css para web designers e desenvolvedores. Todos os dias selecionamos o melhor do web design e adicionamos em nossa galeria. | Sim | Yes | No |
+| [Dribbble](https://dribbble.com) | É o principal destino para encontrar e exibir trabalhos criativos e lar dos melhores profissionais de design do mundo. | Sim | Yes | No |
+| [ecomm.design](https://ecomm.design/) | Navegue por nossa coleção dos principais 3194 sites de comércio eletrônico por plataforma, categorias, tecnologias e tráfego. | Sim | Yes | No |
+| [Httpster](https://httpster.net/2020/apr/) | É um recurso de inspiração que mostra sites totalmente arrasadores feitos por pessoas de todo o mundo. | Sim | Yes | No |
+| [interfacely](https://www.instagram.com/interfacely/) | Os melhores designs de UI / UX do mundo com GUIAS! | Sim | Yes | No |
+| [Land-book](https://land-book.com) | Galeria de designs com os melhores e mais cuidadosos websites. Ajudamos os criativos a encontrar inspiração e motivação para fazer coisas radicais. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## Minifier
 Link | Descrição | Grátis |
 |---|---|---|
@@ -206,6 +224,21 @@ Link | Descrição | Grátis |
 | [Figma](https://www.figma.com/) | Construída para a web, a Figma é colaborativa por natureza. Além disso, está repleto de recursos de design que você já adora e invenções exclusivas. | Sim | Yes | No |
 | [inVision](https://www.invisionapp.com/) | A plataforma de design de produto digital que impulsiona as melhores experiências de usuário do mundo. | Sim | Yes | No |
 | [Sketch](https://www.sketch.com/) | Um lar para todo o processo de design colaborativo. | 30 dias | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## <a name="templates-html-css"></a>Templates HTML/CSS
+Link | Descrição | Grátis |
+|---|---|---|
+| [BootsWatch](https://bootswatch.com/) | Templates grátis para Bootstrap. | Sim | Yes | No |
+| [Free-CSS](https://www.free-css.com/) | Modelos CSS gratuitos, layouts CSS.  | Sim | Yes | No |
+| [FreeHTML5](https://freehtml5.co/) | Modelos de bootstrap HTML5 gratuitos e premium. Criamos modelos de bootstrap gratuitos / premium bonitos e funcionais | Sim / planos a partir de $19 Dolares | Yes | No |
+| [HTML5Up](https://html5up.net/) | Modelos de sites HTML5 e CSS3 responsivos desenvolvidos por @ajlkn. | Sim | Yes | No |
+| [HTML5xCSS3](https://www.html5xcss3.com/) | Modelos Css3 e Html5 Responsivos Gratuitos. | Sim | Yes | No |
+| [lapa.ninja](https://www.lapa.ninja/) | É uma galeria com os melhores exemplos de 4035 landing pages, livros grátis para designers e kits de UI grátis de toda a web. | Sim | Yes | No |
+| [OnePageLove](https://onepagelove.com/) | Sites, modelos e recursos de uma página navegue pelo Inspiration, encontre modelos ou receba por e-mail 100 dicas importantes para Page Hot. | Sim | Yes | No |
+| [Templatemo](https://templatemo.com/) | Todos os mais de 560 modelos CSS são absolutamente 100% gratuitos para download para uso em seus sites. Você pode usar nossos modelos livremente para fins comerciais ou pessoais. | Sim | Yes | No |
+| [W3Layouts](https://w3layouts.com/) | Temas multiuso para Bootstrap WordPress. Modelos de site de comércio eletrônico entre outros. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
@@ -426,29 +459,7 @@ Link | Descrição | Grátis |
 [Unsplash](https://unsplash.com)       
 [visualhunt](https://visualhunt.com/)   
 [VectorMagic](https://vectormagic.com/)  
-## <a name="inspiracoes"></a>Inspirações
-[Awwwards](https://www.awwwards.com/)  
-[abduzeedo](https://abduzeedo.com)  
-[Best Website Gallery](https://bestwebsite.gallery)  
-[CollectUI](https://collectui.com)  
-[Commercecream.com](https://commercecream.com)  
-[Css Nectar](https://cssnectar.com)  
-[Dribbble](https://dribbble.com)  
-[ecomm.design](https://ecomm.design/)  
-[Httpster](https://httpster.net/2020/apr/)  
-[interfacely](https://www.instagram.com/interfacely/)   
-[Land-book](https://land-book.com)  
-## <a name="templates-html-css"><a/>Templates HTML/CSS
-[BootsWatch](https://bootswatch.com/)  
-[Free-CSS](https://www.free-css.com/)  
-[FreeHTML5](https://freehtml5.co/)  
-[HTML5Up](https://html5up.net/)  
-[HTML5xCSS3](https://www.html5xcss3.com/)  
-[lapa.ninja](https://www.lapa.ninja/)  
-[OnePageLove](https://onepagelove.com/)  
-[Templatemo](https://templatemo.com/)  
-[W3Layouts](https://w3layouts.com/)  
-  
+ 
  ## Contribuidores
 
 <table>
