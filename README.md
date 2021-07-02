@@ -85,6 +85,24 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## Desafios
+Link | Descrição | Grátis |
+|---|---|---|
+| [30 days CSS](https://30dayscss.vercel.app/challengesList) | 30 desafios de css. | Sim | Yes | No |
+| [Ace Front-end](https://www.acefrontend.com/) | Ace Front End tem desafios de codificação completos e práticos, com um passeio detalhado de uma solução de entrevista perfeita. | Sim | Yes | No |
+| [App Ideas](https://github.com/florinpop17/app-ideas) | Repositorio com diversos projetos separados por niveis. Esta não é apenas uma lista simples de projetos, mas uma coleção que descreve cada projeto em detalhes suficientes para que você possa desenvolvê-lo do zero. | Sim | Yes | No |
+| [Codier](https://codier.io/) | Explore e tente desafios de codificação de front-end. | Sim | Yes | No |
+| [CSS Battle](https://cssbattle.dev) | Use suas habilidades de CSS para replicar desafios com o menor código possível. | Sim | Yes | No |
+| [DevChallenge](https://devchallenge.com.br) | Melhore suas habilidades com desafios de front-end, back-end e mobile. | Sim | Yes | No |
+| [Edabit](https://edabit.com/challenges) | Nossos desafios pequenos são um atalho no labirinto de aprender a codificar. Ganhe XP, desbloqueie conquistas e suba de nível. Fique realmente bom em codificação, muito rápido. | Sim | Yes | No |
+| [Front-end Challenges](https://github.com/felipefialho/frontend-challenges) | O principal objetivo do repositório é testar seu conhecimento usando o desafio de empregos reais. | Sim | Yes | No |
+| [Frontend Mentor](https://www.frontendmentor.io/) | Resolva desafios reais de HTML, CSS e JavaScript enquanto trabalha com designs profissionais. Junte-se a 170.842 desenvolvedores que criam projetos, revisam códigos e ajudam uns aos outros a melhorar. | Sim | Yes | No |
+| [JSBeginners](https://jsbeginners.com/) | Obtenha mais de 100 ótimas ideias para JavaScript iniciante | Sim | Yes | No |
+| [JSchallenger](https://www.jschallenger.com/) | Desafios de Javascript grátis. Aprenda Javascript online resolvendo exercícios de codificação. Javascript para todos os níveis. Resolva tarefas Javascript do iniciante ao avançado. | Sim | Yes | No |
+| [WoMakersCode Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end) | Uma série de desafios e tutoriais sobre Desenvolvimento Front-end. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## Host Gratuito
 Link | Descrição | Grátis |
 |---|---|---|
@@ -150,6 +168,24 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## <a name="inspiracoes"></a>Inspirações
+
+Link | Descrição | Grátis |
+|---|---|---|
+| [Awwwards](https://www.awwwards.com/) | Awwwards são os Website Awards que reconhecem e promovem o talento e esforço dos melhores desenvolvedores, designers e agências da web do mundo. | Sim | Yes | No |
+| [abduzeedo](https://abduzeedo.com) | Um coletivo de escritores individuais que compartilham artigos sobre design, fotografia e experiência do usuário, bem como tutoriais para Photoshop e outras ferramentas. | Sim | Yes | No |
+| [Best Website Gallery](https://bestwebsite.gallery) | Os mais belos sites escolhidos a dedo para você. | Sim | Yes | No |
+| [CollectUI](https://collectui.com) | Inspiração diária coletada do arquivo daily ui. Baseado em fotos do Dribbble, escolhidas a dedo e atualizadas diariamente. | Sim | Yes | No |
+| [Commercecream.com](https://commercecream.com) | Coletamos e destacamos as mais belas experiências de comércio no Shopify para ajudar a inspirar designers, desenvolvedores e comerciantes a criar coisas incríveis. | Sim | Yes | No |
+| [Css Nectar](https://cssnectar.com) | Uma vitrine de design de sites css para web designers e desenvolvedores. Todos os dias selecionamos o melhor do web design e adicionamos em nossa galeria. | Sim | Yes | No |
+| [Dribbble](https://dribbble.com) | É o principal destino para encontrar e exibir trabalhos criativos e lar dos melhores profissionais de design do mundo. | Sim | Yes | No |
+| [ecomm.design](https://ecomm.design/) | Navegue por nossa coleção dos principais 3194 sites de comércio eletrônico por plataforma, categorias, tecnologias e tráfego. | Sim | Yes | No |
+| [Httpster](https://httpster.net/2020/apr/) | É um recurso de inspiração que mostra sites totalmente arrasadores feitos por pessoas de todo o mundo. | Sim | Yes | No |
+| [interfacely](https://www.instagram.com/interfacely/) | Os melhores designs de UI / UX do mundo com GUIAS! | Sim | Yes | No |
+| [Land-book](https://land-book.com) | Galeria de designs com os melhores e mais cuidadosos websites. Ajudamos os criativos a encontrar inspiração e motivação para fazer coisas radicais. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## Minifier
 Link | Descrição | Grátis |
 |---|---|---|
@@ -188,6 +224,21 @@ Link | Descrição | Grátis |
 | [Figma](https://www.figma.com/) | Construída para a web, a Figma é colaborativa por natureza. Além disso, está repleto de recursos de design que você já adora e invenções exclusivas. | Sim | Yes | No |
 | [inVision](https://www.invisionapp.com/) | A plataforma de design de produto digital que impulsiona as melhores experiências de usuário do mundo. | Sim | Yes | No |
 | [Sketch](https://www.sketch.com/) | Um lar para todo o processo de design colaborativo. | 30 dias | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## <a name="templates-html-css"></a>Templates HTML/CSS
+Link | Descrição | Grátis |
+|---|---|---|
+| [BootsWatch](https://bootswatch.com/) | Templates grátis para Bootstrap. | Sim | Yes | No |
+| [Free-CSS](https://www.free-css.com/) | Modelos CSS gratuitos, layouts CSS.  | Sim | Yes | No |
+| [FreeHTML5](https://freehtml5.co/) | Modelos de bootstrap HTML5 gratuitos e premium. Criamos modelos de bootstrap gratuitos / premium bonitos e funcionais | Sim / planos a partir de $19 Dolares | Yes | No |
+| [HTML5Up](https://html5up.net/) | Modelos de sites HTML5 e CSS3 responsivos desenvolvidos por @ajlkn. | Sim | Yes | No |
+| [HTML5xCSS3](https://www.html5xcss3.com/) | Modelos Css3 e Html5 Responsivos Gratuitos. | Sim | Yes | No |
+| [lapa.ninja](https://www.lapa.ninja/) | É uma galeria com os melhores exemplos de 4035 landing pages, livros grátis para designers e kits de UI grátis de toda a web. | Sim | Yes | No |
+| [OnePageLove](https://onepagelove.com/) | Sites, modelos e recursos de uma página navegue pelo Inspiration, encontre modelos ou receba por e-mail 100 dicas importantes para Page Hot. | Sim | Yes | No |
+| [Templatemo](https://templatemo.com/) | Todos os mais de 560 modelos CSS são absolutamente 100% gratuitos para download para uso em seus sites. Você pode usar nossos modelos livremente para fins comerciais ou pessoais. | Sim | Yes | No |
+| [W3Layouts](https://w3layouts.com/) | Temas multiuso para Bootstrap WordPress. Modelos de site de comércio eletrônico entre outros. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
@@ -408,42 +459,7 @@ Link | Descrição | Grátis |
 [Unsplash](https://unsplash.com)       
 [visualhunt](https://visualhunt.com/)   
 [VectorMagic](https://vectormagic.com/)  
-## DESAFIOS
-[30 days CSS](https://30dayscss.vercel.app/challengesList)  
-[Ace Front-end](https://www.acefrontend.com/)  
-[App Ideas](https://github.com/florinpop17/app-ideas)  
-[Codier](https://codier.io/)  
-[CSS Battle](https://cssbattle.dev)   
-[DevChallenge](https://devchallenge.com.br/challenges/frontend)  
-[Edabit](https://edabit.com/challenges/javascript)  
-[Front-end Challenges](https://github.com/felipefialho/frontend-challenges)  
-[Frontend Mentor](https://www.frontendmentor.io/)  
-[JSBeginners](https://jsbeginners.com/)  
-[JSchallenger](https://www.jschallenger.com/)  
-[WoMakersCode Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end)  
-## <a name="inspiracoes"></a>Inspirações
-[Awwwards](https://www.awwwards.com/)  
-[abduzeedo](https://abduzeedo.com)  
-[Best Website Gallery](https://bestwebsite.gallery)  
-[CollectUI](https://collectui.com)  
-[Commercecream.com](https://commercecream.com)  
-[Css Nectar](https://cssnectar.com)  
-[Dribbble](https://dribbble.com)  
-[ecomm.design](https://ecomm.design/)  
-[Httpster](https://httpster.net/2020/apr/)  
-[interfacely](https://www.instagram.com/interfacely/)   
-[Land-book](https://land-book.com)  
-## <a name="templates-html-css"><a/>Templates HTML/CSS
-[BootsWatch](https://bootswatch.com/)  
-[Free-CSS](https://www.free-css.com/)  
-[FreeHTML5](https://freehtml5.co/)  
-[HTML5Up](https://html5up.net/)  
-[HTML5xCSS3](https://www.html5xcss3.com/)  
-[lapa.ninja](https://www.lapa.ninja/)  
-[OnePageLove](https://onepagelove.com/)  
-[Templatemo](https://templatemo.com/)  
-[W3Layouts](https://w3layouts.com/)  
-  
+ 
  ## Contribuidores
 
 <table>
