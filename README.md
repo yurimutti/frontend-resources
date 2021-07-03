@@ -115,7 +115,6 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
-
 ## HTML
 Link | Descrição | Grátis |
 |---|---|---|
@@ -168,8 +167,25 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
-## <a name="inspiracoes"></a>Inspirações
+## Fontes
+Link | Descrição | Grátis |
+|---|---|---|
+| [Adobe Fonts](https://fonts.adobe.com) | Fontes ilimitadas. Escolha quantas precisar entre milhares de opções. Sem custo adicional. Todas as fontes estão incluídas em sua associação à Creative Cloud. | Sim | Yes | No |
+| [CSS Font Stack](https://www.cssfontstack.com) | Pilhas de fontes CSS seguras para a Web e fontes da Web. Selecione, visualize e gere CSS e HTML para sua família de fontes. | Sim | Yes | No |
+| [Font Combinations](https://www.canva.com/font-combinations) | Explicamos os fundamentos da escolha de ótimas fontes. Também fornecemos alguns dos melhores pares de fontes para usar em seu próximo design, bem como modelos com os quais você pode brincar usando os pares de fontes mencionados. | Sim | Yes | No |
+| [FontPair](https://fontpair.co) | Pares de fontes do Google gratuitos para seu próximo projeto criativo | Sim | Yes | No |
+| [FontSquirrel](https://www.fontsquirrel.com) | Sabemos como é difícil encontrar freeware de qualidade licenciado para uso comercial. Selecionamos manualmente essas fontes e apresentando-as em um formato fácil de usar. | Sim | Yes | No |
+| [Google Fonts](https://fonts.google.com) | Tornando a web mais bonita, rápida e aberta por meio de uma ótima tipografia. | Sim | Yes | No |
+| [Just My Type](https://justmytype.co) | Uma coleção de pares de fontes do Typekit e H&FJ. | Sim | Yes | No |
+| [Modular Scale](https://www.modularscale.com) | As escalas modulares multifilamentares são poderosas porque adicionam mais números à sua escala. | Sim | Yes | No |
+| [Transfonter](https://transfonter.org) | Esta ferramenta converte qualquer fonte TTF, OTF, WOFF, WOFF2 ou SVG em formatos css @ font-face com arquivos de amostra CSS e HTML. | Sim | Yes | No |
+| [Typechem](https://typechem.herokuapp.com) | Typechem é uma coleção de fontes escolhidas a dedo e pares de cores. | Sim | Yes | No |
+| [Systemfontstack](https://systemfontstack.com/) | Graças à criação e compra de fontes pela Apple, Microsoft, Google e outras pessoas, a maioria dos computadores tem boas - não, ótimo - fontes instaladas e são uma ótima opção se você não quiser carregar uma fonte separada. | Sim | Yes | No |
+| [Fonts In Use](https://fontsinuse.com/) | Um arquivo pesquisável de design tipográfico, indexado por tipo de letra, formato e tópico. | Sim | Yes | No |
 
+**[⬆ Voltar para o indice](#indice)**
+
+## <a name="inspiracoes"></a>Inspirações
 Link | Descrição | Grátis |
 |---|---|---|
 | [Awwwards](https://www.awwwards.com/) | Awwwards são os Website Awards que reconhecem e promovem o talento e esforço dos melhores desenvolvedores, designers e agências da web do mundo. | Sim | Yes | No |
@@ -318,20 +334,7 @@ Link | Descrição | Grátis |
 [velocityjs](http://velocityjs.org/)  
 [vivus.js](https://maxwellito.github.io/vivus)  
 [Waypoints](http://imakewebthings.com/waypoints/)   
-[You might not need jQuery](http://youmightnotneedjquery.com/)   
-## FONTES 
-[Adobe Fonts](https://fonts.adobe.com)      
-[CSS Font Stack](https://www.cssfontstack.com)      
-[Font Combinations](https://www.canva.com/font-combinations)        
-[FontPair](https://fontpair.co)      
-[FontSquirrel](https://www.fontsquirrel.com)        
-[Google Fonts](https://fonts.google.com)      
-[Just My Type](https://justmytype.co)      
-[Modular Scale](https://www.modularscale.com)    
-[transfonter](https://transfonter.org)      
-[Typechem](https://typechem.herokuapp.com)  
-[systemfontstack](https://systemfontstack.com/)  
-[Fonts In Use](https://fontsinuse.com/)   
+[You might not need jQuery](http://youmightnotneedjquery.com/)  
 ## ÍCONES
 [Boxicons](https://boxicons.com/)      
 [css.gg](https://css.gg/)      
