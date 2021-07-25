@@ -85,6 +85,40 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## CSS
+Link | Descrição | Grátis |
+|---|---|---|
+| [Animate.css](https://animate.style) | É uma biblioteca de animações prontas para uso em vários navegadores para uso em seus projetos da web. | Sim | Yes | No |
+| [Animista](https://animista.net/) | É um lugar onde você pod e brincar com uma coleção de animações CSS pré feitas, e obter somente as que você vai usar de verdade. | Sim | Yes | No |
+| [Autoprefixer](http://autoprefixer.github.io) | É um plugin PostCSS que analisa seu CSS e adiciona prefixos de fornecedores. | Sim | Yes | No |
+| [Bestcssbutton](https://www.bestcssbuttongenerator.com/) | É uma ferramenta online gratuita que permite criar estilos de botões HTML e CSS para vários navegadores. | Sim | Yes | No |
+| [Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow) | É uma ferramenta online gratuita para gerar gradientes, border radius, noise texture e box shadow. | Sim | Yes | No |
+| [Calculadora de especificidade CSS](https://specificity.keegan.st) | Uma maneira visual de entender a especificidade do CSS. Altere os seletores ou cole os seus. | Sim | Yes | No |
+| [Can I Use](https://caniuse.com) | Fornece tabelas de suporte de navegador atualizadas para suporte de tecnologias front-end da web em navegadores de desktop e móveis. | Sim | Yes | No |
+| [Clip-path converter](https://yoksel.github.io/relative-clip-path/) | O conversor está apenas preparando o caminho SVG para ser usado no caminho do clipe CSS. | Sim | Yes | No |
+| [Contrast Ratio](https://contrast-ratio.com/) | Este texto de amostra tenta demonstrar visualmente como essa combinação de cores é legível, para texto normal, itálico, negrito ou negrito itálico de vários tamanhos e estilos de fonte. | Sim | Yes | No |
+| [CSS clip-path maker](https://bennettfeely.com/clippy/) | A propriedade clip-path permite criar formas complexas em CSS, recortando um elemento em uma forma básica (círculo, elipse, polígono ou inserção) ou em uma fonte SVG. | Sim | Yes | No |
+| [CSS Formatter](https://www.cleancss.com/css-beautify) | Formate seu CSS, HTML e Javascript para embelezar e limpar seu código para facilitar a leitura. | Sim | Yes | No |
+| [CSS Gradient](https://cssgradient.io/?fbclid=IwAR0dQD8FCAVJAgzq9p-TgNZn9SkLXgoJrL41XOkzL7eETZ0f6NA7xpPJglo) | É um pequeno site feliz e uma ferramenta gratuita que permite criar um fundo gradiente para sites. | Sim | Yes | No |
+| [CSS Layout](https://csslayout.io/) | Layouts e padrões populares feitos com CSS. Dependências zero. Sem frameworks. Sem Hacks CSS. Casos de uso reais. Boas práticas. | Sim | Yes | No |
+| [CSS Validation Service](https://jigsaw.w3.org/css-validator) | Analisa folhas de estilo em cascata (CSS) e documentos (X)HTML com folha de estilo | Sim | Yes | No |
+| [CSS3 generator](https://css3generator.com/) | Gerador de código CSS3. Border Radius. Box Shadow. Text Shadow. RGBA. Entre outros | Sim | Yes | No |
+| [CSS typeset](http://csstypeset.com/index.htm) | É uma ferramenta prática de tipografia que permite que designers e desenvolvedores testem e aprendam interativamente como estilizar seu conteúdo da web. | Sim | Yes | No |
+| [Cubic Bezier](https://cubic-bezier.com) | Gerador de Cubic-Bezier | Sim | Yes | No |
+| [Pure CSS Components](https://css-components.felipefialho.com/) | Um conjunto de componentes de interface do usuário comuns usando o poder do CSS e sem Javascript. | Sim | Yes | No |
+| [Easing functions](https://easings.net) | Easing functions, especificam a taxa de alteração de um parâmetro ao longo do tempo. Esta página ajuda você a escolher a função de atenuação correta. | Sim | Yes | No |
+| [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) | Um gerador visual para construir formas de aparência orgânica com a ajuda da propriedade border-radius do CSS3. | Sim | Yes | No |
+| [How To Center](http://howtocenterincss.com) | Centralizar em CSS é um pé no saco. Essa ferramenta os consolida e fornece o código de que você precisa para cada situação. | Sim | Yes | No |
+| [HTML5 Canvas Tutorials](https://www.html5canvastutorials.com/) | Diversos tutoriais sobre os recursos do HTML5 e CSS3. | Sim | Yes | No |
+| [Referência CSS da MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) | Use esta referência CSS para navegar por um índice alfabético de todas as propriedades CSS padrão. | Sim | Yes | No |
+| [Shape Divider](https://www.shapedivider.app) | Ferramenta gratuita para tornar mais fácil para designers e desenvolvedores exportar um belo SVG. | Sim | Yes | No |
+| [The Echoplex Flexbox](https://the-echoplex.net/flexyboxes/) | Playground flexbox CSS online e gerador de código. | Sim | Yes | No |
+| [Transition CSS](https://github.com/argyleink/transition.css) | Repositorio com diversas transações, usando CSS. | Sim | Yes | No |
+| [Wait Animate](https://waitanimate.wstone.io/) | O Animate calcula as porcentagens de keyframe atualizadas com um tempo de espera, o que significa que você pode inserir um atraso entre cada iteração da animação usando CSS puro, sem JavaScript. | Sim | Yes | No |
+| [Wow JS](https://wowjs.uk/docs) | É um plugin JavaScript que revela animações quando você rola. Muito amigo do Animate.css. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## Desafios
 Link | Descrição | Grátis |
 |---|---|---|
@@ -278,35 +312,6 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
-## CSS
-[Animate.css](https://animate.style)    
-[animista](https://animista.net/)  
-[Autoprefixer](http://autoprefixer.github.io)   
-[bestcssbutton](https://www.bestcssbuttongenerator.com/)  
-[Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow)    
-[Calculadora de especificidade CSS](https://specificity.keegan.st)    
-[Can I Use](https://caniuse.com)  
-[Clip-path converter](https://yoksel.github.io/relative-clip-path/)   
-[Contrast Ratio](https://contrast-ratio.com/)    
-[CSS clip-path maker](https://bennettfeely.com/clippy/)  
-[CSS Formatter](https://www.cleancss.com/css-beautify)    
-[CSS Gradient](https://cssgradient.io/?fbclid=IwAR0dQD8FCAVJAgzq9p-TgNZn9SkLXgoJrL41XOkzL7eETZ0f6NA7xpPJglo)   
-[CSS Layout](https://csslayout.io/)  
-[CSS Validation Service](https://jigsaw.w3.org/css-validator)    
-[css3generator](https://css3generator.com/)  
-[csstypeset](http://csstypeset.com/?color=color&ColorChooser=383fff)  
-[cubic-bezier](https://cubic-bezier.com)    
-[Pure CSS Components](https://css-components.felipefialho.com/)  
-[Easing functions](https://easings.net)    
-[Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)  
-[How To Center](http://howtocenterincss.com)  
-[html5canvastutorials](https://www.html5canvastutorials.com/)    
-[Referência CSS da MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)  
-[Shape Divider](https://www.shapedivider.app)  
-[the-echoplex-flexbox](https://the-echoplex.net/flexyboxes/)  
-[Transition.css](https://github.com/argyleink/transition.css/stargazers)    
-[waitanimate](https://waitanimate.wstone.io/)  
-[wowjs](https://wowjs.uk/docs)  
 ## JAVASCRIPT
 [Animate On Scroll](https://michalsnik.github.io/aos)  
 [anime.js](https://animejs.com/)  
