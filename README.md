@@ -18,7 +18,7 @@ Conteúdos deverão seguir a ordem alfabética.
 * [Fontes](#fontes)
 * [Host gratuito](#host-gratuito)
 * [HTML](#html)
-* [Icones](#icones)
+* [Ícones](#icones)
 * [Ilustrações](#ilustracoes)
 * [Imagens](#imagens)
 * [Inspirações](#inspiracoes)
@@ -157,6 +157,42 @@ Link | Descrição | Grátis |
 | [Índice de elementos HTML](http://html5doctor.com/element-index) |Referência rápida de elementos que são novos ou foram redefinidos em HTML5. | Sim | Yes | No |
 | [Referência HTML da MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element) | Esta página lista todos os elementos HTML. Eles são agrupados por função para ajuda-lo a achar o que quer fácilmente. | Sim | Yes | No |
 | [Validador de código HTML](https://validator.w3.org) | Este validador verifica a validade da marcação de documentos da Web em HTML, XHTML, SMIL, MathML, etc. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## <a name="icones"></a>Ícones
+Link | Descrição | Grátis |
+|---|---|---|
+| [Boxicons](https://boxicons.com/) | Ícones simples de vetor cuidadosamente elaborados para designers e desenvolvedores. | Sim | Yes | No |
+| [CSS GG](https://css.gg/) | Ícones de interface de usuário CSS, SVG e Figma de código aberto. Disponível em SVG Sprite, componentes estilizados, NPM e API. | Sim | Yes | No |
+| [Eva Icons](https://akveo.github.io/eva-icons/) | Eva Icons é um pacote de mais de 480 ícones Open Source lindamente elaborados para ações e itens comuns. | Sim | Yes | No |
+| [Favicon Generator](https://realfavicongenerator.net) | Gere todos os ícones de que você precisa para navegadores de desktop, iPhone / iPad, dispositivos Android, dispositivos Windows 8 e muito mais. | Sim | Yes | No |
+| [Feather](https://feathericons.com/) | Ícones de código aberto simplesmente lindos | Sim | Yes | No |
+| [Flaticon](https://www.flaticon.com) | Baixe gratuitamente ícones vetoriais e adesivos para seus projetos. Recursos feitos por e para designers. Formatos PNG, SVG, EPS, PSD e BASE 64. | Sim | Yes | No |
+| [Font Awesome](https://fontawesome.com) | Obtenha ícones vetoriais e logotipos sociais em seu site com Font Awesome, o conjunto de ícones e kit de ferramentas mais popular da web. | Sim | Yes | No |
+| [Free icons](https://freeicons.io) | A maior base de dados de ícones gratuitos, disponível nos formatos PNG, SVG, EPS, PSD e BASE 64. | Sim | Yes | No |
+| [Freepik](https://br.freepik.com/) | Recursos gráficos para todos encontre Vetores, PSD e Fotos gratis | Sim | Yes | No |
+| [Heroicons](https://heroicons.dev/) | Um conjunto de mais de 450 ícones SVG gratuitos de alta qualidade licenciados pelo MIT para você usar em seus projetos da web. Disponível como ícones SVG básicos e por meio das bibliotecas React e Vue originais. | Sim | Yes | No |
+| [Icon Icons](https://icon-icons.com/) | Melhores ícones gratuitos para uso pessoal e comercial SVG - PNG | Sim | Yes | No |
+| [Icon Finder](https://www.iconfinder.com/free_icons) | O Iconfinder é o maior mercado do mundo para ícones vetoriais e raster nos formatos SVG e PNG. | Sim | Yes | No |
+| [Icon Moon](https://icomoon.io) | IcoMoon fornece um pacote de ícones vetoriais, junto com um aplicativo HTML5 gratuito para fazer fontes de ícone personalizadas ou sprites SVG. | Plano Grátis, Plano Básico, Plano Ilimitado. | Yes | No |
+| [Icons8](https://icons8.com.br) | Baixe gratuitamente elementos de design: ícones, fotos, ilustrações de UX para seus projetos. | Sim | Yes | No |
+| [Icons Cout](https://iconscout.com/) | SVGs selecionados, ícones vetoriais, ilustrações, gráficos 3D e animações Lottie. Mais de 3.000 ativos adicionados todos os dias.  | Sim | Yes | No |
+| [Icon SVG](https://iconsvg.xyz/) | Ícones personalizáveis rápidos para seus projetos | Sim | Yes | No |
+| [Ikonate](https://ikonate.com/) | Ferramenta simples para localizar, personalizar e gerar ícones SVG comuns para o seu projeto. | Sim | Yes | No |
+| [Ion Icons](https://ionicons.com/) | Ícones projetados para uso em aplicativos da web, iOS, Android e desktop. Suporte para SVG e fonte da web. | Sim | Yes | No |
+| [Line Awesome](https://icons8.com/line-awesome) | Swap Font Awesome para ícones de linha modernos em uma linha de código. | Sim | Yes | No |
+| [Newsbi Icon Pack](https://gumroad.com/l/lfdy) | Faça o design de maneira mais inteligente. Recursos de UI de classe mundial para economizar custos e ajudar a construir seu produto com mais rapidez. | Sim | Yes | No |
+| [Noun Project](https://thenounproject.com) | Apresenta a coleção mais diversa de ícones e fotos de todos os tempos. Baixe SVG e PNG. | Sim | Yes | No |
+| [Pixelart Icons](https://pixelarticons.com/) | Mais de 350 ícones de estilo pixel art de código aberto, em uma cor e feitos com uma grade de 24x24px. | Sim | Yes | No |
+| [Radix Icons](https://icons.modulz.app) | Um conjunto nítido de 15 × 15 ícones projetados pela equipe Modulz. | Sim | Yes | No |
+| [Remix Icon](https://remixicon.com/) | É um conjunto de símbolos de sistema de estilo neutro de código aberto elaboradamente elaborado para designers e desenvolvedores. Todos os ícones são gratuitos para uso pessoal e comercial. | Sim | Yes | No |
+| [Shape SO](https://shape.so/) | Shape permite que você personalize o estilo, as cores e as bordas de ícones e ilustrações estáticos e animados. | Sim | Yes | No |
+| [Simple Icons](https://simpleicons.org/) | 1978 Ícones SVG gratuitos para marcas populares. | Sim | Yes | No |
+| [Steamline Free](https://www.streamlineicons.com/free/) | 100.000 ícones, ilustrações e emoji para todos os seus projetos. Personalize-os de acordo com sua marca em segundos. | Plano Gratuito, Plano All icons, Plano All Illustrations, Plano Super Bundle | Yes | No |
+| [SVG Icons](http://svgicons.sparkk.fr/) | Escolha um ícone. Tudo que você precisa fazer é copiar e colar o código HTML. | Sim | Yes | No |
+| [Tabler Icons](https://tablericons.com/) | 1280 Ícones SVG gratuitos totalmente personalizáveis. (Licença MIT). | Sim | Yes | No |
+| [Tilda Icons](https://tilda.cc/free-icons/) | Baixe gratuitamente ícones SVG e use-os em seus projetos. Não se esqueça de vincular de volta à fonte. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
@@ -344,40 +380,7 @@ Link | Descrição | Grátis |
 | [Xd Guru](https://xdguru.com) | A maior coleção de recursos gratuitos e premium para Adobe XD. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
- 
-## ÍCONES
-[Boxicons](https://boxicons.com/)      
-[css.gg](https://css.gg/)      
-[Eva Icons](https://akveo.github.io/eva-icons/)  
-[Favicon Generator](https://realfavicongenerator.net)  
-[Feather](https://feathericons.com/)  
-[Flaticon](https://www.flaticon.com)  
-[Font Awesome](https://fontawesome.com)  
-[Free icons](https://freeicons.io)  
-[freeicons.io](https://freeicons.io/)  
-[Freepik](https://br.freepik.com/)  
-[Heroicons](https://heroicons.dev/)  
-[Icon Icons](https://icon-icons.com/)  
-[Iconfinder](https://www.iconfinder.com/free_icons)   
-[IconMoon](https://icomoon.io)  
-[Icons8](https://icons8.com.br)   
-[Iconscout](https://iconscout.com/)   
-[Iconsvg](https://iconsvg.xyz/)  
-[Ikonate](https://ikonate.com/)  
-[Ionicons](https://ionicons.com/)  
-[Line Awesome](https://icons8.com/line-awesome)  
-[Newsbi Icon Pack](https://gumroad.com/l/lfdy)  
-[Noun Project](https://thenounproject.com)  
-[Pixelarticons](https://pixelarticons.com/)  
-[Radix Icons](https://icons.modulz.app)  
-[Remix Icon](https://remixicon.com/)  
-[shape.so](https://shape.so/)  
-[Simple Icons](https://simpleicons.org/)  
-[Steamline Free](https://www.streamlineicons.com/free/)  
-[Streamline UX](https://www.streamlineicons.com/ux/)  
-[svgicons](http://svgicons.sparkk.fr/)  
-[Tabler Icons](https://tablericons.com/)  
-[Tilda Icons](https://tilda.cc/free-icons/)  
+
 ## <a name="ilustracoes"><a/>Ilustrações
 [3000 Hands](https://www.shapefest.com/expansions/3000-hands)    
 [404 illustrations by kapwing](https://www.kapwing.com/404-illustrations)  
