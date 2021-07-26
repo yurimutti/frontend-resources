@@ -236,6 +236,39 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## JavaScript
+Link | Descrição | Grátis |
+|---|---|---|
+| [Animate On Scroll](https://michalsnik.github.io/aos) | Biblioteca de animação de scroll. | Sim | Yes | No |
+| [Anime JS](https://animejs.com/) | É uma biblioteca de animação JavaScript leve com uma API simples. Funciona com propriedades CSS, SVG, atributos DOM e Objetos JavaScript. | Sim | Yes | No |
+| [GreenSock](https://greensock.com/gsap) | É uma biblioteca de animação JavaScript padrão da GreenSock que permite criar animações de alto desempenho que funcionam em todos os principais navegadores. | Sim | Yes | No |
+| [Immediately Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/) | Blog post sobre, Expressão de Função Imediatamente Invocada (IIFE) | Sim | Yes | No |
+| [Lightbox](https://lokeshdhakar.com/projects/lightbox2/) | É uma pequena biblioteca javascript usada para sobrepor imagens na parte superior da página atual. É fácil de configurar e funciona em todos os navegadores modernos. | Sim | Yes | No |
+| [Micro JS](http://microjs.com/) | Conjunto de microestruturas. Microestruturas são definitivamente o canivete do mundo da biblioteca JavaScript: curto, doce, direto ao ponto. E com 5k ou menos. | Sim | Yes | No |
+| [Moment JS](https://momentjs.com) | É um pacote open source que pode ser utilizado para validar, manipular e fazer o parse de datas no JavaScript. | Sim | Yes | No |
+| [Move JS](https://github.com/visionmedia/move.js) | É uma pequena biblioteca JavaScript que torna a animação apoiada em CSS3 extremamente simples e elegante. | Sim | Yes | No |
+| [Moving Letters](https://tobiasahlin.com/moving-letters/) | Texto animado com JavaScript e anime.js. | Sim | Yes | No |
+| [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/) | Plugin jQuery habilitado para toque que permite criar um lindo slider de carrossel responsivo. | Sim | Yes | No |
+| [Parallax](https://matthew.wagerfield.com/parallax/) | Parallax.js reage à orientação do seu dispositivo inteligente, deslocando camadas dependendo de sua profundidade dentro de uma cena.| Sim | Yes | No |
+| [Particles JS](https://vincentgarreau.com/particles.js/) | Uma biblioteca JavaScript leve para a criação de partículas. | Sim | Yes | No |
+| [Eventos JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/Events) | Referência de eventos no JavaScript.| Sim | Yes | No |
+| [Referência JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference) | Referencia JavaScript, escrito por MDN. | Sim | Yes | No |
+| [Regex 101](https://regex101.com) | Testador de expressão regular com destaque de sintaxe, explicação, folha de dicas para PHP / PCRE, Python, GO, JavaScript, Java. Apresenta um questionário e biblioteca de regex. | Sim | Yes | No |
+| [Rellax JS](https://dixonandmoe.com/rellax/) | Rellax é uma biblioteca paralaxe javascript suave e superleve. | Sim | Yes | No |
+| [Scroll Magic](https://scrollmagic.io/) | Ajuda você a reagir facilmente à posição de rolagem atual do usuário. | Sim | Yes | No |
+| [Skrollr](https://prinzhorn.github.io/skrollr/) | É uma biblioteca de animação de rolagem completa. Na verdade, você pode usá-lo e ainda não ter nenhuma rolagem de paralaxe. Skrollr aproveita HTML5 e CSS3. | Sim | Yes | No |
+| [SlickSlider](https://kenwheeler.github.io/slick/) | É uma biblioteca de carrossel. | Sim | Yes | No |
+| [Swiper](https://swiperjs.com) | É o controle deslizante móvel mais moderno e gratuito com transições aceleradas por hardware e comportamento nativo incrível. Destina-se a ser usado em sites móveis, aplicativos da web móveis e aplicativos nativos / híbridos móveis. | Sim | Yes | No |
+| [Three JS](https://threejs.org) | É uma biblioteca 3D de propósito geral fácil de usar, leve e compatível com vários navegadores.  | Sim | Yes | No |
+| [Typed JS](https://mattboldt.com/demos/typed-js/) | É uma biblioteca que digita. Insira qualquer string e observe-a digitar na velocidade que você configurou, retroceda o que foi digitado e comece uma nova frase para quantas strings você configurou. | Sim | Yes | No |
+| [T-writter JS](https://chriscavs.github.io/t-writer-demo/) | É uma biblioteca de efeito de máquina de escrever nativa. | Sim | Yes | No |
+| [Velocity JS](http://velocityjs.org/) | É um mecanismo de animação com a mesma API do $ .animate () do jQuery. Funciona com e sem jQuery. | Sim | Yes | No |
+| [Vivus JS](https://maxwellito.github.io/vivus) | É uma classe JavaScript leve (sem dependências) que permite animar SVGs, dando-lhes a aparência de estarem desenhados. | Sim | Yes | No |
+| [Waypoints](http://imakewebthings.com/waypoints/) | É a maneira mais fácil de acionar uma função ao rolar para um elemento. | Sim | Yes | No |
+| [You might not need jQuery](http://youmightnotneedjquery.com/) | O jQuery e seus primos são ótimos e, sem dúvida, use-os para facilitar o desenvolvimento de seu aplicativo. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## Minifier
 Link | Descrição | Grátis |
 |---|---|---|
@@ -311,35 +344,7 @@ Link | Descrição | Grátis |
 | [Xd Guru](https://xdguru.com) | A maior coleção de recursos gratuitos e premium para Adobe XD. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
-
-## JAVASCRIPT
-[Animate On Scroll](https://michalsnik.github.io/aos)  
-[anime.js](https://animejs.com/)  
-[GreenSock](https://greensock.com/gsap)   
-[Immediately-Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)  
-[Lightbox](https://lokeshdhakar.com/projects/lightbox2/)  
-[Microjs](http://microjs.com/)    
-[Momentjs](https://momentjs.com)  
-[move.js](https://github.com/visionmedia/move.js)  
-[Moving Letters](https://tobiasahlin.com/moving-letters/)  
-[Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)  
-[Parallax](https://matthew.wagerfield.com/parallax/)  
-[particles.js](https://vincentgarreau.com/particles.js/)  
-[Referência de Eventos JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/Events)    
-[Referência JavaScript da MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference)     
-[regex101](https://regex101.com)      
-[Rellax js](https://dixonandmoe.com/rellax/)  
-[Scroll Magic](https://scrollmagic.io/)  
-[Skrollr](https://prinzhorn.github.io/skrollr/)   
-[SlickSlider](https://kenwheeler.github.io/slick/)  
-[Swiper](https://swiperjs.com)   
-[three.js](https://threejs.org)  
-[typedjs](https://mattboldt.com/demos/typed-js/)  
-[t-writter.js](https://chriscavs.github.io/t-writer-demo/)  
-[velocityjs](http://velocityjs.org/)  
-[vivus.js](https://maxwellito.github.io/vivus)  
-[Waypoints](http://imakewebthings.com/waypoints/)   
-[You might not need jQuery](http://youmightnotneedjquery.com/)  
+ 
 ## ÍCONES
 [Boxicons](https://boxicons.com/)      
 [css.gg](https://css.gg/)      
