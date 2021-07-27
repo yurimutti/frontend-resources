@@ -18,7 +18,7 @@ Conteúdos deverão seguir a ordem alfabética.
 * [Fontes](#fontes)
 * [Host gratuito](#host-gratuito)
 * [HTML](#html)
-* [Icones](#icones)
+* [Ícones](#icones)
 * [Ilustrações](#ilustracoes)
 * [Imagens](#imagens)
 * [Inspirações](#inspiracoes)
@@ -160,6 +160,42 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## <a name="icones"></a>Ícones
+Link | Descrição | Grátis |
+|---|---|---|
+| [Boxicons](https://boxicons.com/) | Ícones simples de vetor cuidadosamente elaborados para designers e desenvolvedores. | Sim | Yes | No |
+| [CSS GG](https://css.gg/) | Ícones de interface de usuário CSS, SVG e Figma de código aberto. Disponível em SVG Sprite, componentes estilizados, NPM e API. | Sim | Yes | No |
+| [Eva Icons](https://akveo.github.io/eva-icons/) | Eva Icons é um pacote de mais de 480 ícones Open Source lindamente elaborados para ações e itens comuns. | Sim | Yes | No |
+| [Favicon Generator](https://realfavicongenerator.net) | Gere todos os ícones de que você precisa para navegadores de desktop, iPhone / iPad, dispositivos Android, dispositivos Windows 8 e muito mais. | Sim | Yes | No |
+| [Feather](https://feathericons.com/) | Ícones de código aberto simplesmente lindos | Sim | Yes | No |
+| [Flaticon](https://www.flaticon.com) | Baixe gratuitamente ícones vetoriais e adesivos para seus projetos. Recursos feitos por e para designers. Formatos PNG, SVG, EPS, PSD e BASE 64. | Sim | Yes | No |
+| [Font Awesome](https://fontawesome.com) | Obtenha ícones vetoriais e logotipos sociais em seu site com Font Awesome, o conjunto de ícones e kit de ferramentas mais popular da web. | Sim | Yes | No |
+| [Free icons](https://freeicons.io) | A maior base de dados de ícones gratuitos, disponível nos formatos PNG, SVG, EPS, PSD e BASE 64. | Sim | Yes | No |
+| [Freepik](https://br.freepik.com/) | Recursos gráficos para todos encontre Vetores, PSD e Fotos gratis | Sim | Yes | No |
+| [Heroicons](https://heroicons.dev/) | Um conjunto de mais de 450 ícones SVG gratuitos de alta qualidade licenciados pelo MIT para você usar em seus projetos da web. Disponível como ícones SVG básicos e por meio das bibliotecas React e Vue originais. | Sim | Yes | No |
+| [Icon Icons](https://icon-icons.com/) | Melhores ícones gratuitos para uso pessoal e comercial SVG - PNG | Sim | Yes | No |
+| [Icon Finder](https://www.iconfinder.com/free_icons) | O Iconfinder é o maior mercado do mundo para ícones vetoriais e raster nos formatos SVG e PNG. | Sim | Yes | No |
+| [Icon Moon](https://icomoon.io) | IcoMoon fornece um pacote de ícones vetoriais, junto com um aplicativo HTML5 gratuito para fazer fontes de ícone personalizadas ou sprites SVG. | Plano Grátis, Plano Básico, Plano Ilimitado. | Yes | No |
+| [Icons8](https://icons8.com.br) | Baixe gratuitamente elementos de design: ícones, fotos, ilustrações de UX para seus projetos. | Sim | Yes | No |
+| [Icons Cout](https://iconscout.com/) | SVGs selecionados, ícones vetoriais, ilustrações, gráficos 3D e animações Lottie. Mais de 3.000 ativos adicionados todos os dias.  | Sim | Yes | No |
+| [Icon SVG](https://iconsvg.xyz/) | Ícones personalizáveis rápidos para seus projetos | Sim | Yes | No |
+| [Ikonate](https://ikonate.com/) | Ferramenta simples para localizar, personalizar e gerar ícones SVG comuns para o seu projeto. | Sim | Yes | No |
+| [Ion Icons](https://ionicons.com/) | Ícones projetados para uso em aplicativos da web, iOS, Android e desktop. Suporte para SVG e fonte da web. | Sim | Yes | No |
+| [Line Awesome](https://icons8.com/line-awesome) | Swap Font Awesome para ícones de linha modernos em uma linha de código. | Sim | Yes | No |
+| [Newsbi Icon Pack](https://gumroad.com/l/lfdy) | Faça o design de maneira mais inteligente. Recursos de UI de classe mundial para economizar custos e ajudar a construir seu produto com mais rapidez. | Sim | Yes | No |
+| [Noun Project](https://thenounproject.com) | Apresenta a coleção mais diversa de ícones e fotos de todos os tempos. Baixe SVG e PNG. | Sim | Yes | No |
+| [Pixelart Icons](https://pixelarticons.com/) | Mais de 350 ícones de estilo pixel art de código aberto, em uma cor e feitos com uma grade de 24x24px. | Sim | Yes | No |
+| [Radix Icons](https://icons.modulz.app) | Um conjunto nítido de 15 × 15 ícones projetados pela equipe Modulz. | Sim | Yes | No |
+| [Remix Icon](https://remixicon.com/) | É um conjunto de símbolos de sistema de estilo neutro de código aberto elaboradamente elaborado para designers e desenvolvedores. Todos os ícones são gratuitos para uso pessoal e comercial. | Sim | Yes | No |
+| [Shape SO](https://shape.so/) | Shape permite que você personalize o estilo, as cores e as bordas de ícones e ilustrações estáticos e animados. | Sim | Yes | No |
+| [Simple Icons](https://simpleicons.org/) | 1978 Ícones SVG gratuitos para marcas populares. | Sim | Yes | No |
+| [Steamline Free](https://www.streamlineicons.com/free/) | 100.000 ícones, ilustrações e emoji para todos os seus projetos. Personalize-os de acordo com sua marca em segundos. | Plano Gratuito, Plano All icons, Plano All Illustrations, Plano Super Bundle | Yes | No |
+| [SVG Icons](http://svgicons.sparkk.fr/) | Escolha um ícone. Tudo que você precisa fazer é copiar e colar o código HTML. | Sim | Yes | No |
+| [Tabler Icons](https://tablericons.com/) | 1280 Ícones SVG gratuitos totalmente personalizáveis. (Licença MIT). | Sim | Yes | No |
+| [Tilda Icons](https://tilda.cc/free-icons/) | Baixe gratuitamente ícones SVG e use-os em seus projetos. Não se esqueça de vincular de volta à fonte. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## <a name="edicao-imagens"></a>Edição de Imagens
 Link | Descrição | Grátis |
 |---|---|---|
@@ -233,6 +269,39 @@ Link | Descrição | Grátis |
 | [Httpster](https://httpster.net/2020/apr/) | É um recurso de inspiração que mostra sites totalmente arrasadores feitos por pessoas de todo o mundo. | Sim | Yes | No |
 | [interfacely](https://www.instagram.com/interfacely/) | Os melhores designs de UI / UX do mundo com GUIAS! | Sim | Yes | No |
 | [Land-book](https://land-book.com) | Galeria de designs com os melhores e mais cuidadosos websites. Ajudamos os criativos a encontrar inspiração e motivação para fazer coisas radicais. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## JavaScript
+Link | Descrição | Grátis |
+|---|---|---|
+| [Animate On Scroll](https://michalsnik.github.io/aos) | Biblioteca de animação de scroll. | Sim | Yes | No |
+| [Anime JS](https://animejs.com/) | É uma biblioteca de animação JavaScript leve com uma API simples. Funciona com propriedades CSS, SVG, atributos DOM e Objetos JavaScript. | Sim | Yes | No |
+| [GreenSock](https://greensock.com/gsap) | É uma biblioteca de animação JavaScript padrão da GreenSock que permite criar animações de alto desempenho que funcionam em todos os principais navegadores. | Sim | Yes | No |
+| [Immediately Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/) | Blog post sobre, Expressão de Função Imediatamente Invocada (IIFE) | Sim | Yes | No |
+| [Lightbox](https://lokeshdhakar.com/projects/lightbox2/) | É uma pequena biblioteca javascript usada para sobrepor imagens na parte superior da página atual. É fácil de configurar e funciona em todos os navegadores modernos. | Sim | Yes | No |
+| [Micro JS](http://microjs.com/) | Conjunto de microestruturas. Microestruturas são definitivamente o canivete do mundo da biblioteca JavaScript: curto, doce, direto ao ponto. E com 5k ou menos. | Sim | Yes | No |
+| [Moment JS](https://momentjs.com) | É um pacote open source que pode ser utilizado para validar, manipular e fazer o parse de datas no JavaScript. | Sim | Yes | No |
+| [Move JS](https://github.com/visionmedia/move.js) | É uma pequena biblioteca JavaScript que torna a animação apoiada em CSS3 extremamente simples e elegante. | Sim | Yes | No |
+| [Moving Letters](https://tobiasahlin.com/moving-letters/) | Texto animado com JavaScript e anime.js. | Sim | Yes | No |
+| [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/) | Plugin jQuery habilitado para toque que permite criar um lindo slider de carrossel responsivo. | Sim | Yes | No |
+| [Parallax](https://matthew.wagerfield.com/parallax/) | Parallax.js reage à orientação do seu dispositivo inteligente, deslocando camadas dependendo de sua profundidade dentro de uma cena.| Sim | Yes | No |
+| [Particles JS](https://vincentgarreau.com/particles.js/) | Uma biblioteca JavaScript leve para a criação de partículas. | Sim | Yes | No |
+| [Eventos JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/Events) | Referência de eventos no JavaScript.| Sim | Yes | No |
+| [Referência JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference) | Referencia JavaScript, escrito por MDN. | Sim | Yes | No |
+| [Regex 101](https://regex101.com) | Testador de expressão regular com destaque de sintaxe, explicação, folha de dicas para PHP / PCRE, Python, GO, JavaScript, Java. Apresenta um questionário e biblioteca de regex. | Sim | Yes | No |
+| [Rellax JS](https://dixonandmoe.com/rellax/) | Rellax é uma biblioteca paralaxe javascript suave e superleve. | Sim | Yes | No |
+| [Scroll Magic](https://scrollmagic.io/) | Ajuda você a reagir facilmente à posição de rolagem atual do usuário. | Sim | Yes | No |
+| [Skrollr](https://prinzhorn.github.io/skrollr/) | É uma biblioteca de animação de rolagem completa. Na verdade, você pode usá-lo e ainda não ter nenhuma rolagem de paralaxe. Skrollr aproveita HTML5 e CSS3. | Sim | Yes | No |
+| [SlickSlider](https://kenwheeler.github.io/slick/) | É uma biblioteca de carrossel. | Sim | Yes | No |
+| [Swiper](https://swiperjs.com) | É o controle deslizante móvel mais moderno e gratuito com transições aceleradas por hardware e comportamento nativo incrível. Destina-se a ser usado em sites móveis, aplicativos da web móveis e aplicativos nativos / híbridos móveis. | Sim | Yes | No |
+| [Three JS](https://threejs.org) | É uma biblioteca 3D de propósito geral fácil de usar, leve e compatível com vários navegadores.  | Sim | Yes | No |
+| [Typed JS](https://mattboldt.com/demos/typed-js/) | É uma biblioteca que digita. Insira qualquer string e observe-a digitar na velocidade que você configurou, retroceda o que foi digitado e comece uma nova frase para quantas strings você configurou. | Sim | Yes | No |
+| [T-writter JS](https://chriscavs.github.io/t-writer-demo/) | É uma biblioteca de efeito de máquina de escrever nativa. | Sim | Yes | No |
+| [Velocity JS](http://velocityjs.org/) | É um mecanismo de animação com a mesma API do $ .animate () do jQuery. Funciona com e sem jQuery. | Sim | Yes | No |
+| [Vivus JS](https://maxwellito.github.io/vivus) | É uma classe JavaScript leve (sem dependências) que permite animar SVGs, dando-lhes a aparência de estarem desenhados. | Sim | Yes | No |
+| [Waypoints](http://imakewebthings.com/waypoints/) | É a maneira mais fácil de acionar uma função ao rolar para um elemento. | Sim | Yes | No |
+| [You might not need jQuery](http://youmightnotneedjquery.com/) | O jQuery e seus primos são ótimos e, sem dúvida, use-os para facilitar o desenvolvimento de seu aplicativo. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
@@ -312,67 +381,6 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
-## JAVASCRIPT
-[Animate On Scroll](https://michalsnik.github.io/aos)  
-[anime.js](https://animejs.com/)  
-[GreenSock](https://greensock.com/gsap)   
-[Immediately-Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)  
-[Lightbox](https://lokeshdhakar.com/projects/lightbox2/)  
-[Microjs](http://microjs.com/)    
-[Momentjs](https://momentjs.com)  
-[move.js](https://github.com/visionmedia/move.js)  
-[Moving Letters](https://tobiasahlin.com/moving-letters/)  
-[Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)  
-[Parallax](https://matthew.wagerfield.com/parallax/)  
-[particles.js](https://vincentgarreau.com/particles.js/)  
-[Referência de Eventos JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/Events)    
-[Referência JavaScript da MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference)     
-[regex101](https://regex101.com)      
-[Rellax js](https://dixonandmoe.com/rellax/)  
-[Scroll Magic](https://scrollmagic.io/)  
-[Skrollr](https://prinzhorn.github.io/skrollr/)   
-[SlickSlider](https://kenwheeler.github.io/slick/)  
-[Swiper](https://swiperjs.com)   
-[three.js](https://threejs.org)  
-[typedjs](https://mattboldt.com/demos/typed-js/)  
-[t-writter.js](https://chriscavs.github.io/t-writer-demo/)  
-[velocityjs](http://velocityjs.org/)  
-[vivus.js](https://maxwellito.github.io/vivus)  
-[Waypoints](http://imakewebthings.com/waypoints/)   
-[You might not need jQuery](http://youmightnotneedjquery.com/)  
-## ÍCONES
-[Boxicons](https://boxicons.com/)      
-[css.gg](https://css.gg/)      
-[Eva Icons](https://akveo.github.io/eva-icons/)  
-[Favicon Generator](https://realfavicongenerator.net)  
-[Feather](https://feathericons.com/)  
-[Flaticon](https://www.flaticon.com)  
-[Font Awesome](https://fontawesome.com)  
-[Free icons](https://freeicons.io)  
-[freeicons.io](https://freeicons.io/)  
-[Freepik](https://br.freepik.com/)  
-[Heroicons](https://heroicons.dev/)  
-[Icon Icons](https://icon-icons.com/)  
-[Iconfinder](https://www.iconfinder.com/free_icons)   
-[IconMoon](https://icomoon.io)  
-[Icons8](https://icons8.com.br)   
-[Iconscout](https://iconscout.com/)   
-[Iconsvg](https://iconsvg.xyz/)  
-[Ikonate](https://ikonate.com/)  
-[Ionicons](https://ionicons.com/)  
-[Line Awesome](https://icons8.com/line-awesome)  
-[Newsbi Icon Pack](https://gumroad.com/l/lfdy)  
-[Noun Project](https://thenounproject.com)  
-[Pixelarticons](https://pixelarticons.com/)  
-[Radix Icons](https://icons.modulz.app)  
-[Remix Icon](https://remixicon.com/)  
-[shape.so](https://shape.so/)  
-[Simple Icons](https://simpleicons.org/)  
-[Steamline Free](https://www.streamlineicons.com/free/)  
-[Streamline UX](https://www.streamlineicons.com/ux/)  
-[svgicons](http://svgicons.sparkk.fr/)  
-[Tabler Icons](https://tablericons.com/)  
-[Tilda Icons](https://tilda.cc/free-icons/)  
 ## <a name="ilustracoes"><a/>Ilustrações
 [3000 Hands](https://www.shapefest.com/expansions/3000-hands)    
 [404 illustrations by kapwing](https://www.kapwing.com/404-illustrations)  
