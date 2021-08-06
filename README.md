@@ -196,7 +196,7 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
-## <a name="ilustracoes"><a/>I lustrações
+## <a name="ilustracoes"><a/>Ilustrações
 Link | Descrição | Grátis |
 |---|---|---|
 | [3000 Hands](https://www.shapefest.com/expansions/3000-hands) | Uma enorme biblioteca gratuita de formas 3D lindamente renderizadas. | Sim | Yes | No |
