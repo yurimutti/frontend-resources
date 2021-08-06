@@ -196,6 +196,57 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## <a name="ilustracoes"><a/>Ilustrações
+Link | Descrição | Grátis |
+|---|---|---|
+| [3000 Hands](https://www.shapefest.com/expansions/3000-hands) | Uma enorme biblioteca gratuita de formas 3D lindamente renderizadas. | Sim | Yes | No |
+| [404 illustrations](https://www.kapwing.com/404-illustrations) | Imagens modernas e prontas para usar na sua página 404. | Sim | Yes | No |
+| [404 illustrations Fun](https://error404.fun/) | Faça uma viagem única pelas páginas de erro 404 em seu site. Use essas ilustrações que descrevem melhor do que palavras. | Sim | Yes | No |
+| [Abstrakt](https://www.abstrakt.design/) | Baixe nossas ilustrações abstratas gratuitas e premium para sua próxima página de destino, aplicativo móvel e apresentação. | Sim / 20€ Mês. | Yes | No |
+| [Absurd Design](https://absurd.design/) | Que tal ilustrações absurdas para seus projetos? Leve cada usuário em uma jornada individual através de sua própria imaginação. | Sim | Yes | No |
+| [Ara Illustration](https://www.aracreator.com/) | Crie suas próprias composições de cena de ilustração. Obtenha o Ara gratuitamente com licenças pessoais e comerciais | Sim | Yes | No |
+| [Black illustrations](https://www.blackillustrations.com) | De seus sites, aplicativos da web a aplicativos móveis, criamos esses designs para serem usados em qualquer lugar. | Sim / O preço das ilustrações pode variar.| Yes | No |
+| [Blob Marker](https://www.blobmaker.app/) | É uma ferramenta de design generativa gratuita feita para ajudá-lo a criar rapidamente formas SVG aleatórias, exclusivas e com aparência orgânica. | Sim | Yes | No |
+| [Blush](https://blush.design/) | Crie e personalize facilmente ilustrações impressionantes com coleções feitas por artistas de todo o mundo. | Sim / $ 12 Mês. | Yes | No |
+| [Construtor de Ilustrações](https://itg.digital/) | Crie ilustrações personalizadas com apenas alguns cliques usando nosso construtor online. | Sim | Yes | No |
+| [Control](https://control.rocks) | Uma grande biblioteca de ilustrações com estilo e tipos de ação personalizáveis. Use o construtor para criar a cena que você está procurando. | Sim / $38 mês ou $89 trimestral. | Yes | No |
+| [Delesign](https://delesign.com/) | Use nossos designs livres de royalties para seu site, mídia social, blog, boletins informativos por e-mail e muito mais. | Sim | Yes | No |
+| [Design.ai](https://designs.ai/graphicmaker/) | Ilustrações editáveis em cores gratuitas para elevar suas comunicações visuais. | Sim | Yes | No |
+| [DrawKit](https://www.drawkit.io) | Recursos de ícones e ilustração vetorial desenhada à mão, perfeitos para o seu próximo projeto. | Sim | Yes | No |
+| [Flow Lava](https://flowlava.club) | Crie um projeto atraente e único com personagens futuristas por um construtor fácil de usar. | Sim / 89$ Trimestre | Yes | No |
+| [Frellustrations](https://freellustrations.com/) | Coleção de imagens de fundo de ilustrações ou vetores de alta resolução para sites e páginas de destino modernos. | Sim | Yes | No |
+| [Fresh Folk](https://fresh-folk.com/) | Uma biblioteca de ilustração de pessoas e objetos. | Sim | Yes | No |
+| [Get Waves](https://getwaves.io/) | Um gerador de ondas SVG gratuito para criar ondas SVG exclusivas para o seu próximo design da web. Escolha uma curva, ajuste a complexidade, randomize. | Sim | Yes | No |
+| [Get Illustrations](https://www.getillustrations.com/illustration-packs/freebie) | Crie uma biblioteca de ilustrações de integração para seu próximo projeto. | Sim | Yes | No |
+| [Glaze](https://www.glazestock.com/) | Produtos, marcas e apresentações memoráveis começam com nosso biblioteca de ilustração royalty-free com curadoria. | Sim | Yes | No |
+| [Growww](https://growwwkit.com/illustrations/phonies/) | Um conjunto de 8 ilustrações simples, em preto e branco e elegantes para páginas de destino, telas de dispositivos móveis e outros fins editoriais. | Sim | Yes | No |
+| [Humaaans](https://www.humaaans.com/) | Misture e combine ilustrações de pessoas com uma biblioteca de design. | Sim | Yes | No |
+| [Illustrations](https://illlustrations.co/) | Você pode baixar todas as ilustrações gratuitamente e usá-las para criar um design incrível - páginas de destino, aplicativos móveis ou apresentações. | Sim | Yes | No |
+| [IRA Design](https://iradesign.io/) | Usando nossos gradientes impressionantes e componentes de esboço desenhados à mão. | Sim | Yes | No |
+| [Karthik Srinivas](https://www.karthiksrinivas.in/illustrations) | Diversas ilustrações e icones para você usar em seus projetos. | Sim | Yes | No |
+| [Kukla Kit](https://kukla-kit.wannathis.one/) | Pacote enorme de elementos 3D acessíveis diretamente do Figma. | Sim | Yes | No |
+| [Logo Maker](https://www.brandcrowd.com/) | Crie um cartão de visita deslumbrante em minutos. Navegue por milhares de designs com curadoria profissional e edite-os com nosso criador de cartões de visita. | Sim | Yes | No |
+| [Lukasadam](https://lukaszadam.com/illustrations) | Gratuito para uso comercial e pessoal sob a licença CC0 (licença MIT). Nenhuma atribuição necessária. | Sim | Yes | No |
+| [Manypixels Illustration Gallery](https://www.manypixels.co/gallery/) | Descubra novas ilustrações todas as semanas. Use-os nas páginas de destino, postagens de blogs, boletins informativos, gráficos de mídia social.| Sim | Yes | No |
+| [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack) | Esta é uma coleção de ilustrações vetoriais desenhadas à mão. Mais de 160 elementos de doodle (nuvens, cactos, estrelas, monstros, donuts, foguetes, pizzas, corações, tênis, lápis, diamantes, gatos, mãos, arco-íris, flechas, telefones celulares, etc). | Sim | Yes | No |
+| [Mixkit Art](https://mixkit.co/free-stock-art/) | Belas Artes e Ilustração para você usar em seu próximo projeto criativo, de graça. | Sim | Yes | No |
+| [Open Doodles](https://www.opendoodles.com/) | Uma biblioteca de ilustrações esboçadas de pessoas, gratuita para uso pessoal e comercial. | Sim | Yes | No |
+| [Open Peeps](https://www.openpeeps.com/) | É uma biblioteca de ilustração desenhada à mão para criar cenas de pessoas. | Sim | Yes | No |
+| [Ouch](https://icons8.com/illustrations) | Ilustrações grátis para melhorar o seu projeto Ouch ajuda os criadores que não sabem desenhar a superar a falta de gráficos de qualidade. | Sim | Yes | No |
+| [Paper Illustrations](https://iconscout.com/paper-illustrations) | Faça seu trabalho se destacar com ilustrações em papel conjunto incrível de ilustrações em papel absolutamente grátis para uso pessoal e comercial. | Sim | Yes | No |
+| [Sapiens](https://sapiens.ui8.net/) | É uma bela biblioteca de ilustrações modulares de personagens baseadas em componentes para Sketch e Figma. | Sim | Yes | No |
+| [Scribbles](https://www.scribbbles.design/) | Mais de 100 rabiscos vetorizados para apimentar seus projetos de design. | Sim | Yes | No |
+| [Smash Illustrations](https://usesmash.com/) | Ilustração incrível construtor com colorido e personagens da moda. | Sim | Yes | No |
+| [Story Set](https://storyset.com) | Ilustrações personalizáveis gratuitas incríveis para seu próximo projeto personalize, anime e baixe nossas ilustrações para criar páginas de destino, aplicativos ou apresentações. | Sim | Yes | No |
+| [Storytale](https://storytale.io) | Ilustrações da web de alta qualidade com assinatura simples use essas ilustrações para dar vida aos seus sites, aplicativos e apresentações. | Sim | Yes | No |
+| [Stubborn Generator](https://stubborn.fun/) | Crie seu personagem ideal, alterando e sobrepondo-os, usando nosso gerador absolutamente de graça. | Sim | Yes | No |
+| [Toy Faces](https://amritpaldesign.com/toy-faces) | É uma biblioteca divertida e diversificada de avatares 3D para seus modelos de design e projetos comerciais. | Sim | Yes | No |
+| [Undraw](https://undraw.co/illustrations) | Navegue para encontrar as imagens que atendem às suas necessidades. Use a geração instantânea de imagens coloridas para combinar com a identidade de sua marca. | Sim | Yes | No |
+| [Vector Creator](https://icons8.com/vector-creator/) | Maneiras ilimitadas de criar designs incríveis para cada necessidade. | Sim | Yes | No |
+| [Whoosh! Illustration Kit](https://www.ls.graphics/illustrations/whoosh) | A mais alta qualidade Mockups, ilustrações e ferramentas de interface do usuário. | Sim / O preço das ilustrações pode variar.| Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## <a name="edicao-imagens"></a>Edição de Imagens
 Link | Descrição | Grátis |
 |---|---|---|
@@ -381,53 +432,6 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
-## <a name="ilustracoes"><a/>Ilustrações
-[3000 Hands](https://www.shapefest.com/expansions/3000-hands)    
-[404 illustrations by kapwing](https://www.kapwing.com/404-illustrations)  
-[404 illustrations](https://error404.fun/)  
-[Abstrakt](https://www.abstrakt.design/)  
-[Absurd Design](https://absurd.design/)  
-[Ara Illustration](https://www.aracreator.com/)  
-[Black illustrations](https://www.blackillustrations.com)  
-[Blob Marker](https://www.blobmaker.app/)  
-[Blush](https://blush.design/)  
-[Construtor de Ilustrações](https://itg.digital/)  
-[Control](https://control.rocks)  
-[Delesign](https://delesign.com/)  
-[Design.ai](https://designs.ai/graphicmaker/)  
-[DrawKit](https://www.drawkit.io)  
-[Flow Lava](https://flowlava.club)  
-[freellustrations](https://freellustrations.com/)  
-[Fresh Folk](https://fresh-folk.com/)  
-[Get Waves](https://getwaves.io/)  
-[GetIllustrations.com](https://www.getillustrations.com/illustration-packs/freebie)  
-[Glaze](https://www.glazestock.com/)  
-[Growww](https://growwwkit.com/illustrations/phonies/)  
-[Humaaans](https://www.humaaans.com/)  
-[Illustrations](https://illlustrations.co/)  
-[IRA Design](https://iradesign.io/)  
-[Karthik Srinivas](https://www.karthiksrinivas.in/)  
-[Kukla Kit](https://www.kukla-kit.com/)  
-[Logo Maker](https://www.brandcrowd.com/)  
-[Lukasadam](https://lukaszadam.com/illustrations)  
-[Manypixels Illustration Gallery](https://www.manypixels.co/gallery/)  
-[Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack)  
-[Mixkit Art](https://mixkit.co/free-stock-art/)  
-[Open Doodles](https://www.opendoodles.com/)  
-[Open Peeps](https://www.openpeeps.com/)  
-[Ouch](https://icons8.com/illustrations)  
-[Paper Illustrations](https://iconscout.com/paper-illustrations)  
-[Sapiens](https://sapiens.ui8.net/)  
-[Scribbles](https://www.scribbbles.design/)  
-[Smash Illustrations](https://usesmash.com/)  
-[Stories by Freepik](https://stories.freepik.com)
-[storyset](https://storyset.com)  
-[storytale.io](https://storytale.io)  
-[Stubborn Generator](https://stubborn.fun/)  
-[Toy Faces](https://amritpaldesign.com/toy-faces)  
-[Undraw](https://undraw.co)  
-[Vector Creator](https://icons8.com/vector-creator/)  
-[Whoosh! Illustration Kit](https://www.ls.graphics/illustrations/whoosh)  
 ## IMAGENS
 [123rf](http://br.123rf.com/)  
 [cc search](http://search.creativecommons.org/)  
