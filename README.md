@@ -126,6 +126,7 @@ Link | Descrição | Grátis |
 | [Ace Front-end](https://www.acefrontend.com/) | Ace Front End tem desafios de codificação completos e práticos, com um passeio detalhado de uma solução de entrevista perfeita. | Sim | Yes | No |
 | [App Ideas](https://github.com/florinpop17/app-ideas) | Repositorio com diversos projetos separados por niveis. Esta não é apenas uma lista simples de projetos, mas uma coleção que descreve cada projeto em detalhes suficientes para que você possa desenvolvê-lo do zero. | Sim | Yes | No |
 | [Codier](https://codier.io/) | Explore e tente desafios de codificação de front-end. | Sim | Yes | No |
+| [Codewell](https://www.codewell.cc/) | Melhore suas habilidades em HTML e CSS praticando em modelos de design reais. | Sim | Yes | No |
 | [CSS Battle](https://cssbattle.dev) | Use suas habilidades de CSS para replicar desafios com o menor código possível. | Sim | Yes | No |
 | [DevChallenge](https://devchallenge.com.br) | Melhore suas habilidades com desafios de front-end, back-end e mobile. | Sim | Yes | No |
 | [Edabit](https://edabit.com/challenges) | Nossos desafios pequenos são um atalho no labirinto de aprender a codificar. Ganhe XP, desbloqueie conquistas e suba de nível. Fique realmente bom em codificação, muito rápido. | Sim | Yes | No |
@@ -134,6 +135,7 @@ Link | Descrição | Grátis |
 | [JSBeginners](https://jsbeginners.com/) | Obtenha mais de 100 ótimas ideias para JavaScript iniciante | Sim | Yes | No |
 | [JSchallenger](https://www.jschallenger.com/) | Desafios de Javascript grátis. Aprenda Javascript online resolvendo exercícios de codificação. Javascript para todos os níveis. Resolva tarefas Javascript do iniciante ao avançado. | Sim | Yes | No |
 | [WoMakersCode Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end) | Uma série de desafios e tutoriais sobre Desenvolvimento Front-end. | Sim | Yes | No |
+
 
 **[⬆ Voltar para o indice](#indice)**
 
