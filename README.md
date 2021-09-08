@@ -433,56 +433,59 @@ Link | Descrição | Grátis |
 | [Xd Guru](https://xdguru.com) | A maior coleção de recursos gratuitos e premium para Adobe XD. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
-
-## IMAGENS
-[123rf](http://br.123rf.com/)  
-[cc search](http://search.creativecommons.org/)  
-[CleanPNG](https://cleanpng.com)  
-[cupcake](http://cupcake.nilssonlee.se/)  
-[deathtothestockphoto](http://deathtothestockphoto.com/)  
-[epicantus](http://epicantus.tumblr.com/)  
-[everypixel](https://everypixel.com)  
-[foodiesfeed](http://foodiesfeed.com/)  
-[fotolia](https://us.fotolia.com/)  
-[Freepik](https://br.freepik.com)  
-[freestocks](http://freestocks.org/)  
-[getrefe](http://getrefe.tumblr.com/)  
-[gratisography](http://www.gratisography.com/)  
-[Grátis PNG](https://gratispng.com)  
-[isorepublic](https://isorepublic.com)  
-[jaymantri](http://jaymantri.com/)  
-[jeshoots](http://jeshoots.com/)  
-[kaboompics](https://kaboompics.com/)   
-[lifeofpix](http://www.lifeofpix.com/)  
-[littlevisuals](http://littlevisuals.co/)  
-[morguefile](https://morguefile.com/)  
-[negativespace](http://negativespace.co/)  
-[newoldstock](http://nos.twnsnd.co/)  
-[Pexels](https://www.pexels.com)      
-[photl](http://www.photl.com/)  
-[photodune](https://photodune.net/)  
-[ProfilePictureMaker](https://pfpmaker.com/)  
-[picjumbo](https://picjumbo.com/)  
-[PNGALL](https://pngall.com)  
-[PNGTREE](https://pt.pngtree.com)  
-[pixabay](https://pixabay.com)     
-[raumrot](http://www.raumrot.com/10/)  
-[reshot](https://reshot.com)    
-[Responsive BreakPoints](https://www.responsivebreakpoints.com/)   
-[shutterstock](https://www.shutterstock.com/)  
-[snapwiresnaps](http://snapwiresnaps.tumblr.com/)  
-[splitshire](http://www.splitshire.com/)  
-[stocksnap](https://stocksnap.io/)  
-[stockvault](http://www.stockvault.net/)  
-[superfamous](http://superfamous.com/)  
-[Stickpng](https://stickpng.com)  
-[tookapic](https://stock.tookapic.com/)  
-[uhdwallpapers](http://www.uhdwallpapers.org/)  
-[Unsplash](https://unsplash.com)       
-[visualhunt](https://visualhunt.com/)   
-[VectorMagic](https://vectormagic.com/)  
  
- ## Contribuidores
+ ## IMAGENS
+Link | Descrição | Grátis |
+|---|---|---|
+| [123RF](http://br.123rf.com/) | Pesquise e faça download de imagens em alta resolução, imagens royalty-free, ilustrações, vetoriais e muito mais. | Não  | Yes | No |
+| [CC Search](http://search.creativecommons.org/) | Uma nova ferramenta de busca Creative Commons para criadores que buscam descobrir e reutilizar recursos livres com maior facilidade. | Sim  | Yes | No |
+| [CleanPNG](https://cleanpng.com) | Descubra imagens e ilustrações de fundo transparentes. Melhor qualidade, download gratuito e ilimitado. | Sim  | Yes | No |
+| [Cupcake Nilssonlee](http://cupcake.nilssonlee.se/) | Fotos tiradas por, Jonas Wimmerström, e estão licenciadas sob a licença Creative Commons CC0. Isso significa que você é livre para copiar, modificar, distribuir e executar o trabalho, mesmo para fins comerciais, tudo sem custos e sem pedir permissão.  | Sim  | Yes | No |
+| [Death to Stock](http://deathtothestockphoto.com/) | Death to Stock é uma cooperativa de propriedade de um artista que oferece as mais recentes fotos e vídeos autênticos; com downloads ilimitados e novos trabalhos adicionados a cada mês. | Trial  | Yes | No |
+| [](http://epicantus.tumblr.com/) | Descrição | Grátis  | Yes | No |
+| [epicantus](http://epicantus.tumblr.com/) | Descrição | Grátis  | Yes | No |
+| [everypixel](https://everypixel.com)   | Descrição | Grátis  | Yes | No |
+| [foodiesfeed](http://foodiesfeed.com/)  | Descrição | Grátis  | Yes | No |
+| [fotolia](https://us.fotolia.com/) | Descrição | Grátis  | Yes | No |
+| [Freepik](https://br.freepik.com) | Descrição | Grátis  | Yes | No |
+| [freestocks](http://freestocks.org/) | Descrição | Grátis  | Yes | No |
+| [getrefe](http://getrefe.tumblr.com/) | Descrição | Grátis  | Yes | No |
+| [gratisography](http://www.gratisography.com/) | Descrição | Grátis  | Yes | No |
+| [Grátis PNG](https://gratispng.com) | Descrição | Grátis  | Yes | No |
+| [isorepublic](https://isorepublic.com) | Descrição | Grátis  | Yes | No |
+| [jaymantri](http://jaymantri.com/) | Descrição | Grátis  | Yes | No |
+| [jeshoots](http://jeshoots.com/) | Descrição | Grátis  | Yes | No |
+| [kaboompics](https://kaboompics.com/) | Descrição | Grátis  | Yes | No |
+| [lifeofpix](http://www.lifeofpix.com/)  | Descrição | Grátis  | Yes | No |
+| [littlevisuals](http://littlevisuals.co/) | Descrição | Grátis  | Yes | No |
+| [negativespace](http://negativespace.co/)  | Descrição | Grátis  | Yes | No |
+| [newoldstock](http://nos.twnsnd.co/) | Descrição | Grátis  | Yes | No |
+| [Pexels](https://www.pexels.com) | Descrição | Grátis  | Yes | No |
+| [photodune](https://photodune.net/) | Descrição | Grátis  | Yes | No |
+| [ProfilePictureMaker](https://pfpmaker.com/) | Descrição | Grátis  | Yes | No |
+| [picjumbo](https://picjumbo.com/) | Descrição | Grátis  | Yes | No |
+| [PNGALL](https://pngall.com) | Descrição | Grátis  | Yes | No |
+| [PNGTREE](https://pt.pngtree.com) | Descrição | Grátis  | Yes | No |
+| [pixabay](https://pixabay.com) | Descrição | Grátis  | Yes | No |
+| [raumrot](http://www.raumrot.com/10/) | Descrição | Grátis  | Yes | No |
+| [reshot](https://reshot.com) | Descrição | Grátis  | Yes | No |
+| [Responsive BreakPoints](https://www.responsivebreakpoints.com/) | Descrição | Grátis  | Yes | No |
+| [shutterstock](https://www.shutterstock.com/) | Descrição | Grátis  | Yes | No |
+| [snapwiresnaps](http://snapwiresnaps.tumblr.com/) | Descrição | Grátis  | Yes | No |
+| [splitshire](http://www.splitshire.com/) | Descrição | Grátis  | Yes | No |
+| [stocksnap](https://stocksnap.io/) | Descrição | Grátis  | Yes | No |
+| [stockvault](http://www.stockvault.net/) | Descrição | Grátis  | Yes | No |
+| [superfamous](http://superfamous.com/) | Descrição | Grátis  | Yes | No |
+| [Stickpng](https://stickpng.com) | Descrição | Grátis  | Yes | No |
+| [tookapic](https://stock.tookapic.com/) | Descrição | Grátis  | Yes | No |
+| [uhdwallpapers](http://www.uhdwallpapers.org/ | Descrição | Grátis  | Yes | No |
+| [Unsplash](https://unsplash.com) | Descrição | Grátis  | Yes | No |
+| [visualhunt](https://visualhunt.com/) | Descrição | Grátis  | Yes | No |
+| [VectorMagic](https://vectormagic.com/) | Descrição | Grátis  | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## Contribuidores
 
 <table>
   <tr>
