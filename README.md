@@ -442,7 +442,6 @@ Link | Descrição | Grátis |
 | [CleanPNG](https://cleanpng.com) | Descubra imagens e ilustrações de fundo transparentes. Melhor qualidade, download gratuito e ilimitado. | Sim  | Yes | No |
 | [Cupcake Nilssonlee](http://cupcake.nilssonlee.se/) | Fotos tiradas por, Jonas Wimmerström, e estão licenciadas sob a licença Creative Commons CC0. Isso significa que você é livre para copiar, modificar, distribuir e executar o trabalho, mesmo para fins comerciais, tudo sem custos e sem pedir permissão.  | Sim  | Yes | No |
 | [Death to Stock](http://deathtothestockphoto.com/) | Death to Stock é uma cooperativa de propriedade de um artista que oferece as mais recentes fotos e vídeos autênticos; com downloads ilimitados e novos trabalhos adicionados a cada mês. | Trial  | Yes | No |
-| [](http://epicantus.tumblr.com/) | Descrição | Grátis  | Yes | No |
 | [epicantus](http://epicantus.tumblr.com/) | Descrição | Grátis  | Yes | No |
 | [everypixel](https://everypixel.com)   | Descrição | Grátis  | Yes | No |
 | [foodiesfeed](http://foodiesfeed.com/)  | Descrição | Grátis  | Yes | No |
@@ -478,7 +477,7 @@ Link | Descrição | Grátis |
 | [superfamous](http://superfamous.com/) | Descrição | Grátis  | Yes | No |
 | [Stickpng](https://stickpng.com) | Descrição | Grátis  | Yes | No |
 | [tookapic](https://stock.tookapic.com/) | Descrição | Grátis  | Yes | No |
-| [uhdwallpapers](http://www.uhdwallpapers.org/ | Descrição | Grátis  | Yes | No |
+| [uhdwallpapers](https://www.uhdwallpapers.org/) | Descrição | Grátis  | Yes | No |
 | [Unsplash](https://unsplash.com) | Descrição | Grátis  | Yes | No |
 | [visualhunt](https://visualhunt.com/) | Descrição | Grátis  | Yes | No |
 | [VectorMagic](https://vectormagic.com/) | Descrição | Grátis  | Yes | No |
