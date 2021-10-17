@@ -442,28 +442,27 @@ Link | Descrição | Grátis |
 | [CleanPNG](https://cleanpng.com) | Descubra imagens e ilustrações de fundo transparentes. Melhor qualidade, download gratuito e ilimitado. | Sim  | Yes | No |
 | [Cupcake Nilssonlee](http://cupcake.nilssonlee.se/) | Fotos tiradas por, Jonas Wimmerström, e estão licenciadas sob a licença Creative Commons CC0. Isso significa que você é livre para copiar, modificar, distribuir e executar o trabalho, mesmo para fins comerciais, tudo sem custos e sem pedir permissão.  | Sim  | Yes | No |
 | [Death to Stock](http://deathtothestockphoto.com/) | Death to Stock é uma cooperativa de propriedade de um artista que oferece as mais recentes fotos e vídeos autênticos; com downloads ilimitados e novos trabalhos adicionados a cada mês. | Trial  | Yes | No |
-| [epicantus](http://epicantus.tumblr.com/) | Descrição | Grátis  | Yes | No |
-| [everypixel](https://everypixel.com)   | Descrição | Grátis  | Yes | No |
+| [everypixel](https://everypixel.com)   | Localizador de imagens de estoque para todos que odeiam fotos de banco de imagens ruins. Use-o para encontrar as melhores imagens licenciadas pelo menor preço. Mais de 50 fontes de imagem. | Não  | Yes | No |
 | [foodiesfeed](http://foodiesfeed.com/)  | Baixe mais de 2.000 fotos de alimentos ⋆ As melhores fotos de alimentos grátis para uso comercial ⋆ licença CC0. | Grátis  | Yes | No |
 | [fotolia](https://us.fotolia.com/) | Encontre ativos únicos de alta qualidade e crie algo incrível hoje. Imagens Editorial. Integrado em aplicativos. Planos flexíveis. Tipos: Imagens de pessoas, Imagens de comida, Imagens de notícias, Fotos de empresas. | Grátis  | Yes | No |
 | [Freepik](https://br.freepik.com) | Milhões de recursos gráficos grátis ✓ Vetores ✓ Fotos de arquivo ✓ PSD ✓ Ícones ✓ Tudo o que você precisa para seus projetos criativos. | Grátis  | Yes | No |
-| [freestocks](http://freestocks.org/) | Descrição | Grátis  | Yes | No |
-| [getrefe](http://getrefe.tumblr.com/) | Descrição | Grátis  | Yes | No |
+| [freestocks](http://freestocks.org/) | Banco de fotos grátis para uso pessoal e comercial. Imagens de alta qualidade para seu site e blog gratuitamente. | Grátis  | Yes | No |
+| [getrefe](http://getrefe.tumblr.com/) | Fotos da vida real | Grátis  | Yes | No |
 | [gratisography](http://www.gratisography.com/) | A coleção mais peculiar do mundo de imagens gratuitas de alta resolução que você pode usar em seus projetos pessoais e comerciais. | Grátis  | Yes | No |
 | [Grátis PNG](https://gratispng.com) | Milhões de arquivos HD png transparentes. Pesquisa gratuita, ilimitada e fácil | Grátis  | Yes | No |
 | [isorepublic](https://isorepublic.com) | Disponibilizamos para download as melhores imagens e vídeos em alta resolução, todos gratuitos para uso pessoal e comercial. | Grátis  | Yes | No |
-| [jaymantri](http://jaymantri.com/) | Descrição | Grátis  | Yes | No |
-| [jeshoots](http://jeshoots.com/) | Descrição | Grátis  | Yes | No |
-| [kaboompics](https://kaboompics.com/) | Descrição | Grátis  | Yes | No |
-| [lifeofpix](http://www.lifeofpix.com/)  | Descrição | Grátis  | Yes | No |
-| [littlevisuals](http://littlevisuals.co/) | Descrição | Grátis  | Yes | No |
-| [negativespace](http://negativespace.co/)  | Descrição | Grátis  | Yes | No |
-| [newoldstock](http://nos.twnsnd.co/) | Descrição | Grátis  | Yes | No |
-| [Pexels](https://www.pexels.com) | Descrição | Grátis  | Yes | No |
-| [photodune](https://photodune.net/) | Descrição | Grátis  | Yes | No |
-| [ProfilePictureMaker](https://pfpmaker.com/) | Descrição | Grátis  | Yes | No |
-| [picjumbo](https://picjumbo.com/) | Descrição | Grátis  | Yes | No |
-| [PNGALL](https://pngall.com) | Descrição | Grátis  | Yes | No |
+| [jaymantri](http://jaymantri.com/) | Fotos grátis. faça qualquer coisa (CC0). faça mágica. | Grátis  | Yes | No |
+| [jeshoots](http://jeshoots.com/) | Jeshoots é um banco de fotos onde você pode baixar fotos temáticas originais e maquetes de Jan Vasek gratuitamente. | Grátis  | Yes | No |
+| [kaboompics](https://kaboompics.com/) | Todos os dias, novas fotos da mais alta qualidade são adicionadas ao Kaboompics. Você pode baixá-los e usá-los para seus próprios fins | Grátis  | Yes | No |
+| [lifeofpix](http://www.lifeofpix.com/)  | Fotografia gratuita de alta resolução. Compartilhe e baixe imagens gratuitamente. | Grátis  | Yes | No |
+| [littlevisuals](http://littlevisuals.co/) | Imagens gratuitas de alta resolução. | Grátis  | Yes | No |
+| [negativespace](http://negativespace.co/)  | Lindas imagens gratuitas para uso pessoal e comercial. Todas as fotos de negócios, alimentos, pessoas e tecnologia são gratuitas, em alta resolução. | Grátis  | Yes | No | 
+| [newoldstock](http://nos.twnsnd.co/) | Fotos vintage de arquivos públicos. Livre de restrições de direitos autorais conhecidas. Recapturando a história. | Grátis  | Yes | No |
+| [Pexels](https://www.pexels.com) | Banco de fotos e vídeos gratuitos que você pode usar em qualquer lugar. Navegue por milhões de imagens de alta qualidade livres de direitos autorais e imagens livres de direitos autorais. | Grátis  | Yes | No |
+| [photodune](https://photodune.net/) | Descubra 2925100 Banco de imagens e fotos royalty-free no PhotoDune. | Grátis  | Yes | No |
+| [ProfilePictureMaker](https://pfpmaker.com/) | Solte a imagem em qualquer lugar. (1 imagem por vez). PFPMaker - Crie uma foto de perfil incrível a partir de qualquer foto. | Grátis  | Yes | No |
+| [picjumbo](https://picjumbo.com/) | picjumbo foi citado como um dos melhores sites de fotos de ações gratuitas por várias publicações online populares e internacionais. | Grátis  | Yes | No |
+| [PNGALL](https://pngall.com) | PNGAll é um blog PNG onde você pode encontrar as melhores imagens PNG gratuitas de alta qualidade em várias categorias, como animais, comida, natureza, coisas, objetos e muito mais. | Grátis  | Yes | No |
 | [PNGTREE](https://pt.pngtree.com) | Descrição | Grátis  | Yes | No |
 | [pixabay](https://pixabay.com) | Descrição | Grátis  | Yes | No |
 | [raumrot](http://www.raumrot.com/10/) | Descrição | Grátis  | Yes | No |
