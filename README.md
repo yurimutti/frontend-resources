@@ -463,23 +463,21 @@ Link | Descrição | Grátis |
 | [ProfilePictureMaker](https://pfpmaker.com/) | Solte a imagem em qualquer lugar. (1 imagem por vez). PFPMaker - Crie uma foto de perfil incrível a partir de qualquer foto. | Grátis  | Yes | No |
 | [picjumbo](https://picjumbo.com/) | picjumbo foi citado como um dos melhores sites de fotos de ações gratuitas por várias publicações online populares e internacionais. | Grátis  | Yes | No |
 | [PNGALL](https://pngall.com) | PNGAll é um blog PNG onde você pode encontrar as melhores imagens PNG gratuitas de alta qualidade em várias categorias, como animais, comida, natureza, coisas, objetos e muito mais. | Grátis  | Yes | No |
-| [PNGTREE](https://pt.pngtree.com) | Descrição | Grátis  | Yes | No |
-| [pixabay](https://pixabay.com) | Descrição | Grátis  | Yes | No |
-| [raumrot](http://www.raumrot.com/10/) | Descrição | Grátis  | Yes | No |
-| [reshot](https://reshot.com) | Descrição | Grátis  | Yes | No |
-| [Responsive BreakPoints](https://www.responsivebreakpoints.com/) | Descrição | Grátis  | Yes | No |
-| [shutterstock](https://www.shutterstock.com/) | Descrição | Grátis  | Yes | No |
-| [snapwiresnaps](http://snapwiresnaps.tumblr.com/) | Descrição | Grátis  | Yes | No |
-| [splitshire](http://www.splitshire.com/) | Descrição | Grátis  | Yes | No |
-| [stocksnap](https://stocksnap.io/) | Descrição | Grátis  | Yes | No |
-| [stockvault](http://www.stockvault.net/) | Descrição | Grátis  | Yes | No |
-| [superfamous](http://superfamous.com/) | Descrição | Grátis  | Yes | No |
-| [Stickpng](https://stickpng.com) | Descrição | Grátis  | Yes | No |
-| [tookapic](https://stock.tookapic.com/) | Descrição | Grátis  | Yes | No |
-| [uhdwallpapers](https://www.uhdwallpapers.org/) | Descrição | Grátis  | Yes | No |
-| [Unsplash](https://unsplash.com) | Descrição | Grátis  | Yes | No |
-| [visualhunt](https://visualhunt.com/) | Descrição | Grátis  | Yes | No |
-| [VectorMagic](https://vectormagic.com/) | Descrição | Grátis  | Yes | No |
+| [PNGTREE](https://pt.pngtree.com) | Baixe grátis de fundo HD de alta qualidade para o seu trabalho impressionante. Pngtree: Biblioteca profissional, baixe gratuitamente todos os dias. | Grátis  | Yes | No |
+| [pixabay](https://pixabay.com) | Pixabay é uma comunidade vibrante de criativos, compartilhando imagens, vídeos e músicas sem direitos autorais. | Grátis  | Yes | No |
+| [raumrot](http://www.raumrot.com/10/) | Se você se inscrever com seu e-mail, receberá 10 imagens a cada 10 dias como forma de descobrir novos conteúdos. | Grátis  | Yes | No |
+| [reshot](https://reshot.com) | Projete livremente com downloads instantâneos de ícones SVG com curadoria, ilustrações vetoriais e fotos de arquivo. Tudo grátis com licenciamento comercial. | Grátis  | Yes | No |
+| [Responsive BreakPoints](https://www.responsivebreakpoints.com/) | Automatize a geração de breakpoints responsivos. | Grátis  | Yes | No |
+| [shutterstock](https://www.shutterstock.com/) | Encontre imagens para qualquer projeto: e-mails, apresentações, posts para redes sociais. | Grátis  | Yes | No |
+| [splitshire](http://www.splitshire.com/) | O melhor banco de imagens e vídeos gratuitos que são absolutamente sem quaisquer restrições de direitos autorais (CC0) - gratuitos e legais - sem atribuição necessária. | Grátis  | Yes | No |
+| [stocksnap](https://stocksnap.io/) | A melhor fonte de fotos de estoque gratuitas, CC0, faça o que quiser com. Navegue e baixe milhares de imagens livres de direitos autorais. Nenhuma atribuição necessária. | Grátis  | Yes | No |
+| [stockvault](http://www.stockvault.net/) | 139.883 fotos de stock grátis, texturas, fundos e gráficos para seu próximo projeto. Nenhuma atribuição necessária. | Grátis  | Yes | No |
+| [Stickpng](https://stickpng.com) | O StickPNG é uma comunidade vibrante de pessoas criativas que compartilham imagens PNG transparentes que você pode baixar gratuitamente. | Grátis  | Yes | No |
+| [tookapic](https://stock.tookapic.com/) | O Projeto 365 é um desafio fotográfico. Tire uma foto por dia para se descobrir, se expressar e melhorar seu dia a dia. | Grátis  | Yes | No |
+| [uhdwallpapers](https://www.uhdwallpapers.org/) | Um site com papéis de parede em alta resolução (UHD 5K, ultra HD 4K 3840x2160, full HD 1920x1080) para telefones e desktop. | Grátis  | Yes | No |
+| [Unsplash](https://unsplash.com) | Imagens e fotos lindas e gratuitas que você pode baixar e usar em qualquer projeto. Melhor do que qualquer foto royalty free ou banco de imagens. | Grátis  | Yes | No |
+| [visualhunt](https://visualhunt.com/) | Pesquise visualmente os melhores produtos e ideias. Com curadoria de especialistas, desenvolvido pela comunidade. | Grátis  | Yes | No |
+| [VectorMagic](https://vectormagic.com/) | Vector Magic analisa sua imagem e detecta automaticamente as configurações apropriadas para vetorizá-la. | Grátis  | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
