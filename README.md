@@ -444,14 +444,14 @@ Link | Descrição | Grátis |
 | [Death to Stock](http://deathtothestockphoto.com/) | Death to Stock é uma cooperativa de propriedade de um artista que oferece as mais recentes fotos e vídeos autênticos; com downloads ilimitados e novos trabalhos adicionados a cada mês. | Trial  | Yes | No |
 | [epicantus](http://epicantus.tumblr.com/) | Descrição | Grátis  | Yes | No |
 | [everypixel](https://everypixel.com)   | Descrição | Grátis  | Yes | No |
-| [foodiesfeed](http://foodiesfeed.com/)  | Descrição | Grátis  | Yes | No |
-| [fotolia](https://us.fotolia.com/) | Descrição | Grátis  | Yes | No |
-| [Freepik](https://br.freepik.com) | Descrição | Grátis  | Yes | No |
+| [foodiesfeed](http://foodiesfeed.com/)  | Baixe mais de 2.000 fotos de alimentos ⋆ As melhores fotos de alimentos grátis para uso comercial ⋆ licença CC0. | Grátis  | Yes | No |
+| [fotolia](https://us.fotolia.com/) | Encontre ativos únicos de alta qualidade e crie algo incrível hoje. Imagens Editorial. Integrado em aplicativos. Planos flexíveis. Tipos: Imagens de pessoas, Imagens de comida, Imagens de notícias, Fotos de empresas. | Grátis  | Yes | No |
+| [Freepik](https://br.freepik.com) | Milhões de recursos gráficos grátis ✓ Vetores ✓ Fotos de arquivo ✓ PSD ✓ Ícones ✓ Tudo o que você precisa para seus projetos criativos. | Grátis  | Yes | No |
 | [freestocks](http://freestocks.org/) | Descrição | Grátis  | Yes | No |
 | [getrefe](http://getrefe.tumblr.com/) | Descrição | Grátis  | Yes | No |
-| [gratisography](http://www.gratisography.com/) | Descrição | Grátis  | Yes | No |
-| [Grátis PNG](https://gratispng.com) | Descrição | Grátis  | Yes | No |
-| [isorepublic](https://isorepublic.com) | Descrição | Grátis  | Yes | No |
+| [gratisography](http://www.gratisography.com/) | A coleção mais peculiar do mundo de imagens gratuitas de alta resolução que você pode usar em seus projetos pessoais e comerciais. | Grátis  | Yes | No |
+| [Grátis PNG](https://gratispng.com) | Milhões de arquivos HD png transparentes. Pesquisa gratuita, ilimitada e fácil | Grátis  | Yes | No |
+| [isorepublic](https://isorepublic.com) | Disponibilizamos para download as melhores imagens e vídeos em alta resolução, todos gratuitos para uso pessoal e comercial. | Grátis  | Yes | No |
 | [jaymantri](http://jaymantri.com/) | Descrição | Grátis  | Yes | No |
 | [jeshoots](http://jeshoots.com/) | Descrição | Grátis  | Yes | No |
 | [kaboompics](https://kaboompics.com/) | Descrição | Grátis  | Yes | No |
