@@ -1,7 +1,6 @@
 ![Background do repositório](bg.jpg)
 
 Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊🏽  
-Conteúdos deverão seguir a ordem alfabética.
 
 ## Indice
 
