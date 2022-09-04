@@ -1,6 +1,6 @@
 ![Background do repositório](bg.jpg)
 
-Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊🏽  
+Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊🏽
 
 ## Indice
 
@@ -14,8 +14,9 @@ Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊�
 * [Editor de Markdown](#editor-markdown)
 * [Emoji](#emoji)
 * [Extensões do Chrome](#extensoes-chrome)
+* [Ferramentas](#ferramentas)
 * [Fontes](#fontes)
-* [Host gratuito](#host-gratuito)
+* [Hospedagens](#hospedagens)
 * [HTML](#html)
 * [Ícones](#icones)
 * [Ilustrações](#ilustracoes)
@@ -51,10 +52,11 @@ Link | Descrição | Grátis |
 |---|---|---|
 | [TinyPNG](https://tinypng.com/) | Compressão inteligente de PNG e JPEG | Sim | Yes | No |
 | [websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/) | Comprima seus arquivos PNG / JPG em até 80% e mantenha total transparência | Sim | Yes | No |
+| [Squoosh](https://squoosh.app/) | Compressão de imagens para web em diversos formatos. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
-## CORES
+## Cores
 Link | Descrição | Grátis |
 |---|---|---|
 | [0to255](https://www.0to255.com) | Ferramenta de cor que facilita o clareamento e o escurecimento das cores | Sim | Yes | No |
@@ -81,6 +83,7 @@ Link | Descrição | Grátis |
 | [Scheme Color](https://www.schemecolor.com) | Um site bem cotado para baixar, criar e compartilhar milhares de belas combinações de cores | Sim | Yes | No |
 | [Tint and Shade Generator](https://maketintsandshades.com) | Crie facilmente tons e sombras que correspondam à saída do Chrome DevTools, PostCSS e Sass | Sim | Yes | No |
 | [uiGradients](https://uigradients.com) | Uma coleção escolhida a dedo de lindos gradientes de cores para designers e desenvolvedores | Sim | Yes | No |
+| [UI Colors](https://uicolors.app/) | Cria uma paleta de cores conforme a escala do TailwindCSS, pode exportar como JSON, SCSS e SVG. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
@@ -121,7 +124,8 @@ Link | Descrição | Grátis |
 ## Desafios
 Link | Descrição | Grátis |
 |---|---|---|
-| [30 days CSS](https://30dayscss.vercel.app/challengesList) | 30 desafios de css. | Sim | Yes | No |
+| [JavaScript30](https://javascript30.com/) | 30 desafios de JS. | Sim | Yes | No |
+| [30 days CSS](https://30dayscss.vercel.app/challengesList) | 30 desafios de CSS. | Sim | Yes | No |
 | [Ace Front-end](https://www.acefrontend.com/) | Ace Front End tem desafios de codificação completos e práticos, com um passeio detalhado de uma solução de entrevista perfeita. | Sim | Yes | No |
 | [App Ideas](https://github.com/florinpop17/app-ideas) | Repositorio com diversos projetos separados por niveis. Esta não é apenas uma lista simples de projetos, mas uma coleção que descreve cada projeto em detalhes suficientes para que você possa desenvolvê-lo do zero. | Sim | Yes | No |
 | [Codier](https://codier.io/) | Explore e tente desafios de codificação de front-end. | Sim | Yes | No |
@@ -138,12 +142,14 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
-## Host Gratuito
+## Hospedagens
 Link | Descrição | Grátis |
 |---|---|---|
 | [000WebHost](https://br.000webhost.com/) | Hospedagem de Sites Grátis com PHP, MySQL, Criador de Sites grátis, cPanel e sem anúncios. Sua hospedagem de sites é quase ilimitada e com domínio. | Sim | Yes | No |
 | [Github Pages](https://pages.github.com/) | Hospedado diretamente de seu repositório GitHub. Basta editar, enviar por push e suas alterações estarão ativas. | Sim | Yes | No |
-| [Heroku](https://www.heroku.com/) | Heroku é uma plataforma como serviço (PaaS) que permite aos desenvolvedores construir, executar e operar aplicativos inteiramente na nuvem. | Sim | Yes | No |
+| [Heroku](https://www.heroku.com/) | Heroku é uma plataforma como serviço (PaaS) que permite aos desenvolvedores construir, executar e operar aplicativos inteiramente na nuvem. | Não | Yes | No |
+| [Fly](https://www.fly.io/) | Fly é uma plataforma como serviço (PaaS) para executar aplicações full stack e bancos de dados próximos a seus usuários. | Sim ou preço sob demanda conforme o consumo | Yes | No |
+| [CloudFlare Pages](https://pages.cloudflare.com/) | Cloudflare Pages é uma plataforma JAMstack para desenvolvedores frontend para colaborar e implantar sites. | Sim ou planos de UD$ 20.00 e US$ 200.00 | Yes | No |
 | [InfinityFree](https://infinityfree.net/) | Hospedagem de sites totalmente gratuita com espaço em disco e largura de banda ilimitados. | Sim | Yes | No |
 | [Netlify](https://www.netlify.com/) | Um fluxo de trabalho intuitivo baseado em Git e uma plataforma sem servidor poderosa para construir, implantar e colaborar em aplicativos da web. | Sim | Yes | No |
 | [Vercel](https://vercel.com/dashboard) | O Vercel combina a melhor experiência do desenvolvedor com um foco obsessivo no desempenho do usuário final. Nossa plataforma permite que as equipes de front-end façam seu melhor trabalho. | Sim | Yes | No |
@@ -289,6 +295,14 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## Ferramentas
+Link | Descrição | Grátis |
+|---|---|---|
+| [Transform Tools](https://transform.tools/) | Um conversor de formatos poliglota | Sim  | Yes | No |
+| [SVG 2 JSX](https://svg2jsx.com/) | Converte seu arquivo SVG num componente React. | Sim | Yes | No |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## Fontes
 Link | Descrição | Grátis |
 |---|---|---|
@@ -333,6 +347,8 @@ Link | Descrição | Grátis |
 | [Immediately Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/) | Blog post sobre, Expressão de Função Imediatamente Invocada (IIFE) | Sim | Yes | No |
 | [Lightbox](https://lokeshdhakar.com/projects/lightbox2/) | É uma pequena biblioteca javascript usada para sobrepor imagens na parte superior da página atual. É fácil de configurar e funciona em todos os navegadores modernos. | Sim | Yes | No |
 | [Micro JS](http://microjs.com/) | Conjunto de microestruturas. Microestruturas são definitivamente o canivete do mundo da biblioteca JavaScript: curto, doce, direto ao ponto. E com 5k ou menos. | Sim | Yes | No |
+| [Dinero.js](https://dinerojs.com/) | É uma biblioteca open source para trabalhar com valores monetários no JavaScript. | Sim | Yes | No |
+| [Date-fns](https://date-fns.org/) | É um pacote open source tendo um conjunto de ferramentas mais abrangente, porém simples e consistente para manipulação de datas no JavaScript. | Sim | Yes | No |
 | [Moment JS](https://momentjs.com) | É um pacote open source que pode ser utilizado para validar, manipular e fazer o parse de datas no JavaScript. | Sim | Yes | No |
 | [Move JS](https://github.com/visionmedia/move.js) | É uma pequena biblioteca JavaScript que torna a animação apoiada em CSS3 extremamente simples e elegante. | Sim | Yes | No |
 | [Moving Letters](https://tobiasahlin.com/moving-letters/) | Texto animado com JavaScript e anime.js. | Sim | Yes | No |
@@ -365,7 +381,7 @@ Link | Descrição | Grátis |
 | [CSSO](http://css.github.io/csso/csso.html) | É um minificador CSS. Ele executa três tipos de transformações: limpeza, compactação e reestruturação. Como resultado, seu CSS se torna muito menor. | Sim | Yes | No |
 | [UglifyJS 3](https://skalman.github.io/UglifyJS-online/) | É uma excelente ferramenta para ajudá-lo a minimizar seu JavaScript! É uma ferramenta testada e comprovada, usada por bibliotecas como o jQuery. | Sim | Yes | No |
 
-**[⬆ Voltar para o indice](#indice)** 
+**[⬆ Voltar para o indice](#indice)**
 
 ## Performance
 Link | Descrição | Grátis |
@@ -432,7 +448,7 @@ Link | Descrição | Grátis |
 | [Xd Guru](https://xdguru.com) | A maior coleção de recursos gratuitos e premium para Adobe XD. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
- 
+
  ## IMAGENS
 Link | Descrição | Grátis |
 |---|---|---|
@@ -455,7 +471,7 @@ Link | Descrição | Grátis |
 | [kaboompics](https://kaboompics.com/) | Todos os dias, novas fotos da mais alta qualidade são adicionadas ao Kaboompics. Você pode baixá-los e usá-los para seus próprios fins | Grátis  | Yes | No |
 | [lifeofpix](http://www.lifeofpix.com/)  | Fotografia gratuita de alta resolução. Compartilhe e baixe imagens gratuitamente. | Grátis  | Yes | No |
 | [littlevisuals](http://littlevisuals.co/) | Imagens gratuitas de alta resolução. | Grátis  | Yes | No |
-| [negativespace](http://negativespace.co/)  | Lindas imagens gratuitas para uso pessoal e comercial. Todas as fotos de negócios, alimentos, pessoas e tecnologia são gratuitas, em alta resolução. | Grátis  | Yes | No | 
+| [negativespace](http://negativespace.co/)  | Lindas imagens gratuitas para uso pessoal e comercial. Todas as fotos de negócios, alimentos, pessoas e tecnologia são gratuitas, em alta resolução. | Grátis  | Yes | No |
 | [newoldstock](http://nos.twnsnd.co/) | Fotos vintage de arquivos públicos. Livre de restrições de direitos autorais conhecidas. Recapturando a história. | Grátis  | Yes | No |
 | [Pexels](https://www.pexels.com) | Banco de fotos e vídeos gratuitos que você pode usar em qualquer lugar. Navegue por milhões de imagens de alta qualidade livres de direitos autorais e imagens livres de direitos autorais. | Grátis  | Yes | No |
 | [photodune](https://photodune.net/) | Descubra 2925100 Banco de imagens e fotos royalty-free no PhotoDune. | Grátis  | Yes | No |
@@ -524,8 +540,9 @@ Link | Descrição | Grátis |
         </sub>
       </a><br>
     </td>
-    <tr>
-     <td align="center">
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/AdelmoMenezes123">
         <img src="https://avatars.githubusercontent.com/u/44556097?v=4" width="100px;" alt="Foto do Adelmo Menezes"/><br>
         <sub>
@@ -533,6 +550,13 @@ Link | Descrição | Grátis |
         </sub>
       </a><br>
     </td>
-    </tr>
+    <td align="center">
+      <a href="https://github.com/adeonir">
+        <img src="https://github.com/adeonir.png" width="100px;" alt="Foto do Adeonir Kohl"/><br>
+        <sub>
+          <b>Adeonir Kohl</b>
+        </sub>
+      </a><br>
+    </td>
   </tr>
 </table>
