@@ -16,7 +16,7 @@ Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊�
 * [Extensões do Chrome](#extensoes-chrome)
 * [Ferramentas](#ferramentas)
 * [Fontes](#fontes)
-* [Host gratuito](#host-gratuito)
+* [Hospedagens](#hospedagens)
 * [HTML](#html)
 * [Ícones](#icones)
 * [Ilustrações](#ilustracoes)
@@ -52,10 +52,11 @@ Link | Descrição | Grátis |
 |---|---|---|
 | [TinyPNG](https://tinypng.com/) | Compressão inteligente de PNG e JPEG | Sim | Yes | No |
 | [websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/) | Comprima seus arquivos PNG / JPG em até 80% e mantenha total transparência | Sim | Yes | No |
+| [Squoosh](https://squoosh.app/) | Compressão de imagens para web em diversos formatos. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
-## CORES
+## Cores
 Link | Descrição | Grátis |
 |---|---|---|
 | [0to255](https://www.0to255.com) | Ferramenta de cor que facilita o clareamento e o escurecimento das cores | Sim | Yes | No |
@@ -82,6 +83,7 @@ Link | Descrição | Grátis |
 | [Scheme Color](https://www.schemecolor.com) | Um site bem cotado para baixar, criar e compartilhar milhares de belas combinações de cores | Sim | Yes | No |
 | [Tint and Shade Generator](https://maketintsandshades.com) | Crie facilmente tons e sombras que correspondam à saída do Chrome DevTools, PostCSS e Sass | Sim | Yes | No |
 | [uiGradients](https://uigradients.com) | Uma coleção escolhida a dedo de lindos gradientes de cores para designers e desenvolvedores | Sim | Yes | No |
+| [UI Colors](https://uicolors.app/) | Cria uma paleta de cores conforme a escala do TailwindCSS, pode exportar como JSON, SCSS e SVG. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
@@ -139,12 +141,14 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
-## Host Gratuito
+## Hospedagens
 Link | Descrição | Grátis |
 |---|---|---|
 | [000WebHost](https://br.000webhost.com/) | Hospedagem de Sites Grátis com PHP, MySQL, Criador de Sites grátis, cPanel e sem anúncios. Sua hospedagem de sites é quase ilimitada e com domínio. | Sim | Yes | No |
 | [Github Pages](https://pages.github.com/) | Hospedado diretamente de seu repositório GitHub. Basta editar, enviar por push e suas alterações estarão ativas. | Sim | Yes | No |
-| [Heroku](https://www.heroku.com/) | Heroku é uma plataforma como serviço (PaaS) que permite aos desenvolvedores construir, executar e operar aplicativos inteiramente na nuvem. | Sim | Yes | No |
+| [Heroku](https://www.heroku.com/) | Heroku é uma plataforma como serviço (PaaS) que permite aos desenvolvedores construir, executar e operar aplicativos inteiramente na nuvem. | Não | Yes | No |
+| [Fly](https://www.fly.io/) | Fly é uma plataforma como serviço (PaaS) para executar aplicações full stack e bancos de dados próximos a seus usuários. | Sim ou preço sob demanda conforme o consumo | Yes | No |
+| [CloudFlare Pages](https://pages.cloudflare.com/) | Cloudflare Pages é uma plataforma JAMstack para desenvolvedores frontend para colaborar e implantar sites. | Sim ou planos de UD$ 20.00 e US$ 200.00 | Yes | No |
 | [InfinityFree](https://infinityfree.net/) | Hospedagem de sites totalmente gratuita com espaço em disco e largura de banda ilimitados. | Sim | Yes | No |
 | [Netlify](https://www.netlify.com/) | Um fluxo de trabalho intuitivo baseado em Git e uma plataforma sem servidor poderosa para construir, implantar e colaborar em aplicativos da web. | Sim | Yes | No |
 | [Vercel](https://vercel.com/dashboard) | O Vercel combina a melhor experiência do desenvolvedor com um foco obsessivo no desempenho do usuário final. Nossa plataforma permite que as equipes de front-end façam seu melhor trabalho. | Sim | Yes | No |
