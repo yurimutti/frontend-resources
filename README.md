@@ -346,6 +346,8 @@ Link | Descrição | Grátis |
 | [Immediately Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/) | Blog post sobre, Expressão de Função Imediatamente Invocada (IIFE) | Sim | Yes | No |
 | [Lightbox](https://lokeshdhakar.com/projects/lightbox2/) | É uma pequena biblioteca javascript usada para sobrepor imagens na parte superior da página atual. É fácil de configurar e funciona em todos os navegadores modernos. | Sim | Yes | No |
 | [Micro JS](http://microjs.com/) | Conjunto de microestruturas. Microestruturas são definitivamente o canivete do mundo da biblioteca JavaScript: curto, doce, direto ao ponto. E com 5k ou menos. | Sim | Yes | No |
+| [Dinero.js](https://dinerojs.com/) | É uma biblioteca open source para trabalhar com valores monetários no JavaScript. | Sim | Yes | No |
+| [Date-fns](https://date-fns.org/) | É um pacote open source tendo um conjunto de ferramentas mais abrangente, porém simples e consistente para manipulação de datas no JavaScript. | Sim | Yes | No |
 | [Moment JS](https://momentjs.com) | É um pacote open source que pode ser utilizado para validar, manipular e fazer o parse de datas no JavaScript. | Sim | Yes | No |
 | [Move JS](https://github.com/visionmedia/move.js) | É uma pequena biblioteca JavaScript que torna a animação apoiada em CSS3 extremamente simples e elegante. | Sim | Yes | No |
 | [Moving Letters](https://tobiasahlin.com/moving-letters/) | Texto animado com JavaScript e anime.js. | Sim | Yes | No |
