@@ -1,6 +1,6 @@
 ![Background do repositório](bg.jpg)
 
-Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊🏽  
+Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊🏽
 
 ## Indice
 
@@ -124,7 +124,8 @@ Link | Descrição | Grátis |
 ## Desafios
 Link | Descrição | Grátis |
 |---|---|---|
-| [30 days CSS](https://30dayscss.vercel.app/challengesList) | 30 desafios de css. | Sim | Yes | No |
+| [JavaScript30](https://javascript30.com/) | 30 desafios de JS. | Sim | Yes | No |
+| [30 days CSS](https://30dayscss.vercel.app/challengesList) | 30 desafios de CSS. | Sim | Yes | No |
 | [Ace Front-end](https://www.acefrontend.com/) | Ace Front End tem desafios de codificação completos e práticos, com um passeio detalhado de uma solução de entrevista perfeita. | Sim | Yes | No |
 | [App Ideas](https://github.com/florinpop17/app-ideas) | Repositorio com diversos projetos separados por niveis. Esta não é apenas uma lista simples de projetos, mas uma coleção que descreve cada projeto em detalhes suficientes para que você possa desenvolvê-lo do zero. | Sim | Yes | No |
 | [Codier](https://codier.io/) | Explore e tente desafios de codificação de front-end. | Sim | Yes | No |
@@ -380,7 +381,7 @@ Link | Descrição | Grátis |
 | [CSSO](http://css.github.io/csso/csso.html) | É um minificador CSS. Ele executa três tipos de transformações: limpeza, compactação e reestruturação. Como resultado, seu CSS se torna muito menor. | Sim | Yes | No |
 | [UglifyJS 3](https://skalman.github.io/UglifyJS-online/) | É uma excelente ferramenta para ajudá-lo a minimizar seu JavaScript! É uma ferramenta testada e comprovada, usada por bibliotecas como o jQuery. | Sim | Yes | No |
 
-**[⬆ Voltar para o indice](#indice)** 
+**[⬆ Voltar para o indice](#indice)**
 
 ## Performance
 Link | Descrição | Grátis |
@@ -447,7 +448,7 @@ Link | Descrição | Grátis |
 | [Xd Guru](https://xdguru.com) | A maior coleção de recursos gratuitos e premium para Adobe XD. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
- 
+
  ## IMAGENS
 Link | Descrição | Grátis |
 |---|---|---|
@@ -470,7 +471,7 @@ Link | Descrição | Grátis |
 | [kaboompics](https://kaboompics.com/) | Todos os dias, novas fotos da mais alta qualidade são adicionadas ao Kaboompics. Você pode baixá-los e usá-los para seus próprios fins | Grátis  | Yes | No |
 | [lifeofpix](http://www.lifeofpix.com/)  | Fotografia gratuita de alta resolução. Compartilhe e baixe imagens gratuitamente. | Grátis  | Yes | No |
 | [littlevisuals](http://littlevisuals.co/) | Imagens gratuitas de alta resolução. | Grátis  | Yes | No |
-| [negativespace](http://negativespace.co/)  | Lindas imagens gratuitas para uso pessoal e comercial. Todas as fotos de negócios, alimentos, pessoas e tecnologia são gratuitas, em alta resolução. | Grátis  | Yes | No | 
+| [negativespace](http://negativespace.co/)  | Lindas imagens gratuitas para uso pessoal e comercial. Todas as fotos de negócios, alimentos, pessoas e tecnologia são gratuitas, em alta resolução. | Grátis  | Yes | No |
 | [newoldstock](http://nos.twnsnd.co/) | Fotos vintage de arquivos públicos. Livre de restrições de direitos autorais conhecidas. Recapturando a história. | Grátis  | Yes | No |
 | [Pexels](https://www.pexels.com) | Banco de fotos e vídeos gratuitos que você pode usar em qualquer lugar. Navegue por milhões de imagens de alta qualidade livres de direitos autorais e imagens livres de direitos autorais. | Grátis  | Yes | No |
 | [photodune](https://photodune.net/) | Descubra 2925100 Banco de imagens e fotos royalty-free no PhotoDune. | Grátis  | Yes | No |
@@ -539,8 +540,9 @@ Link | Descrição | Grátis |
         </sub>
       </a><br>
     </td>
-    <tr>
-     <td align="center">
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/AdelmoMenezes123">
         <img src="https://avatars.githubusercontent.com/u/44556097?v=4" width="100px;" alt="Foto do Adelmo Menezes"/><br>
         <sub>
@@ -548,6 +550,13 @@ Link | Descrição | Grátis |
         </sub>
       </a><br>
     </td>
-    </tr>
+    <td align="center">
+      <a href="https://github.com/adeonir">
+        <img src="https://github.com/adeonir.png" width="100px;" alt="Foto do Adeonir Kohl"/><br>
+        <sub>
+          <b>Adeonir Kohl</b>
+        </sub>
+      </a><br>
+    </td>
   </tr>
 </table>
