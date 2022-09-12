@@ -44,6 +44,7 @@ Link | Descrição | Grátis |
 Link | Descrição | Grátis |
 |---|---|---|
 | [Carbon](https://carbon.now.sh/) | Crie e compartilhe belas imagens de seu código-fonte | Sim | Yes | No |
+| [Ray](https://ray.so/) | Crie belas imagens do seu código! | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
