@@ -546,7 +546,6 @@ Link | Descrição | Grátis |
     <td align="center">
       <a href="https://github.com/AdelmoMenezes123">
         <img src="https://avatars.githubusercontent.com/u/44556097?v=4" width="100px;" alt="Foto do Adelmo Menezes"/><br>
-        <sub>
           <b>Adelmo Menezes</b>
         </sub>
       </a><br>
@@ -556,6 +555,14 @@ Link | Descrição | Grátis |
         <img src="https://github.com/adeonir.png" width="100px;" alt="Foto do Adeonir Kohl"/><br>
         <sub>
           <b>Adeonir Kohl</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Both-Eritons">
+        <img src="https://avatars.githubusercontent.com/u/64214553?v=4" width="100px;" alt="Foto do Eritons"/><br>
+        <sub>
+          <b>Eritons</b>
         </sub>
       </a><br>
     </td>
