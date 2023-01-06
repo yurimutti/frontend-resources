@@ -293,6 +293,7 @@ Link | Descrição | Grátis |
 | [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) | Adiciona um botão da barra de ferramentas com várias ferramentas de desenvolvedor da web. | Sim | Yes | No |
 | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR) | Com essa extensão, você pode inspecionar as fontes da web apenas passando o mouse sobre elas. | Sim | Yes | No |
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=pt-BR) | Wappalyzer é um utilitário de plataforma cruzada que descobre as tecnologias usadas em sites. Ele detecta sistemas de gerenciamento de conteúdo, plataformas de comércio eletrônico, estruturas da web, software de servidor, ferramentas de análise e muito mais. | Sim | Yes | No |
+| [AdobeXD Rem fix](https://chrome.google.com/webstore/detail/adobe-xd-rem-fix/dppocgklbdkbfneadpfbodohoopacpdf?hl=pt-BR) | Exiba automaticamente a conversão dos valores PX para REM e Tailwind nos links de desenvolvimento gerados pelo AdobeXD. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
