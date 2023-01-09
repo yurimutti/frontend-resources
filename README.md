@@ -288,11 +288,12 @@ Link | Descrição | Grátis |
 | [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR) | Capture uma screenshot de sua página atual inteira sem solicitar nenhuma permissão extra! | Sim | Yes | No |
 | [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=pt-BR) | O iluminador JSON / JSONP mais bonito e personalizável que seus olhos já viram, extensão do Chrome para imprimir JSON e JSONP. | Sim | Yes | No |
 | [Picture-in-Picture Extension](https://lnkd.in/eP6nwSu) | Permite que você assista a vídeos em uma janela flutuante (sempre em cima das outras janelas) para que você possa ficar de olho no que está assistindo enquanto interage com outros sites ou aplicativos. | Sim | Yes | No |
-| [Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=pt-BR) | Uma régua do Web Developer \ Designer para obter dimensões em pixels e posicionamento para medir os elementos em qualquer página da web. | Sim | Yes | No |
+| [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jcbmcnpepaddcedmjdcmhbekjhbfnlff?hl=pt-BR) | Uma régua do Web Developer \ Designer para obter dimensões em pixels e posicionamento para medir os elementos em qualquer página da web. | Sim | Yes | No |
 | [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh) | Extraia cores de qualquer site, extensão que gera paletas de cores. Escolha cores para qualquer site. | Sim | Yes | No |
 | [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) | Adiciona um botão da barra de ferramentas com várias ferramentas de desenvolvedor da web. | Sim | Yes | No |
 | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR) | Com essa extensão, você pode inspecionar as fontes da web apenas passando o mouse sobre elas. | Sim | Yes | No |
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=pt-BR) | Wappalyzer é um utilitário de plataforma cruzada que descobre as tecnologias usadas em sites. Ele detecta sistemas de gerenciamento de conteúdo, plataformas de comércio eletrônico, estruturas da web, software de servidor, ferramentas de análise e muito mais. | Sim | Yes | No |
+| [AdobeXD Rem fix](https://chrome.google.com/webstore/detail/adobe-xd-rem-fix/dppocgklbdkbfneadpfbodohoopacpdf?hl=pt-BR) | Exiba automaticamente a conversão dos valores PX para REM e Tailwind nos links de desenvolvimento gerados pelo AdobeXD. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
