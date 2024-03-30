@@ -203,7 +203,7 @@ Link | Descrição | Grátis |
 | [SVG Icons](http://svgicons.sparkk.fr/) | Escolha um ícone. Tudo que você precisa fazer é copiar e colar o código HTML. | Sim | Yes | No |
 | [Tabler Icons](https://tablericons.com/) | 1280 Ícones SVG gratuitos totalmente personalizáveis. (Licença MIT). | Sim | Yes | No |
 | [Tilda Icons](https://tilda.cc/free-icons/) | Baixe gratuitamente ícones SVG e use-os em seus projetos. Não se esqueça de vincular de volta à fonte. | Sim | Yes | No |
-
+| [Lucide](https://lucide.dev/) | Lucide Icons é uma coleção de ícones de código aberto, com suporte para vários frameworks, incluindo Vue.js, React, Svelte, Preact e Angular.   | Sim | Yes | No |
 **[⬆ Voltar para o indice](#indice)**
 
 ## <a name="ilustracoes"><a/>Ilustrações
