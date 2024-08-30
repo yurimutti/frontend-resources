@@ -10,7 +10,7 @@ Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊�
 * [Cores](#cores)
 * [CSS](#css)
 * [Desafios](#desafios)
-* [Design](#design)
+* [Design Systems](#design-systems)
 * [Edição de imagens](#edicao-imagens)
 * [Editor de Markdown](#editor-markdown)
 * [Emoji](#emoji)
@@ -144,7 +144,7 @@ Link | Descrição | Grátis |
 
 **[⬆ Voltar para o indice](#indice)**
 
-## Design
+## <a name="design-systems"></a>Design Systems
 Link | Descrição | Grátis |
 |---|---|---|
 | [Design System](https://designsystems.surf/design-systems) | Plataforma unificada contendo um banco de dados das diversas Ferramentas de Design atuais, organizado por sistemas, componentes, diretórios e blueprints. | Sim | Yes | No |
