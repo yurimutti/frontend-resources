@@ -10,6 +10,7 @@ Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊�
 * [Cores](#cores)
 * [CSS](#css)
 * [Desafios](#desafios)
+* [Design Systems](#design-systems)
 * [Edição de imagens](#edicao-imagens)
 * [Editor de Markdown](#editor-markdown)
 * [Emoji](#emoji)
@@ -140,6 +141,13 @@ Link | Descrição | Grátis |
 | [JSchallenger](https://www.jschallenger.com/) | Desafios de Javascript grátis. Aprenda Javascript online resolvendo exercícios de codificação. Javascript para todos os níveis. Resolva tarefas Javascript do iniciante ao avançado. | Sim | Yes | No |
 | [WoMakersCode Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end) | Uma série de desafios e tutoriais sobre Desenvolvimento Front-end. | Sim | Yes | No |
 
+
+**[⬆ Voltar para o indice](#indice)**
+
+## <a name="design-systems"></a>Design Systems
+Link | Descrição | Grátis |
+|---|---|---|
+| [Design System](https://designsystems.surf/design-systems) | Plataforma unificada contendo um banco de dados das diversas Ferramentas de Design atuais, organizado por sistemas, componentes, diretórios e blueprints. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
@@ -568,6 +576,14 @@ Link | Descrição | Grátis |
           <b>Eritons</b>
         </sub>
       </a><br>
+    </td>
+   <td align="center">
+      <a href="https://github.com/LaisBordallo">
+        <img src="https://avatars.githubusercontent.com/u/66539821?v=4](https://github.com/LaisBordallo/LaisBordallo/blob/06d7e103abd06e386a061ea92d14248d82091fcb/2f569c8e-3f8a-46f5-8d7d-bd160f0deb3a.webp)" width="100px;" alt="Foto do avatar da Laís Pinheiro"/><br>
+        <sub>
+          <b>Laís Pinheiro</b>
+        </sub>
+      </a>
     </td>
   </tr>
 </table>
