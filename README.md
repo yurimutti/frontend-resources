@@ -579,7 +579,7 @@ Link | Descrição | Grátis |
     </td>
    <td align="center">
       <a href="https://github.com/LaisBordallo">
-        <img src="https://avatars.githubusercontent.com/u/66539821?v=4](https://github.com/LaisBordallo/LaisBordallo/blob/06d7e103abd06e386a061ea92d14248d82091fcb/2f569c8e-3f8a-46f5-8d7d-bd160f0deb3a.webp)" width="100px;" alt="Foto do avatar da Laís Pinheiro"/><br>
+        <img src="https://avatars.githubusercontent.com/u/142429349?v=4" width="100px;" alt="Foto do avatar da Laís Pinheiro"/><br>
         <sub>
           <b>Laís Pinheiro</b>
         </sub>
